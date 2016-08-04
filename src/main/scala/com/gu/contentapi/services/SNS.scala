@@ -1,7 +1,7 @@
 package com.gu.contentapi.services
 
 import com.amazonaws.ClientConfiguration
-import com.amazonaws.auth.AWSCredentialsProviderChain
+import com.amazonaws.auth.{AWSCredentialsProviderChain, InstanceProfileCredentialsProvider}
 import com.amazonaws.auth.profile.ProfileCredentialsProvider
 import com.amazonaws.services.sns.AmazonSNSClient
 import com.amazonaws.services.sns.model.{PublishRequest, PublishResult}
@@ -13,13 +13,8 @@ class SNS(val config: Config) {
 
   private lazy val snsClient: AmazonSNSClient = {
 
-    val capiCredentials = new AWSCredentialsProviderChain(
-      new ProfileCredentialsProvider("capi"),
-      new ProfileCredentialsProvider()
-    )
-
     val snsClientConfiguration = new ClientConfiguration().withConnectionTimeout(20000).withSocketTimeout(20000)
-    val snsClient = new AmazonSNSClient(capiCredentials, snsClientConfiguration)
+    val snsClient = new AmazonSNSClient(snsClientConfiguration)
     snsClient.setRegion(config.aws.region)
     snsClient
   }

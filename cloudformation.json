@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "CAPI transformer lambda",
+  "Description": "Editors picks uploader",
 
   "Parameters": {
     "Stage": {
@@ -11,6 +11,10 @@
     "CMSFrontsRoleArn": {
       "Description": "CMSFronts role arn to assume for retrieving fronts.",
       "Type": "String"
+    },
+    "ContentApiNotificationsTopicArn": {
+      "Description": "Content API Notifications topic ARN",
+      "Type": "String"
     }
   },
 
@@ -19,7 +23,6 @@
       "Type": "AWS::IAM::Role",
       "Properties": {
         "AssumeRolePolicyDocument": {
-          "Version" : "2012-10-17",
           "Statement": [ {
             "Effect": "Allow",
             "Principal": {
@@ -29,43 +32,73 @@
           } ]
         },
         "Path": "/",
-        "Policies": [ {
-          "PolicyName": "LambdaPolicy",
-          "PolicyDocument": {
-            "Statement": [
-              {
-                "Effect": "Allow",
-                "Action": [
-                  "logs:CreateLogGroup",
-                  "logs:CreateLogStream",
-                  "logs:PutLogEvents"
-                ],
-                "Resource": "*"
-              },
-              {
-                "Resource": { "Ref" : "CMSFrontsRoleArn" },
-                "Effect": "Allow",
-                "Action": "sts:AssumeRole"
-              }
-            ]
+        "Policies": [
+          {
+            "PolicyName": "LambdaPolicy",
+            "PolicyDocument": {
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": [ "logs:CreateLogGroup", "logs:CreateLogStream", "logs:PutLogEvents", "lambda:InvokeFunction" ],
+                  "Resource": "*"
+                }
+              ]
+            }
+          },
+          {
+            "PolicyName": "CMSFrontsAccessPolicy",
+            "PolicyDocument": {
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": "sts:AssumeRole",
+                  "Resource": { "Ref": "CMSFrontsRoleArn" }
+                }
+              ]
+            }
+          },
+          {
+            "PolicyName": "S3ConfigAccessPolicy",
+            "PolicyDocument": {
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": [ "s3:Get*", "s3:List*" ],
+                  "Resource": [ "arn:aws:s3:::content-api-config/editors-picks-uploader/*" ]
+                }
+              ]
+            }
+          },
+          {
+            "PolicyName" : "SnsPublish",
+            "PolicyDocument" : {
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": [ "sns:ListTopics", "sns:Publish" ],
+                  "Resource": { "Ref": "ContentApiNotificationsTopicArn" }
+                }
+              ]
+            }
           }
-        } ]
+        ]
       }
     },
 
     "Lambda": {
       "Type" : "AWS::Lambda::Function",
       "Properties" : {
+        "FunctionName" : { "Fn::Join": [ "-", [ "editors-picks-uploader", { "Ref" : "Stage" } ] ] },
         "Code" : {
           "S3Bucket" : "content-api-dist",
-          "S3Key" : { "Fn::Join": [ "/", [ "content-api", { "Ref": "Stage" }, "editors-picks-uploader-lambda", "editors-picks-uploader-lambda.zip" ] ]}
+          "S3Key" : { "Fn::Join": [ "/", [ "content-api", { "Ref": "Stage" }, "editors-picks-uploader", "editors-picks-uploader.zip" ] ]}
         },
-        "Description" : "Editors picks uploader lambda.",
+        "Description" : "Editors picks uploader - retrieves and uploads editors picks for consumption by the Content API.",
         "Handler" : "com.gu.contentapi.Lambda::handleRequest",
         "MemorySize" : 256,
         "Role" : { "Fn::GetAtt" : [ "RootRole", "Arn" ] },
         "Runtime" : "java8",
-        "Timeout" : 120
+        "Timeout" : 180
       }
     }
   }

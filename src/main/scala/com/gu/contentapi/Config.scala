@@ -14,19 +14,19 @@ class Config(val context: Context) {
   private val config = loadConfig()
 
   val nextGenApiUrl = {
-    val url = Option(config.getProperty("nextgenApiUrl")) getOrElse sys.error("")
+    val url = Option(config.getProperty("nextgenApiUrl")) getOrElse sys.error("Could not load netGenApiUrl from config - Lambda will not run.")
     if (!url.endsWith("/")) s"$url/" else url
   }
 
   object aws {
-    val cmsFrontSTSRoleArn = Option(config.getProperty("aws.cmsFrontSTSRoleArn")) getOrElse sys.error("")
+    val cmsFrontSTSRoleArn = Option(config.getProperty("aws.cmsFrontSTSRoleArn")) getOrElse sys.error("Could not load aws.cmsFrontSTSRoleArn from config - Lambda will not run.")
 
     val region = {
       val region = Option(config.getProperty("aws.region")) getOrElse ("eu-west-1")
       Region.getRegion(Regions.fromName(region))
     }
 
-    val topicArn = Option(config.getProperty("aws.topicArn")) getOrElse sys.error("")
+    val topicArn = Option(config.getProperty("aws.topicArn")) getOrElse sys.error("Could not load aws.topicArn from config - Lambda will not run.")
   }
 
   private def loadConfig() = {

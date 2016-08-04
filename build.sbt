@@ -3,7 +3,7 @@ description   := "AWS Lambda uploading editors picks from Facia to CAPI"
 scalacOptions += "-deprecation"
 scalaVersion  := "2.11.8"
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-target:jvm-1.8", "-Xfatal-warnings")
-name := "editors-picks-uploader-lambda"
+name := "editors-picks-uploader"
 
 lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
 
@@ -24,7 +24,7 @@ libraryDependencies ++= Seq(
 topLevelDirectory in Universal := None
 packageName in Universal := normalizedName.value
 
-riffRaffPackageName := "editors-picks-uploader-lambda"
+riffRaffPackageName := "editors-picks-uploader"
 riffRaffPackageType := (packageBin in Universal).value
 riffRaffUploadArtifactBucket := Option("riffraff-artifact")
 riffRaffUploadManifestBucket := Option("riffraff-builds")
