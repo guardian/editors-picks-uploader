@@ -1,0 +1,30 @@
+{
+  "defaultStacks": ["content-api"],
+  "packages": {
+    "content-api-transformer-lambda": {
+      "type": "aws-lambda",
+      "data": {
+        "functions": {
+          "CODE": {
+            "name": "editors-picks-uploader-CODE-Lambda-?",
+            "filename": "content-api-transformer-lambda.zip"
+          },
+          "PROD": {
+            "name": "editors-picks-uploader-PROD-Lambda-?",
+            "filename": "editors-picks-uploader-lambda.zip"
+          }
+        },
+        "fileName": "editors-picks-uploader-lambda.zip",
+        "bucket": "content-api-dist"
+      }
+    }
+  },
+  "recipes": {
+    "lambda": {
+      "actionsBeforeApp": ["editors-picks-uploader-lambda.uploadLambda", "editors-picks-uploader-lambda.updateLambda"]
+    },
+    "default": {
+      "depends": ["lambda"]
+    }
+  }
+}
