@@ -34,7 +34,7 @@ object Notification {
   def create(editorsPick: EditorsPick): Notification = {
     val id = editorsPick.front
     val itemType = "editors-picks"
-    val item = Item(id, Json.toJson(editorsPick.collections))
+    val item = Item(id, Json.toJson(editorsPick.contentItems))
 
     val notificationBody = NotificationBody(id, itemType = itemType, item = item)
 

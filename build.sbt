@@ -7,8 +7,6 @@ name := "editors-picks-uploader"
 
 lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
 
-resolvers += "Guardian GitHub Repository" at "http://guardian.github.io/maven/repo-releases"
-
 val AwsSdkVersion = "1.10.74"
 
 libraryDependencies ++= Seq(

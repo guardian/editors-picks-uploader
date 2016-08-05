@@ -2,14 +2,13 @@ package com.gu.contentapi
 
 import java.util.Properties
 import com.amazonaws.regions.{ Region, Regions }
-import com.amazonaws.services.lambda.runtime.Context
 import com.gu.contentapi.services.S3
 
 import scala.util.Try
 
-class Config(val context: Context) {
+class Config(functionName: String) {
 
-  val isProd = Try(context.getFunctionName.toLowerCase.contains("-prod")).getOrElse(false)
+  val isProd = Try(functionName.toLowerCase.contains("-prod")).getOrElse(false)
   val stage = if (isProd) "PROD" else "CODE"
   private val config = loadConfig()
 

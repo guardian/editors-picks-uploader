@@ -1,0 +1,2682 @@
+{
+  "collections": [
+    {
+      "displayName": "headlines",
+      "id": "uk-alpha/news/regular-stories",
+      "content": [
+        {
+          "headline": "Abuse victims say inquiry must continue after chair's resignation",
+          "trailText": "Lowell Goddard steps down from inquiry into claims of institutional child abuse, blaming ‘legacy of failure’",
+          "thumbnail": "https://i.guim.co.uk/img/media/d593a930d231cc30c9f3efc6e72323ffd93b8525/177_460_4315_2590/500.jpg?q=55&auto=format&usm=12&fit=max&s=954fc9bfe33716bd06323199773d1fdc",
+          "shortUrl": "https://gu.com/p/4ptz8",
+          "id": "society/2016/aug/05/child-abuse-victims-say-inquiry-must-continue-lowell-goddard-resignation",
+          "group": "2",
+          "frontPublicationDate": 1470385363577,
+          "supporting": [
+            {
+              "headline": "How the UK's child abuse inquiry lost three chairs",
+              "trailText": "Lowell Goddard has become the most recent person to quit the public inquiry into institutional child abuse",
+              "thumbnail": "https://i.guim.co.uk/img/media/ea8bcc894d28225be5b5553e0b41b690a4a5eb70/0_74_3156_1894/500.jpg?q=55&auto=format&usm=12&fit=max&s=d1183e8f17d5f30825e72c609755fc9a",
+              "shortUrl": "https://gu.com/p/4ptzy",
+              "id": "society/2016/aug/05/uk-child-abuse-inquiry-lost-three-chairs-timeline",
+              "group": "0"
+            },
+            {
+              "headline": "'One in 14 adults sexually abused in childhood'",
+              "trailText": "New questions in annual crime survey reveal 11% of women and 3% of men were sexually assaulted as minors",
+              "thumbnail": "https://i.guim.co.uk/img/media/df4b4f433d625c9c096ec3f4e06b7f5eccf88718/0_265_5184_3110/500.jpg?q=55&auto=format&usm=12&fit=max&s=71ce5a56966b213a4312b48bb1f100b9",
+              "shortUrl": "https://gu.com/p/4pt6c",
+              "id": "uk-news/2016/aug/04/one-in-14-people-england-wales-sexually-abused-childhood-survey",
+              "group": "0"
+            },
+            {
+              "headline": "Sex education is the only way to combat child abuse",
+              "trailText": "In the post-Savile era ministers blocked the one step that can protect young people. Help me make PSHE – personal, social and health education – compulsory",
+              "thumbnail": "https://i.guim.co.uk/img/media/8adf32030740c3f9e7a117e72cd65e984e15e6b8/0_187_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=9d870918ee29738f8798b1634aff2622",
+              "shortUrl": "https://gu.com/p/4pbfe",
+              "id": "commentisfree/2016/aug/01/sex-education-child-abuse-compulsory-pshe-education",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Black Lives Matter protest sparks traffic chaos outside airport",
+          "trailText": "Protesters block road near London airport, halting M4 traffic, as similar action is seen in Nottingham and Birmingham ",
+          "thumbnail": "https://i.guim.co.uk/img/media/564dc2b0a08a20b7a1f88a7148b74fbbf729740d/0_338_2693_1616/500.jpg?q=55&auto=format&usm=12&fit=max&s=de1f4a311d8d9237d708654dba55d4d0",
+          "shortUrl": "https://gu.com/p/4ptpv",
+          "id": "uk-news/2016/aug/05/black-lives-matter-protest-sparks-heathrow-traffic-chaos",
+          "group": "2",
+          "frontPublicationDate": 1470386076471
+        },
+        {
+          "headline": "Rio gets set for 'analogue' opening ceremony",
+          "trailText": "Official start will be ‘cool’ on a budget, say organisers as Russia is (mostly) back in the Games",
+          "thumbnail": "https://i.guim.co.uk/img/media/68b8970aefba8110f2a66d849e3e4b1a8ecdcb02/0_42_4096_2459/500.jpg?q=55&auto=format&usm=12&fit=max&s=42ecbeef2c9c8c0d31aa7cc83fd3a078",
+          "shortUrl": "https://gu.com/p/4ptme",
+          "id": "sport/2016/aug/05/olympics-2016-daily-briefing-rio-analogue-opening-ceremony",
+          "group": "1",
+          "frontPublicationDate": 1470383310019,
+          "supporting": [
+            {
+              "headline": "Victim of carjacking attempt 'was not Russian diplomat'",
+              "trailText": "Officials say man who fought off attacker near Olympic park does not work for embassy amid reports he used fake papers",
+              "thumbnail": "https://i.guim.co.uk/img/media/56eeb2df3de608cc5621f98789e504a4882976b0/0_159_5184_3110/500.jpg?q=55&auto=format&usm=12&fit=max&s=90ebf5596791d151f4966f18f1bb81f7",
+              "shortUrl": "https://gu.com/p/4ptyk",
+              "id": "sport/2016/aug/05/rio-2016-russian-diplomat-shoots-dead-robber-who-tried-to-mug-him",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Cargo plane crashes onto road after overshooting runway",
+          "trailText": "The cargo plane, a Boeing 737 belonging to DHL couriers, crashed after landing in apparent bad weather ",
+          "thumbnail": "https://i.guim.co.uk/img/media/2799faa84f1a13d54d346e78ba26574bd92b8c01/0_25_960_576/500.jpg?q=55&auto=format&usm=12&fit=max&s=b1bcbc42f286cf8fc6f247bdd91bc6fb",
+          "shortUrl": "https://gu.com/p/4ptnf",
+          "id": "world/2016/aug/05/plane-crash-bergamo-overshoots-runway-road-italy-airport",
+          "group": "1",
+          "frontPublicationDate": 1470377863696
+        },
+        {
+          "headline": "Scottish aristocrat's son innocent of cocaine smuggling, says family",
+          "trailText": "Jack Marrian, grandson of earl of Cawdor, is accused of trying to bring nearly 100kg of drug into Kenya ",
+          "thumbnail": "https://i.guim.co.uk/img/media/5b9bca382d2925b3703d6243317ac75a57cb49a6/0_90_1470_882/500.jpg?q=55&auto=format&usm=12&fit=max&s=62f0288ea37893b20919e3223cd8c7bb",
+          "shortUrl": "https://gu.com/p/4ptzc",
+          "id": "world/2016/aug/05/scottish-aristocrat-son-jack-marrian-innocent-cocaine-smuggling-says-family",
+          "group": "0",
+          "frontPublicationDate": 1470390124593
+        },
+        {
+          "headline": "Voters deliver stinging rebuke to ANC",
+          "trailText": "Party concedes defeat in Port Elizabeth and could lose control of Johannesburg and Pretoria",
+          "thumbnail": "https://i.guim.co.uk/img/media/5b60a93933b1583f310e418d9a344c4b7ed0b505/0_17_3600_2160/500.jpg?q=55&auto=format&usm=12&fit=max&s=e72f34985a56fd22bffcfa3fae0c1934",
+          "shortUrl": "https://gu.com/p/4ptt8",
+          "id": "world/2016/aug/04/south-africans-deliver-stinging-rebuke-to-anc",
+          "group": "0",
+          "frontPublicationDate": 1470390118015
+        },
+        {
+          "headline": "Tom Watson criticises Shami Chakrabarti peerage nomination",
+          "trailText": "Labour’s deputy leader praises former Liberty chief but says timing of Corbyn’s nomination is a mistake",
+          "thumbnail": "https://i.guim.co.uk/img/media/3884544481d6cfec47274f62943bca925c120050/0_89_3696_2218/500.jpg?q=55&auto=format&usm=12&fit=max&s=9f4913434fe655e78399f65f767767a9",
+          "shortUrl": "https://gu.com/p/4ptz2",
+          "id": "politics/2016/aug/05/tom-watson-criticises-shami-chakrabarti-peerage-nomination",
+          "group": "0",
+          "frontPublicationDate": 1470385049437,
+          "supporting": [
+            {
+              "headline": "Osborne and Tory donors on list",
+              "trailText": "Former PM accused of reinforcing medieval-style system of patronage for friends and allies with controversial list",
+              "thumbnail": "https://i.guim.co.uk/img/media/86550215fdb48ffaab08b84abb099553f9a1789c/0_223_3842_2306/500.jpg?q=55&auto=format&usm=12&fit=max&s=d17643bdfb5848be9453563ae567256d",
+              "shortUrl": "https://gu.com/p/4ptte",
+              "id": "politics/2016/aug/04/george-osborne-and-michael-fallon-among-tories-to-get-honours",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Bank blames £2bn half-year loss on string of legal challenges",
+          "trailText": "Bailed-out bank risks row with BoE governor as it blames £2bn first-half loss on legal challenges ",
+          "thumbnail": "https://i.guim.co.uk/img/media/65d0a6aad051ccfd7f7078f4434fee62c9c97381/0_40_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=889d304e969226f9552bd0d2665d2277",
+          "shortUrl": "https://gu.com/p/4ptnt",
+          "id": "business/2016/aug/05/rbs-blames-2bn-half-year-loss-on-string-of-legal-challenges",
+          "group": "0",
+          "frontPublicationDate": 1470380118281
+        },
+        {
+          "headline": "American victim Darlene Horton was an inspiration, friends say",
+          "trailText": "Darlene Horton, a retired teacher, was highly regarded in her Florida community for her ‘vibrant personality’ and philanthropy",
+          "thumbnail": "https://i.guim.co.uk/img/media/28af4a653b44085bd7ad850a75695992f7047462/0_176_1588_952/500.jpg?q=55&auto=format&usm=12&fit=max&s=48a75a965126c44963f6a9e84e37002b",
+          "shortUrl": "https://gu.com/p/4ptn8",
+          "id": "uk-news/2016/aug/05/london-stabbing-american-victim-was-an-inspiration-friends-say",
+          "group": "0",
+          "frontPublicationDate": 1470375336328
+        },
+        {
+          "headline": "Actor who played The Big Lebowski dies at 85",
+          "trailText": "The actor, most recognised for the cult Coens comedy, had also starred in Santa Claus: The Movie, Blazing Saddles and Frantic",
+          "thumbnail": "https://i.guim.co.uk/img/media/1a577ad4bb2295f997178e855362cea7697dab0a/0_0_3200_1919/500.jpg?q=55&auto=format&usm=12&fit=max&s=80987f956fa9dc5fb789873f3e3d62c0",
+          "shortUrl": "https://gu.com/p/4ptzn",
+          "id": "film/2016/aug/05/david-huddleston-the-big-lebowski-dies-at-85",
+          "group": "0",
+          "frontPublicationDate": 1470390837363
+        }
+      ]
+    },
+    {
+      "displayName": "highlights",
+      "id": "6aefcaf1-dbec-4058-a7b8-a925d4163831",
+      "content": [
+        {
+          "headline": "Your underwhelming British holiday photos",
+          "trailText": "The weather looks to be improving, so these pictures of our holidaying readers should make you feel better about things<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/4aeb6c63c589bd9e27b6c7b3c798f426aca02067/0_57_1200_720/500.jpg?q=55&auto=format&usm=12&fit=max&s=25c83dcca2fb905c63667b42c4271316",
+          "shortUrl": "https://gu.com/p/4pgpe",
+          "id": "lifeandstyle/gallery/2016/aug/05/your-underwhelming-british-holiday-photos",
+          "group": "2",
+          "frontPublicationDate": 1470391410229
+        },
+        {
+          "headline": "The chain pushing to bring home cinema to the high street",
+          "trailText": "Boutique company buying up empty Odeons and former ‘picture houses’ to give film-goers a G&amp;T on the sofa-style experience",
+          "thumbnail": "https://i.guim.co.uk/img/media/3dcbcc370cbd139631f14b9c1f59f43f11c68c2f/0_222_5000_3000/500.jpg?q=55&auto=format&usm=12&fit=max&s=6713a7b0dd10ac6156507cd3076ae8da",
+          "shortUrl": "https://gu.com/p/4p28d",
+          "id": "business/2016/aug/05/everyman-the-chain-pushing-to-bring-home-cinema-to-the-high-street",
+          "group": "2",
+          "frontPublicationDate": 1470393892896
+        },
+        {
+          "headline": "England v Pakistan – third Test, day three",
+          "trailText": "<strong>Over-by-over report: </strong>Can England respond or will Pakistan build a lead after their batsmen dominated day two at Edgbaston? Find out with Rob Smyth",
+          "thumbnail": "https://i.guim.co.uk/img/media/0a0d48008061782944ee2dbc4d8297ea62c8b0d6/0_147_3078_1847/500.jpg?q=55&auto=format&usm=12&fit=max&s=81f1423e68c8ac606ceb0260811a2e89",
+          "shortUrl": "https://gu.com/p/4ptjk",
+          "id": "sport/live/2016/aug/05/england-v-pakistan-third-test-day-three-live",
+          "group": "1",
+          "frontPublicationDate": 1470392989149,
+          "supporting": [
+            {
+              "headline": "Ali puts Pakistan in control with superb century",
+              "trailText": "Azhar Ali was dismissed with the final ball of the day for 139 but Pakistan trail England by only 40 runs with seven first-innings wickets remaining in the third Test",
+              "thumbnail": "https://i.guim.co.uk/img/media/5c1cf9bda49cce90ec33fc4930bcaa0d8e0899a0/0_140_4944_2968/500.jpg?q=55&auto=format&usm=12&fit=max&s=53bf9a2516a1d6239508f10ebd5b275b",
+              "shortUrl": "https://gu.com/p/4ptjx",
+              "id": "sport/2016/aug/04/england-pakistan-third-test-day-two-match-report",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Facing my fear: driving while black can be fatal. But I've got places to go",
+          "trailText": "A traffic stop could easily escalate and end my life. It happens to black drivers in America all the time",
+          "thumbnail": "https://i.guim.co.uk/img/media/98e56db37d35fad4e750e2dafd3a62ce64680541/732_926_3611_2166/500.jpg?q=55&auto=format&usm=12&fit=max&s=cbb9aa3ba65ae419632d5a2dec1359d5",
+          "shortUrl": "https://gu.com/p/4p6nx",
+          "id": "commentisfree/2016/aug/05/facing-my-fear-driving-while-black-dangers-us-fatal-traffic-stops",
+          "group": "1",
+          "frontPublicationDate": 1470393366403
+        },
+        {
+          "headline": "Google is trying to stop you having to put in passwords",
+          "trailText": "New open source project hopes to remove burden of remembering passwords and instantly log you into apps on Android, with plans to roll out across every platform",
+          "thumbnail": "https://i.guim.co.uk/img/media/016b42ef5b3365037da639af246c11a0b8ad800a/0_209_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=a09a6715e360ddf26642e90f4abd15c6",
+          "shortUrl": "https://gu.com/p/4ptp9",
+          "id": "technology/2016/aug/05/google-passwords-open-yolo-dashlane-android",
+          "group": "0",
+          "frontPublicationDate": 1470391965520
+        },
+        {
+          "headline": "McDonald's wants us to size up its 'food journey' – so let's do that",
+          "trailText": "Does it think we have forgotten the calorific dressed salad or ammonia-infused ‘pink slurry’?",
+          "thumbnail": "https://i.guim.co.uk/img/media/bedced12471414016b4bb6224f503042bbb6328e/0_0_2886_1732/500.jpg?q=55&auto=format&usm=12&fit=max&s=31ec569c98a119a2dc5619fa26534ab5",
+          "shortUrl": "https://gu.com/p/4pgg6",
+          "id": "lifeandstyle/wordofmouth/2016/aug/05/mcdonalds-wants-us-to-size-up-its-food-journey-so-lets-do-that",
+          "group": "0",
+          "frontPublicationDate": 1470389697492
+        },
+        {
+          "headline": "18 reasons why you can’t miss the fringe",
+          "trailText": "Think it’s just about the jokes? From weight loss to mind expansion, our panel of comedians reveal the hidden perks  of a trip to the festival",
+          "thumbnail": "https://i.guim.co.uk/img/media/b81bbf9fa2c0d5802b9aef485c6b5ea07d0edf5f/256_335_731_438/500.jpg?q=55&auto=format&usm=12&fit=max&s=bb3ad4e6953f54e80684a6b61a1fb12a",
+          "shortUrl": "https://gu.com/p/4ph99",
+          "id": "stage/2016/aug/05/18-reasons-why-you-cant-miss-the-edinburgh-fringe",
+          "group": "0",
+          "frontPublicationDate": 1470389260942,
+          "supporting": [
+            {
+              "headline": "Three shows to see today",
+              "trailText": "At the fringe but not sure which tickets to book? Try one, two or all three of these picks from our critics",
+              "thumbnail": "https://i.guim.co.uk/img/media/e1e576261f6dc8dda8e2b59763d087ad172e075a/326_250_5079_3048/500.jpg?q=55&auto=format&usm=12&fit=max&s=30171b20ea55ca8854dc92347a0bd99c",
+              "shortUrl": "https://gu.com/p/4pt8m",
+              "id": "stage/2016/aug/05/edinburgh-festival-shows-to-see-today",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Fela was right – but I detest singing militant",
+          "trailText": "After pioneering afrobeat in the 70s, Tony Allen has gone on to work with musicians as diverse as Damon Albarn and Flea. As part of our series Gateways – Tony Allen and Nigeria, in association with Boiler Room, he talks about Fela Kuti, drugs and the art of drumming",
+          "thumbnail": "https://i.guim.co.uk/img/media/e3fc4d3ee97b05edac1580593f1d767eae3bad5a/20_228_4439_2664/500.jpg?q=55&auto=format&usm=12&fit=max&s=355eca74035f565542d1d3cba3ad5bc4",
+          "shortUrl": "https://gu.com/p/4ptdp",
+          "id": "music/2016/aug/05/tony-allen-fela-was-right-but-i-detest-singing-militant",
+          "group": "0",
+          "frontPublicationDate": 1470388732653
+        },
+        {
+          "headline": "The real story of the Secret Agent and the Greenwich bombing",
+          "trailText": "The bombing in Greenwich Park described in Conrad’s Secret Agent was inspired by real events. Was the Royal Observatory the intended target and, if so, why?",
+          "thumbnail": "https://i.guim.co.uk/img/media/4de9557de633a14a98ce2978be06714c1760b20c/0_374_3911_2347/500.jpg?q=55&auto=format&usm=12&fit=max&s=c5ed8c98393db2a11891b2718ccfe6d0",
+          "shortUrl": "https://gu.com/p/4ptde",
+          "id": "science/the-h-word/2016/aug/05/secret-agent-greenwich-observatory-bombing-of-1894",
+          "group": "0",
+          "frontPublicationDate": 1470388813638
+        },
+        {
+          "headline": "Jokes, tank-tops and Delia Smith",
+          "trailText": "Never mind Margaret Thatcher, it was the famous chef who embodied the values of the decade, according to this bold and cheerful history lesson. Plus Mo Farah: Race of his Life",
+          "thumbnail": "https://i.guim.co.uk/img/media/c728f45236dd612b6ca2845ee2d48645078589f1/0_344_4113_2468/500.jpg?q=55&auto=format&usm=12&fit=max&s=ee2a5e1a73064874e6508b8fd94ca1d6",
+          "shortUrl": "https://gu.com/p/4ptf3",
+          "id": "tv-and-radio/2016/aug/05/80s-dominic-sandbrook-delia-smith-mo-farah-margaret-thatcher",
+          "group": "0",
+          "frontPublicationDate": 1470379398692
+        },
+        {
+          "headline": "The new wave of tech troops outraged at Trump's remarks",
+          "trailText": "After Donald Trump’s call on Russia to hack the Democratic nominee, an atypical fundraiser proved popular at the Black Hat hackers conference",
+          "thumbnail": "https://i.guim.co.uk/img/media/2fa989af38ccce809521b87585b5267dccafb0b4/0_191_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=fe4001650d5d6e87d657959509654875",
+          "shortUrl": "https://gu.com/p/4pty4",
+          "id": "technology/2016/aug/04/hackers-for-hillary-attendance-black-hat-conference-trump",
+          "group": "0",
+          "frontPublicationDate": 1470379300264
+        },
+        {
+          "headline": "What touring with Wild Beasts taught me about cities",
+          "trailText": "Wild Beasts bassist Tom Fleming examines the strange experience of visiting cities on tour, from Tokyo to Dallas to São Paulo",
+          "thumbnail": "https://i.guim.co.uk/img/media/57c3c4a45d3e6bb7e32234a9d41aacb8749e6e97/42_68_1109_665/500.jpg?q=55&auto=format&usm=12&fit=max&s=702f43021b98a1263f95ea4f51a7ae28",
+          "shortUrl": "https://gu.com/p/4zkn4",
+          "id": "cities/2016/aug/05/wild-beasts-tom-fleming-touring-cities",
+          "group": "0",
+          "frontPublicationDate": 1470381504243
+        },
+        {
+          "headline": "The race to save decades of work saved on obsolete technology",
+          "trailText": "Archivists trying to preserve material stored on old computers by Australian writer and feminist Germaine Greer",
+          "thumbnail": "https://i.guim.co.uk/img/media/cbfd5e741efe40526999b8d5325d9d8e1e360929/207_241_730_438/500.jpg?q=55&auto=format&usm=12&fit=max&s=e93a98afed5503cec13e323ada969410",
+          "shortUrl": "https://gu.com/p/4pfam",
+          "id": "books/2016/aug/05/germaine-greer-archive-digital-treasure-floppy-disks",
+          "group": "0",
+          "frontPublicationDate": 1470355236401
+        },
+        {
+          "headline": "Things take on a different meaning when death comes so close",
+          "trailText": "The actor best known as Parks and Recreation’s April Ludgate talks about her new film, Mike and Dave Need Wedding Dates – and the stroke she suffered aged 20",
+          "thumbnail": "https://i.guim.co.uk/img/media/540372c9186b92501c214581e2432e31f5a25000/0_870_3333_2000/500.jpg?q=55&auto=format&usm=12&fit=max&s=d7c04b0900cf7ef65e0d3ca5335a8662",
+          "shortUrl": "https://gu.com/p/4ptc7",
+          "id": "culture/2016/aug/04/aubrey-plaza-mike-dave-different-meaning-death-so-close",
+          "group": "0",
+          "frontPublicationDate": 1470325982881
+        },
+        {
+          "headline": "An important, even-handed documentary",
+          "trailText": "Brendan J Byrne’s film makes the case that Sands's 1981 hunger strike led to the Good Friday agreement",
+          "thumbnail": "https://i.guim.co.uk/img/media/8f0215201601216064174aa9a6368078cb673917/0_224_3937_2362/500.jpg?q=55&auto=format&usm=12&fit=max&s=555703288669cb7d073543b0d7cb528d",
+          "shortUrl": "https://gu.com/p/4pfm5",
+          "id": "film/2016/aug/04/bobby-sands-66-days-review-hunger-strikes-documentary",
+          "group": "0",
+          "frontPublicationDate": 1470341901000
+        },
+        {
+          "headline": "What attracted Kate Moss and Fergie to holiday on a billionaire’s yacht?",
+          "trailText": "The model and the Duchess of York have been spotted together on David Tang’s boat. It’s like a cruise for chronic suckers-up to the wealthy",
+          "thumbnail": "https://i.guim.co.uk/img/media/2ab9e827ed0492caf1e550297ed3227fbbca09d8/0_133_2811_1686/500.jpg?q=55&auto=format&usm=12&fit=max&s=91126c525ae918ab2ad22543a18b5d4a",
+          "shortUrl": "https://gu.com/p/4ptfe",
+          "id": "lifeandstyle/lostinshowbiz/2016/aug/04/what-on-earth-attracted-kate-moss-and-fergie-to-a-holiday-on-a-billionaires-yacht",
+          "group": "0",
+          "frontPublicationDate": 1470334936711
+        },
+        {
+          "headline": "Brains of overweight people look 10 years older than those of lean peers",
+          "trailText": "Scans show greater shrinkage in volume of white matter in overweight and obese people, although it does not appear to affect cognitive performance ",
+          "thumbnail": "https://i.guim.co.uk/img/media/167cf59519716cf193d0366c24fdc3327229b83a/0_15_943_566/500.jpg?q=55&auto=format&usm=12&fit=max&s=5ff4f0efbf637f679854406984d32b9f",
+          "shortUrl": "https://gu.com/p/4ptct",
+          "id": "science/2016/aug/04/brains-of-overweight-people-look-ten-years-older-than-those-of-lean-peers",
+          "group": "0",
+          "frontPublicationDate": 1470334936711
+        },
+        {
+          "headline": "'I did snake therapy – I had to carry around a rubber snake in my bag'",
+          "trailText": "Her new horror movie Lights Out is terrifying – but the actor insists she’s not a fan of blood and gore, and is more afraid of snakes than the supernatural ",
+          "thumbnail": "https://i.guim.co.uk/img/media/15554703b0860268a1b28da36113ed0e9f1da699/0_13_1882_1129/500.jpg?q=55&auto=format&usm=12&fit=max&s=18197cbbb642973f4e899cb6477a8b04",
+          "shortUrl": "https://gu.com/p/4ptey",
+          "id": "film/2016/aug/04/maria-bello-lights-out-horror",
+          "group": "0",
+          "frontPublicationDate": 1470334735193
+        },
+        {
+          "headline": "Gooseberry tart from Swallows and Amazons",
+          "trailText": "While enjoying British summer holidays, Kate Young was taken back to her childhood dreams to live in Arthur Ransome’s adventure stories",
+          "thumbnail": "https://i.guim.co.uk/img/media/5e48138be5607e72c240d4106c6a9fd0bf8ea54e/0_423_2147_1288/500.jpg?q=55&auto=format&usm=12&fit=max&s=8a7af365ff2ae0896b31b8d218428369",
+          "shortUrl": "https://gu.com/p/4pt59",
+          "id": "books/little-library-cafe/2016/aug/04/food-in-books-gooseberry-tart-from-swallows-and-amazons",
+          "group": "0",
+          "frontPublicationDate": 1470334023025
+        },
+        {
+          "headline": "From Bowie to grime lords, the Mercury list revives an ailing brand",
+          "trailText": "In recent years the Mercury shortlist has been boring. This year the judges have rectified this with a list that includes Bowie, Radiohead and Skepta",
+          "thumbnail": "https://i.guim.co.uk/img/media/95cf123bdbc325226cc0e803d4c5259572f3e5a6/0_183_4256_2554/500.jpg?q=55&auto=format&usm=12&fit=max&s=4f78d43a1f23ae6d7eb54ed8657047c1",
+          "shortUrl": "https://gu.com/p/4pt96",
+          "id": "music/musicblog/2016/aug/04/mercury-prize-2016-shortlist-grime-bowie-radiohead-skepta",
+          "group": "0",
+          "frontPublicationDate": 1470312073505
+        },
+        {
+          "headline": "For people who like a nice way of living, with picnics",
+          "trailText": "Surprise TV sensation begins foray into live events with four-day show in grounds of Blenheim Palace in Oxfordshire",
+          "thumbnail": "https://i.guim.co.uk/img/media/098f1f2494cddae2a920a7109becb5e5d7ad812a/0_158_4500_2699/500.jpg?q=55&auto=format&usm=12&fit=max&s=2b2d063d3deb1f3e2d0b9e54e586292d",
+          "shortUrl": "https://gu.com/p/4ptgt",
+          "id": "tv-and-radio/2016/aug/04/countryfile-live-for-people-who-like-a-nice-way-of-living-with-picnics",
+          "group": "0",
+          "frontPublicationDate": 1470331086436
+        },
+        {
+          "headline": "Gay characters are there, but only just",
+          "trailText": "While LGBT characters have appeared in blockbusters, fears of a backlash from older cinemagoers, and overseas audiences, keep them largely in the closet",
+          "thumbnail": "https://i.guim.co.uk/img/media/8c4799728b9847fac62bf06f10874c3519cd183a/0_43_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=41bf4c9a28f54ce99b5e58cdae4d6f2c",
+          "shortUrl": "https://gu.com/p/4pfn4",
+          "id": "film/2016/aug/04/ghostbusters-star-trek-beyond-gay-characters",
+          "group": "0",
+          "frontPublicationDate": 1470316773350
+        },
+        {
+          "headline": "Michelin star for noodle stall where lunch is half the price of a Big Mac",
+          "trailText": "Queues at Hong Kong Soya Sauce Chicken Rice and Noodle are growing after award from prestigious food guide ",
+          "thumbnail": "https://i.guim.co.uk/img/media/584d1854e83c83aab79f177c303140e585fa129f/0_0_4928_2959/500.jpg?q=55&auto=format&usm=12&fit=max&s=5215e95453641962ed279d289b1d059a",
+          "shortUrl": "https://gu.com/p/4pt52",
+          "id": "lifeandstyle/2016/aug/04/michelin-star-for-singapore-noodle-stall-where-lunch-is-half-the-price-of-a-big-mac",
+          "group": "0",
+          "frontPublicationDate": 1470314731606
+        },
+        {
+          "headline": "What forms our tastes in a digital age?",
+          "trailText": "Why do we like what we like – this band or that ice-cream flavour? Is it biological or cultural? And what role do Amazon and Netflix play in shaping our preferences?",
+          "thumbnail": "https://i.guim.co.uk/img/media/a09557103571152155ee8bccf235f5212b3a7cc4/0_34_508_305/500.jpg?q=55&auto=format&usm=12&fit=max&s=aac13445b3a080c25d29c470fa2ace98",
+          "shortUrl": "https://gu.com/p/4pcee",
+          "id": "books/2016/aug/04/you-may-also-like-tom-vanderbilt-review",
+          "group": "0",
+          "frontPublicationDate": 1470321518079
+        },
+        {
+          "headline": "Is this Europe's best secret museum?",
+          "trailText": "In a small German town, a museum dedicated to life in the GDR – with everything from crank-handled calculators to Communist doilies – exists, virtually undiscovered, in one man’s attic",
+          "thumbnail": "https://i.guim.co.uk/img/media/ed16e2f22b326145d6e1b8a5a436600d9edf106a/0_245_1632_979/500.jpg?q=55&auto=format&usm=12&fit=max&s=ec9d9a48f3ecb952a976be0d5add81fd",
+          "shortUrl": "https://gu.com/p/4pt54",
+          "id": "artanddesign/2016/aug/04/ddr-nostalgie-museum-garzin-germany-attic",
+          "group": "0",
+          "frontPublicationDate": 1470316188133
+        },
+        {
+          "headline": "A beautiful upgrade, but only for 4K fanatics",
+          "trailText": "Microsoft’s first major upgrade to console offers a sleek new chassis and 4K Ultra HD features – but do you need them?",
+          "thumbnail": "https://i.guim.co.uk/img/media/1b7f5cbee76a807c6e8bfa4ab70407e08e3fb4f4/98_0_2646_1589/500.png?q=55&auto=format&usm=12&fit=max&s=c68f7a5a97b5d3e747e312312423ccab",
+          "shortUrl": "https://gu.com/p/4pgae",
+          "id": "technology/2016/aug/04/xbox-one-s-review-beautiful-upgrade-but-only-for-4k-fanatics",
+          "group": "0",
+          "frontPublicationDate": 1470308192248
+        },
+        {
+          "headline": "Bolshoi's furiously funny battle of the sexes",
+          "trailText": "Shakespeare’s problematic play has tripped up choreographers in the past, but Jean-Christophe Maillot’s interpretation is bold and fast-witted",
+          "thumbnail": "https://i.guim.co.uk/img/media/662d43dcb0ad383cd035011f259584f90470d291/541_816_3564_2139/500.jpg?q=55&auto=format&usm=12&fit=max&s=cdaef9d8a1d4560e6da0472a4a5ad31d",
+          "shortUrl": "https://gu.com/p/4pt86",
+          "id": "stage/2016/aug/04/the-taming-of-the-shrew-review-bolshoi-ballet-jean-christophe-maillot",
+          "group": "0",
+          "frontPublicationDate": 1470318146337
+        },
+        {
+          "headline": "How 70 years of TV socially engineered the perfect family",
+          "trailText": "From Ask the Family’s stereotypical 1950s unit to today’s nagging nannies, television has long used families to structure its programmes. But do these shows reflect ever-changing norms, or are they designed to shape society itself?",
+          "thumbnail": "https://i.guim.co.uk/img/media/da1979d8030b52ac500593569e830956329c605b/0_0_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=270d9b5acef6c30d96c3ca9a88a21768",
+          "shortUrl": "https://gu.com/p/4ph6g",
+          "id": "tv-and-radio/2016/aug/04/tv-socially-engineered-perfect-family",
+          "group": "0",
+          "frontPublicationDate": 1470309469823
+        },
+        {
+          "headline": "Sun-drenched recipes inspired by Crete",
+          "trailText": "Redolent tomatoes straight from the vine, anchovies fresh from the water, herbs picked on the hillside ... Cretan food is a lively intertwining of the earth and sea, exemplified here by three sun-drenched dishes",
+          "thumbnail": "https://i.guim.co.uk/img/media/d887ea5aa5d6c9fcfb41938460af92dce03cd2c5/0_0_6000_3600/500.jpg?q=55&auto=format&usm=12&fit=max&s=31d434e6863166d11e450444c78f2df4",
+          "shortUrl": "https://gu.com/p/4ph4q",
+          "id": "lifeandstyle/2016/aug/04/fishermans-soup-recipe-tomato-and-oregano-fritters-crete-marianna-leivaditaki-cook-residency",
+          "group": "0",
+          "frontPublicationDate": 1470310794989
+        },
+        {
+          "headline": "Never ever fall out with the nurses",
+          "trailText": "Ask questions, tidy up ... and listen to the nurses are among top tips healthcare professionals share with new doctors",
+          "thumbnail": "https://i.guim.co.uk/img/media/be0da7c5e2f409d3339a252a44b092e7844219d5/10_254_4476_2685/500.jpg?q=55&auto=format&usm=12&fit=max&s=76bf39bd990c1c63704e201788c4738f",
+          "shortUrl": "https://gu.com/p/4ph82",
+          "id": "healthcare-network/2016/aug/04/dont-be-smart-arse-junior-doctors-survival-guide",
+          "group": "0",
+          "frontPublicationDate": 1470305047243
+        },
+        {
+          "headline": "How to make the perfect caprese salad",
+          "trailText": "Surely, you cry, no one can go wrong arranging tomatoes, basil and mozzarella on a plate. Well, they can and they do – so here’s how to make a faultless version of this high-summer salad",
+          "thumbnail": "https://i.guim.co.uk/img/media/b5e01553d7b3322d490de941422f3d517525bbec/0_173_3648_2189/500.jpg?q=55&auto=format&usm=12&fit=max&s=a5fde891504f78ae2a5f7749a75da1c2",
+          "shortUrl": "https://gu.com/p/4pd89",
+          "id": "lifeandstyle/wordofmouth/2016/aug/04/how-to-make-the-perfect-caprese-salad",
+          "group": "0",
+          "frontPublicationDate": 1470294541376
+        },
+        {
+          "headline": "Three elderly women go to Amsterdam to try out the hash",
+          "trailText": "Despite a combined age of 233, some space cake seems to do the trick, and they head off to play on the swings. Plus Gogglebox: Brexit Special provides some insightful comments about our politicians",
+          "thumbnail": "https://i.guim.co.uk/img/media/157492f1f2d288b61e21890971f785b50a22ccb2/23_0_1875_1125/500.jpg?q=55&auto=format&usm=12&fit=max&s=a931f5dfce68f8f5c838d2e116b5019a",
+          "shortUrl": "https://gu.com/p/4pha2",
+          "id": "tv-and-radio/2016/aug/04/a-grannys-guide-to-the-modern-world-review-three-elderly-women-go-to-amsterdam-to-try-out-the-hash",
+          "group": "0",
+          "frontPublicationDate": 1470294801809
+        }
+      ]
+    },
+    {
+      "displayName": "Rio 2016",
+      "href": "sport/rio-2016",
+      "id": "6523407f-ab5e-4f8f-b9fb-b99f2c7df375",
+      "content": [
+        {
+          "headline": "When do the Olympics start and how can I follow the action?",
+          "trailText": "Tune in or go online to get your Rio 2016 fix – from Bolt and Farah to Peaty and Ennis-Hill. But you will need stamina to negotiate an exhausting timetable",
+          "thumbnail": "https://i.guim.co.uk/img/media/6496910eb3588dc27d3631d13056ad23374c66a7/67_76_1502_901/500.jpg?q=55&auto=format&usm=12&fit=max&s=8914da6348907b388cd4407f9a227503",
+          "shortUrl": "https://gu.com/p/4ptqh",
+          "id": "sport/2016/aug/05/olympics-start-action-tv-rio-2016",
+          "group": "1",
+          "frontPublicationDate": 1470392600794
+        },
+        {
+          "headline": "Team GB's opening ceremony outfits are subtly British",
+          "trailText": "Stella McCartney has pulled off a tricky balance with the jackets UK athletes will wear in Rio",
+          "thumbnail": "https://i.guim.co.uk/img/media/a980552851a44c51f217be15416077f6da3e8a23/0_0_2583_1550/500.jpg?q=55&auto=format&usm=12&fit=max&s=425821ec3c53494f42d3837c05a74a8f",
+          "shortUrl": "https://gu.com/p/4ptgg",
+          "id": "sport/2016/aug/05/team-gb-opening-ceremony-outfits-subtly-british-stella-mccartney-rio",
+          "group": "1",
+          "frontPublicationDate": 1470374903857
+        },
+        {
+          "headline": "How much do you know about the Olympics?",
+          "trailText": "Test your knowledge of 1960s drugs use, ancient sports, arts at the Games, a French aristocrat, a reluctant rower, Olympic animals and medal metallurgy",
+          "thumbnail": "https://i.guim.co.uk/img/media/6a2ffd2c7b8812426b77b44eb6ae636e087d2f4d/191_274_2972_1783/500.jpg?q=55&auto=format&usm=12&fit=max&s=6e80f0000ca160a7321de096d2e040f9",
+          "shortUrl": "https://gu.com/p/4pgga",
+          "id": "sport/2016/aug/05/rio-2016-big-olympics-quiz-games",
+          "group": "0",
+          "frontPublicationDate": 1470391522058
+        },
+        {
+          "headline": "Athletes’ Olympic spirit is only hope of redeeming the sullied Games",
+          "trailText": "Like their host city, the Olympics stand at a crossroads and local apathy has been compounded by the recent Russian doping revelations",
+          "thumbnail": "https://i.guim.co.uk/img/media/45a548869d290cd5700651261eae01f738bbc620/84_397_4729_2836/500.jpg?q=55&auto=format&usm=12&fit=max&s=f19808c43ccd34bbd44e76f463ddad14",
+          "shortUrl": "https://gu.com/p/4ptk2",
+          "id": "sport/2016/aug/04/olympic-spirit-rio-games-russian-doping",
+          "group": "0",
+          "frontPublicationDate": 1470346736604
+        },
+        {
+          "headline": "Neymar and Brazil draw blank in opener with South Africa",
+          "trailText": "Brazil were held to a goalless draw by South Africa in their first men’s football match of Rio 2016",
+          "thumbnail": "https://i.guim.co.uk/img/media/7df149fcebc71cbd28ae0ec95001e2fd61f1ce97/0_371_5568_3341/500.jpg?q=55&auto=format&usm=12&fit=max&s=0e3c0468268fe4064331e956e1dfb759",
+          "shortUrl": "https://gu.com/p/4ptyt",
+          "id": "sport/2016/aug/04/neymar-brazil-rio-2016-south-africa",
+          "group": "0",
+          "frontPublicationDate": 1470351505307
+        },
+        {
+          "headline": "Olympic sevens fuels search for next generation of American talent",
+          "trailText": "A wet field in upstate New York may be a long way from the heat of Rio, but the search for talent for Tokyo 2020 and beyond is already well under way",
+          "thumbnail": "https://i.guim.co.uk/img/media/91bbfd5c5add0267a3e4bef20bfb10ceefad04a2/0_235_3805_2283/500.jpg?q=55&auto=format&usm=12&fit=max&s=32a12f6421b66151b2254eefaa3275a4",
+          "shortUrl": "https://gu.com/p/4p78y",
+          "id": "sport/2016/aug/05/olympic-sevens-rugby-usa",
+          "group": "0",
+          "frontPublicationDate": 1470392194982
+        },
+        {
+          "headline": "Olympics are a 'carnival of junk food marketing'",
+          "trailText": "Children’s Food Campaign claims sponsors such as Kellogg’s and McDonald’s are again using Games to push unhealthy products ",
+          "thumbnail": "https://i.guim.co.uk/img/media/10669fc82e46627664f4aa3c0f7ad689a874ed4e/0_94_2850_1710/500.jpg?q=55&auto=format&usm=12&fit=max&s=cd09da26ea33330c6256e426dccbb6e5",
+          "shortUrl": "https://gu.com/p/4ptgm",
+          "id": "lifeandstyle/2016/aug/05/olympics-carnival-junk-food-marketing-campaigners-kelloggs-mcdonalds",
+          "group": "0",
+          "frontPublicationDate": 1470383327992
+        },
+        {
+          "headline": "The best books for the Olympics",
+          "trailText": "Feeling inspired by the Rio Games? Here are some literary accompaniments to the key Olympic sports",
+          "thumbnail": "https://i.guim.co.uk/img/media/39891320b3c3bf1e2fef7b7bc7222ccc429022f7/0_226_5360_3217/500.jpg?q=55&auto=format&usm=12&fit=max&s=ea279c259e48fbf3812be0be5fea269d",
+          "shortUrl": "https://gu.com/p/4pthf",
+          "id": "books/booksblog/2016/aug/05/best-books-for-olympics-john-dugdale",
+          "group": "0",
+          "frontPublicationDate": 1470384529470
+        },
+        {
+          "headline": "Algeria goalkeeper endures testing evening against Honduras",
+          "trailText": "Farid Chaâl struggles in Algeria’s Olympic opener against Honduras in Rio de Janeiro on Thursday",
+          "thumbnail": "https://i.guim.co.uk/img/media/1107ea9fccc269564a5e8b1be09d0c60e5cc01a0/0_0_3798_2278/500.jpg?q=55&auto=format&usm=12&fit=max&s=ff9ccca34c8454e7fdb7bf0a659d5251",
+          "shortUrl": "https://gu.com/p/4ptnh",
+          "id": "sport/video/2016/aug/05/algeria-goalkeeper-endures-testing-evening-at-olympics-video-highlights",
+          "group": "0",
+          "frontPublicationDate": 1470379628425
+        },
+        {
+          "headline": "Refugee Mangar Makur Chuot loses appeal to run in Rio",
+          "trailText": "The sprinter, who has settled in Australia, says permanently quitting the sport ‘appears the only option’",
+          "thumbnail": "https://i.guim.co.uk/img/media/ef49b3a195d45b126fb4136763201681f5446842/463_75_1391_835/500.jpg?q=55&auto=format&usm=12&fit=max&s=cf3202abecb92953281ff521ca8022dd",
+          "shortUrl": "https://gu.com/p/4pt35",
+          "id": "sport/2016/aug/05/south-sudanese-refugee-mangar-makur-chuot-wont-run-in-rio-after-appeal-rejected",
+          "group": "0",
+          "frontPublicationDate": 1470372108598
+        }
+      ]
+    },
+    {
+      "displayName": "opinion",
+      "href": "commentisfree",
+      "id": "uk-alpha/contributors/feature-stories",
+      "content": [
+        {
+          "headline": "Some women may reject top jobs – but many men don’t want them either",
+          "trailText": "Despite the remarks made by Kevin Roberts of Saatchi &amp; Saatchi, class and age are the determining factors when it comes to turning down promotion",
+          "thumbnail": "https://i.guim.co.uk/img/media/e1fdaa8a8fb956382c4338c3cc50cf1fb503d04c/0_0_2560_1536/500.jpg?q=55&auto=format&usm=12&fit=max&s=8570537aea3a67c63adb2af2e84df6cd",
+          "shortUrl": "https://gu.com/p/4ptjh",
+          "id": "commentisfree/2016/aug/05/women-ambition-top-jobs-men-saatchi",
+          "group": "0",
+          "frontPublicationDate": 1470379814653
+        },
+        {
+          "headline": "It’s time fiction reflected gay married life",
+          "trailText": "Attitudes towards commitment in gay relationships have changed – the novel could help to define them",
+          "thumbnail": "https://i.guim.co.uk/img/media/4fe1a39714fda5cea2435f75d2c3b2232f0fa64d/0_0_2100_1260/500.jpg?q=55&auto=format&usm=12&fit=max&s=3397ae5a38ef0dba1b5aab44df65503c",
+          "shortUrl": "https://gu.com/p/4pdc6",
+          "id": "books/2016/aug/05/its-time-fiction-reflected-gay-married-life",
+          "group": "0",
+          "frontPublicationDate": 1470392120145
+        },
+        {
+          "headline": "It’s five years since the English riots, but the rifts in society are wider than ever",
+          "trailText": "There’s a growing sense of hopelessness and powerlessness and millions still feel as though they have no stake in society",
+          "thumbnail": "https://i.guim.co.uk/img/media/14085d458a66b8947fb88b07f13d4cf249287ff3/125_0_3047_1829/500.jpg?q=55&auto=format&usm=12&fit=max&s=eb02374c087b63ec26fb9a719016a0f6",
+          "shortUrl": "https://gu.com/p/4ptf4",
+          "id": "commentisfree/2016/aug/05/tottenham-riots-british-streets-burn-again-david-lammy",
+          "group": "0",
+          "frontPublicationDate": 1470393026940
+        },
+        {
+          "headline": "Want to avoid recession? Then shower UK households with cash",
+          "trailText": "The economy is in dire need of a jump start – cutting interest rates has failed miserably. So instead give money to people who would actually spend it",
+          "thumbnail": "https://i.guim.co.uk/img/media/741eec87a0a356494e862c322a1fa75b1b51a0ad/0_347_5402_3241/500.jpg?q=55&auto=format&usm=12&fit=max&s=30f035d4aaf9f09824a9f2a6a656d620",
+          "shortUrl": "https://gu.com/p/4ptpz",
+          "id": "commentisfree/2016/aug/05/recession-bank-england-money-uk-households",
+          "group": "0",
+          "frontPublicationDate": 1470390722625
+        },
+        {
+          "headline": "Those who deny the housing crisis can no longer conceal their idiocy",
+          "trailText": "With each damning housing report, the dinosaurs who refuse to acknowledge facts peel off",
+          "thumbnail": "https://i.guim.co.uk/img/media/93b3d49833152a3c183e33116426b1527d49fbd8/0_0_5128_3077/500.jpg?q=55&auto=format&usm=12&fit=max&s=2255ac426f97af86e842d1116b465283",
+          "shortUrl": "https://gu.com/p/4ptcg",
+          "id": "housing-network/2016/aug/05/those-who-deny-the-housing-crisis-can-no-longer-conceal-their-idiocy-resolution-foundation",
+          "group": "0",
+          "frontPublicationDate": 1470388880750
+        },
+        {
+          "headline": "If peers apply the brakes to Brexit, we’ll be doing our job",
+          "trailText": "It’s not our role to defy the will of the people. But faced with potential calamity, we can ask the government to think again",
+          "thumbnail": "https://i.guim.co.uk/img/media/38c56f7620dc01a2667794245cb73973319d0a2a/0_0_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=91eb6e4f3d4b6797a42d22b97e9a5a2b",
+          "shortUrl": "https://gu.com/p/4ptf5",
+          "id": "commentisfree/2016/aug/05/peers-brakes-brexit-doing-our-job",
+          "group": "0",
+          "frontPublicationDate": 1470374932284
+        },
+        {
+          "headline": "A digital detox sounds great. But using the internet mindfully is better",
+          "trailText": "Like many young people, I live much of my life online. While it can be isolating, the internet can also aid mental health",
+          "thumbnail": "https://i.guim.co.uk/img/media/d2205ad9cc77ea2d5a9355dd2bb92a5d99db67ed/628_160_2668_1601/500.jpg?q=55&auto=format&usm=12&fit=max&s=da99246eee399a899542d2a8243ccdd2",
+          "shortUrl": "https://gu.com/p/4pthx",
+          "id": "commentisfree/2016/aug/05/digital-detox-using-internet-mindfully",
+          "group": "0",
+          "frontPublicationDate": 1470384490860
+        },
+        {
+          "headline": "Labour can fight for working people without dumping progressive ideas",
+          "trailText": "Facing a schism after the shock of Brexit, the party must continue to work for its traditional base",
+          "thumbnail": "https://i.guim.co.uk/img/media/1b5f43b7bc7439dc4c3d8898e44246d548b882d4/0_45_4842_2906/500.jpg?q=55&auto=format&usm=12&fit=max&s=faa81751304d9c28adcb93ea96cbc9fa",
+          "shortUrl": "https://gu.com/p/4pbft",
+          "id": "commentisfree/2016/aug/04/labour-fight-for-working-people-progressive-ideas",
+          "group": "0",
+          "frontPublicationDate": 1470335368171
+        },
+        {
+          "headline": "Martin Rowson on state of the UK economy",
+          "trailText": "The Bank of England has cut interest rates to a new record low of 0.25% from 0.5% in a package of measures designed to prevent a post-Brexit recession",
+          "thumbnail": "https://i.guim.co.uk/img/media/3dcd3907f52fc4e7fd4ecebe982348a99e975ef4/1147_574_2373_1424/500.jpg?q=55&auto=format&usm=12&fit=max&s=699d0430fec94b71551d0e4abd6d4e76",
+          "shortUrl": "https://gu.com/p/4ptkj",
+          "id": "commentisfree/picture/2016/aug/04/martin-rowson-on-state-of-the-uk-economy-cartoon",
+          "group": "0",
+          "frontPublicationDate": 1470352072034
+        },
+        {
+          "headline": "We fixate on the Ukip pantomime. That’s a serious mistake",
+          "trailText": "Its Brexit campaign was deeply deceitful – but supporters of the real nasty party have grievances that mainstream politicians should listen to",
+          "thumbnail": "https://i.guim.co.uk/img/media/94477bb777e4721e5c154dadaae3dc3bbee8e3b0/0_28_5030_3018/500.jpg?q=55&auto=format&usm=12&fit=max&s=b3333c50cb2093237e2ada8d71d6e31c",
+          "shortUrl": "https://gu.com/p/4ptfb",
+          "id": "commentisfree/2016/aug/04/fixate-ukip-pantomime-real-nasty-party-grievances-mainstream",
+          "group": "0",
+          "frontPublicationDate": 1470333041228
+        },
+        {
+          "headline": "Violence against lone child refugees is escalating – because we ignore it",
+          "trailText": "Police violence, citizen violence, camp violence – abuse in the Calais and Dunkirk camps has many forms. But UK government indifference does so much more damage",
+          "thumbnail": "https://i.guim.co.uk/img/media/a1e2c888025f9b8f66de70613cf0c07f36fbbd64/14_199_3470_2082/500.jpg?q=55&auto=format&usm=12&fit=max&s=ba08a43a88b2a02ec52c72b3259fcbc2",
+          "shortUrl": "https://gu.com/p/4pthz",
+          "id": "commentisfree/2016/aug/04/violence-lone-child-refugees-uk-government-indifference",
+          "group": "0",
+          "frontPublicationDate": 1470329768898
+        },
+        {
+          "headline": "Thank you, President Obama, for being a feminist",
+          "trailText": "In an essay for Glamour, Barack Obama wrote about how gender stereotypes harm us all. It was a radical act – and one that makes us miss him already",
+          "thumbnail": "https://i.guim.co.uk/img/media/4fe644133325e52fa17953d59c93457346ee8f3c/142_379_2043_1224/500.jpg?q=55&auto=format&usm=12&fit=max&s=85c53085d5aa4ca5e1ceedfee5da3861",
+          "shortUrl": "https://gu.com/p/4ptjb",
+          "id": "commentisfree/2016/aug/04/thank-you-president-obama-for-being-a-feminist",
+          "group": "0",
+          "frontPublicationDate": 1470336082620
+        },
+        {
+          "headline": "Trump’s greatest feat: making Reagan and Bush seem like good guys",
+          "trailText": "When the Democrats can point to old-time Republicans as virtuous examples, you know that something has gone terribly wrong",
+          "thumbnail": "https://i.guim.co.uk/img/media/3103be63faf677f72a503be1a417aa113ac901e5/0_43_747_448/500.jpg?q=55&auto=format&usm=12&fit=max&s=026d134a6051a1160bffd0ff79a33a12",
+          "shortUrl": "https://gu.com/p/4pte7",
+          "id": "commentisfree/2016/aug/04/trump-greatest-feat-reagan-bush-good-guys",
+          "group": "0",
+          "frontPublicationDate": 1470334693067
+        },
+        {
+          "headline": "The Daily Mail’s PrEP story was like going back to the dark old days of the 80s",
+          "trailText": "We need to call out retrograde attitudes towards LGBT people and HIV. And we thought we’d left them behind with Benny Hill, shoulder pads and Bros<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/55d7fa3f37fdb75a5bc19dce788908917728b5b2/0_55_4968_2981/500.jpg?q=55&auto=format&usm=12&fit=max&s=20eab6bcc609d8407e5aa491717b04ad",
+          "shortUrl": "https://gu.com/p/4phbz",
+          "id": "commentisfree/2016/aug/04/daily-mail-prep-dark-old-days-80s-lgbt-hiv",
+          "group": "0",
+          "frontPublicationDate": 1470314102975
+        },
+        {
+          "headline": "How legitimate marriages have become Home Office honey traps",
+          "trailText": "<strong>Loose canon:</strong> The administration of marriage has been taken out of the hands of the church – and used as a crude tool for the state to carry out deportations",
+          "thumbnail": "https://i.guim.co.uk/img/media/2453f8255f62d73ef76e9b53e9ddbc0c211482a1/0_134_4928_2956/500.jpg?q=55&auto=format&usm=12&fit=max&s=d10b45badaad2b5357e250206b10a522",
+          "shortUrl": "https://gu.com/p/4ptbc",
+          "id": "commentisfree/belief/2016/aug/04/how-legitimate-marriages-have-become-home-office-honey-traps",
+          "group": "0",
+          "frontPublicationDate": 1470321471093
+        },
+        {
+          "headline": "Interest rate cut is a 'hammer blow' for workplace pensions",
+          "trailText": "Pension payouts could fall to record lows as companies see cost of maintaining final salary schemes soar<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/6550db81effc2717bade7f36dc4b1c04e2e45705/0_112_3500_2101/500.jpg?q=55&auto=format&usm=12&fit=max&s=f6ffed7ef462a35ac3297f087ee78019",
+          "shortUrl": "https://gu.com/p/4ptdh",
+          "id": "money/2016/aug/04/uk-interest-rate-cut-workplace-pension-schemes",
+          "group": "0",
+          "frontPublicationDate": 1470326335453
+        },
+        {
+          "headline": "My advice to Ed Balls on Strictly? Just follow my lead",
+          "trailText": "Before my Strictly Come Dancing debut, Ed warned me I would lose my gravitas. Now he’ll find that for Westminster waltzers like us the real issue is gravity",
+          "thumbnail": "https://i.guim.co.uk/img/media/d9c6c2242c452edad7d04fdd8ba70f0267f9f24e/0_5_2048_1229/500.jpg?q=55&auto=format&usm=12&fit=max&s=d410b34327cacedd9281f0ec318f646b",
+          "shortUrl": "https://gu.com/p/4pt9g",
+          "id": "commentisfree/2016/aug/04/ed-balls-strictly-come-dancing-follow-my-lead",
+          "group": "0",
+          "frontPublicationDate": 1470325186839
+        },
+        {
+          "headline": "It’s the summer holidays – and children need time outside",
+          "trailText": "Britain’s children face both an obesity epidemic and a mental health crisis. Giving them the chance to be active and connect with nature can only help",
+          "thumbnail": "https://i.guim.co.uk/img/media/4ddc286cbc28d721eff618f1aaadb5efbe43e5a9/0_21_4558_2735/500.jpg?q=55&auto=format&usm=12&fit=max&s=7e6cf1229b14a5f92b6305ea6884d836",
+          "shortUrl": "https://gu.com/p/4pt9y",
+          "id": "commentisfree/2016/aug/04/summer-holidays-children-time-outside-obesity-mental-health",
+          "group": "0",
+          "frontPublicationDate": 1470309480980
+        },
+        {
+          "headline": "Why has Britain stopped striking? Workers no longer feel empowered to act",
+          "trailText": "With workers’ wages falling fast, it’s clear our country’s unions are not doing their job. Pernicious employers can be hit in the pocket with the right sort of action",
+          "thumbnail": "https://i.guim.co.uk/img/media/aabd822630ed2e68e1d1172b4f071293237e7a67/0_0_5760_3456/500.jpg?q=55&auto=format&usm=12&fit=max&s=ad5cbf4ad59f2482f84439d952375732",
+          "shortUrl": "https://gu.com/p/4ptc5",
+          "id": "commentisfree/2016/aug/04/why-has-britain-stopped-striking-workers-empowered",
+          "group": "0",
+          "frontPublicationDate": 1470319831921
+        },
+        {
+          "headline": "Granting this licence to shoot buzzards will unleash a killing spree",
+          "trailText": "With business interests being prioritised over wild birds, a deadly precedent has been set. The natural world is under assault and needs all our help",
+          "thumbnail": "https://i.guim.co.uk/img/media/42d57dbfc5d5e23613ab57b508de684381716fe4/0_147_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=7414a8a975f76e12ee7a05ea735b2bb3",
+          "shortUrl": "https://gu.com/p/4ptdx",
+          "id": "commentisfree/2016/aug/04/buzzard-licence-kill-slaughter-wildlife-natural-world",
+          "group": "0",
+          "frontPublicationDate": 1470318103156
+        },
+        {
+          "headline": "Don’t ‘diagnose’ Donald Trump, it’s not helpful",
+          "trailText": "Calls for Donald Trump to undergo psychiatric assessment may mean well, but will do more harm than good.",
+          "thumbnail": "https://i.guim.co.uk/img/media/40deddc7bbcac5ce18f223d6401fbae14b3f6a1e/0_238_4849_2908/500.jpg?q=55&auto=format&usm=12&fit=max&s=8506fe36ce083b76d0b9b979090ddf3f",
+          "shortUrl": "https://gu.com/p/4ptcq",
+          "id": "science/brain-flapping/2016/aug/04/dont-diagnose-donald-trump-its-not-helpful",
+          "group": "0",
+          "frontPublicationDate": 1470319864603
+        },
+        {
+          "headline": "Audio-fail: why is so much sound art so bad?",
+          "trailText": "Susan Philipsz and John Cage have shown that the genre has claims to greatness, but two works in Edinburgh betray the emptiness of much sound art",
+          "thumbnail": "https://i.guim.co.uk/img/media/f62c493e704e11084d1b6a64cb6d40d6699059a5/0_114_2400_1440/500.jpg?q=55&auto=format&usm=12&fit=max&s=9b139ae04f81e059980745a30b25838f",
+          "shortUrl": "https://gu.com/p/4pgyc",
+          "id": "artanddesign/jonathanjonesblog/2016/aug/04/sound-art-edinburgh-susan-philipsz-john-cage",
+          "group": "0",
+          "frontPublicationDate": 1470326001626
+        },
+        {
+          "headline": "Young Chekhov is the greatest of theatrical marathons",
+          "trailText": "David Hare’s versions of Platonov, Ivanov and The Seagull, now at the National Theatre in a superb production by Jonathan Kent, leave you exhilarated",
+          "thumbnail": "https://i.guim.co.uk/img/media/56ef233430745d163e06dd0248368faae4ea2e75/228_525_4696_2818/500.jpg?q=55&auto=format&usm=12&fit=max&s=02fb8819be182cb836065c4493069e22",
+          "shortUrl": "https://gu.com/p/4pt9t",
+          "id": "stage/2016/aug/04/young-chekhov-trilogy-platonov-ivanov-the-seagull-national-theatre",
+          "group": "0",
+          "frontPublicationDate": 1470320989393
+        }
+      ]
+    },
+    {
+      "displayName": "sport",
+      "href": "sport",
+      "id": "754c-8e8c-fad9-a927",
+      "content": [
+        {
+          "headline": "No9: Liverpool",
+          "trailText": "There is a strong sense something is stirring at Anfield under Jürgen Klopp, who is convinced Liverpool will challenge this season. He is right to expect a significant improvement",
+          "thumbnail": "https://i.guim.co.uk/img/media/b69c4ab98d7d25878c8877dadcf4a48a152579a8/0_18_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=ca7a9400b4764e4df61af347da4aa6e1",
+          "shortUrl": "https://gu.com/p/4pdde",
+          "id": "football/blog/2016/aug/05/premier-league-2016-2017-preview-liverpool",
+          "group": "0",
+          "frontPublicationDate": 1470380752422,
+          "supporting": [
+            {
+              "headline": "Paul Doyle on Leicester City",
+              "trailText": "Written off already by many, Claudio Ranieri’s side is still strong and now he has a full squad to tinker with – youth, new signings and a strong start will be key",
+              "thumbnail": "https://i.guim.co.uk/img/media/37fc22d4d0d6e9dd5920aea4d9d5d31f085200ab/0_80_3497_2099/500.jpg?q=55&auto=format&usm=12&fit=max&s=70069ed2d3fd552b183b5874bddb2436",
+              "shortUrl": "https://gu.com/p/4pgk6",
+              "id": "football/blog/2016/aug/04/premier-league-2016-17-preview-leicester-city-claudio-ranieri",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Sporting pitch fiascos",
+          "trailText": "From a vandalised wicket to mind-bending patterns at Flamengo v Mineiro via Murrayfield’s shapeshifting turf, half-a-dozen playing surface shambles",
+          "thumbnail": "https://i.guim.co.uk/img/media/e202682c688173b51d1a47df00eb48dd6afa4b12/0_145_3587_2151/500.jpg?q=55&auto=format&usm=12&fit=max&s=3c6d4bcb1c17542eba31f987c484e3e5",
+          "shortUrl": "https://gu.com/p/4pg5z",
+          "id": "sport/blog/2016/aug/05/the-joy-of-six-sporting-pitch-fiascos",
+          "group": "0",
+          "frontPublicationDate": 1470388223909,
+          "supporting": [
+            {
+              "headline": "Keep up with all of the latest updates",
+              "shortUrl": "",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Manchester City draw Steaua Bucharest in play-offs",
+          "trailText": "Manchester City have been drawn against Steaua Bucharest in the Champions League play-off round<br />",
+          "thumbnail": "https://i.guim.co.uk/img/media/508815dcdd2d6befe55271875547fcbd39522b73/0_12_4976_2986/500.jpg?q=55&auto=format&usm=12&fit=max&s=4090a99abd51d1639475d311cbb4e7dd",
+          "shortUrl": "https://gu.com/p/4ptzp",
+          "id": "football/2016/aug/05/manchester-city-pep-guardiola-champions-league",
+          "group": "0",
+          "frontPublicationDate": 1470392532349
+        },
+        {
+          "headline": "Steven Caulker’s life-changing Sierra Leone trip",
+          "trailText": "Most footballers spend the close season on the beach or on the golf course, but QPR’s Steven Caulker has given something back to Sierra Leone, the birthplace of his grandfather, after a remarkable voyage of discovery, he tells Dominic Fifield",
+          "thumbnail": "https://i.guim.co.uk/img/media/6b1656101c8d2fc1d4493955101ce3a9c95d7582/246_110_2876_1726/500.jpg?q=55&auto=format&usm=12&fit=max&s=6f894a1063be9611c01fbc64ce2fa27d",
+          "shortUrl": "https://gu.com/p/4pdft",
+          "id": "football/2016/aug/05/steven-caulker-sierra-leone-charity-trip-qpr",
+          "group": "0",
+          "frontPublicationDate": 1470388117372
+        },
+        {
+          "headline": "Australia skittled for 106 as Sri Lanka's Herath bags hat-trick",
+          "trailText": "Sri Lankan spinner Rangana Herath has taken a hat-trick to rip the heart out of Australia’s first innings on Friday’s second day of the second Test in Galle",
+          "thumbnail": "https://i.guim.co.uk/img/media/10feb26bbfbc8460ecb2ef3f0844d0aca6f875df/0_22_3910_2348/500.jpg?q=55&auto=format&usm=12&fit=max&s=5f3c1ef69ca31922c823ce30f38ca876",
+          "shortUrl": "https://gu.com/p/4ptng",
+          "id": "sport/2016/aug/05/australia-skittled-for-106-as-sri-lankan-spinner-rangana-herath-bags-hat-trick",
+          "group": "0",
+          "frontPublicationDate": 1470378798590
+        },
+        {
+          "headline": "Rodgers poised to reap benefit from Celtic’s Premiership primacy",
+          "trailText": "Celtic are overwhelming favourites to win their sixth title in a row in a season when Rangers make their return to the Scottish Premiership after four years",
+          "thumbnail": "https://i.guim.co.uk/img/media/5fe627d7a5532966062dddbaff9f27e83f9d9fbe/0_43_2043_1226/500.jpg?q=55&auto=format&usm=12&fit=max&s=aa1dd70bbefff5d5b659b97b9c90af97",
+          "shortUrl": "https://gu.com/p/4ptyy",
+          "id": "football/blog/2016/aug/05/brendan-rodgers-celtic-premiership-rangers",
+          "group": "0",
+          "frontPublicationDate": 1470393084900
+        },
+        {
+          "headline": "Benítez in for Newcastle long haul and wants more players",
+          "trailText": "Rafael Benítez is preparing himself for a ‘long journey’ with Newcastle, who get their season under way at Fulham on Friday",
+          "thumbnail": "https://i.guim.co.uk/img/media/a7dc9aa5cc75a6066195afdb73d19108e6d1cbcf/0_278_4256_2554/500.jpg?q=55&auto=format&usm=12&fit=max&s=e904ded8eb924afb86c83ea30174ef1d",
+          "shortUrl": "https://gu.com/p/4pthp",
+          "id": "football/2016/aug/04/rafael-benitez-newcastle-long-haul-fulham",
+          "group": "0",
+          "frontPublicationDate": 1470347362696
+        },
+        {
+          "headline": "West Brom taken over by Chinese investment group",
+          "trailText": "West Bromwich Albion have been taken over by a Chinese investment group, Yunyi Guokai (Shanghai) Sports Development Limited<br />",
+          "thumbnail": "https://i.guim.co.uk/img/media/37e643c6c64e05ebcf3e6d1099a801c545539b86/0_150_1736_1041/500.jpg?q=55&auto=format&usm=12&fit=max&s=bb4c69dc05c7336ee9582989cae851d7",
+          "shortUrl": "https://gu.com/p/4ptzb",
+          "id": "football/2016/aug/05/west-brom-takeover-chinese-investment-group",
+          "group": "0",
+          "frontPublicationDate": 1470382546932
+        }
+      ]
+    },
+    {
+      "displayName": "videos",
+      "href": "video",
+      "id": "5befafa5-607e-44cd-80ab-ff5ecede0891",
+      "content": [
+        {
+          "headline": "Isy Suttie's six tips for meeting The Actual One",
+          "trailText": "How should you act when you come face-to-face with a potential partner? Make sure you’re brutally honest",
+          "thumbnail": "https://i.guim.co.uk/img/media/c7f62f11860b0e3295dce4f1114afa440244be06/3_95_1358_815/500.jpg?q=55&auto=format&usm=12&fit=max&s=4bff36d4fbb8c845000013388aa47847",
+          "shortUrl": "https://gu.com/p/4ptft",
+          "id": "stage/video/2016/aug/05/isy-suttie-the-actual-one-video",
+          "group": "0",
+          "frontPublicationDate": 1470393386071
+        },
+        {
+          "headline": "Andy Murray fumbles Olympic flag",
+          "trailText": "Andy Murray, tennis star and now the UK’s Olympic flag bearer runs into difficulty during a photo-shoot on Thursday with Princess Anne and officials",
+          "thumbnail": "https://i.guim.co.uk/img/media/4910affa97686c12b6274ffc44cb82f4fe28c74a/28_0_875_525/500.jpg?q=55&auto=format&usm=12&fit=max&s=ae5605ede668dc2fcaaaa07cceb09eb7",
+          "shortUrl": "https://gu.com/p/4ptdg",
+          "id": "sport/video/2016/aug/04/andy-murray-struggles-with-flag-at-olympic-photoshoot-video",
+          "group": "0",
+          "frontPublicationDate": 1470331041515
+        },
+        {
+          "headline": "If I lose, I will stay in the Labour party",
+          "trailText": "Owen Smith tells the Guardian’s Owen Jones he will stay in the Labour party even if he loses the leadership contest",
+          "thumbnail": "https://i.guim.co.uk/img/media/3835a5ecc305153507ff94da308a17d741f8f5e3/58_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=08bdb9f93b9417f018bbf934b4838871",
+          "shortUrl": "https://gu.com/p/4pgqc",
+          "id": "politics/video/2016/aug/03/owen-smith-owen-jones-labour-party-leadership-video-interview",
+          "group": "0",
+          "frontPublicationDate": 1470242040042
+        },
+        {
+          "headline": "Organisers put finishing touches to Olympic venues",
+          "trailText": "The opening ceremony for the 2016 Olympic Games in Rio de Janeiro on Friday is fast approaching",
+          "thumbnail": "https://i.guim.co.uk/img/media/cf5c9eeaaa1206aa398bd54671e81b47a3cb152c/0_183_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=97d9f86fdfab878050f84e1183072c0a",
+          "shortUrl": "https://gu.com/p/4pggm",
+          "id": "sport/video/2016/aug/03/is-rio-ready-organisers-put-finishing-touches-to-olympic-venues-video-explainer",
+          "group": "0",
+          "frontPublicationDate": 1470231804968
+        },
+        {
+          "headline": "My ears are used to the gunshots",
+          "trailText": "Three favela residents describe daily life in the buildup to the Olympics",
+          "thumbnail": "https://i.guim.co.uk/img/media/87ff06b475dce3d4fffb6bf5b3f8f6ab7cdbf70c/87_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=9fb30614b566cd2cc1380d23f50c19c7",
+          "shortUrl": "https://gu.com/p/4pet7",
+          "id": "global-development/video/2016/aug/03/fear-in-rios-favelas-my-ears-are-used-to-the-gunshots-video",
+          "group": "0",
+          "frontPublicationDate": 1470217904998
+        },
+        {
+          "headline": "What lies ahead this season?",
+          "trailText": "New contenders are bursting through the doors of the Premier League saloon this season, with Antonio Conte at Chelsea, Pep Guardiola at Manchester City and wily José Mourinho at Manchester United. There’s an almighty stand-off that’s going to play out over the next nine months, but who will ride away into the sunset victorious?",
+          "thumbnail": "https://i.guim.co.uk/img/media/d6085b30d590629784d800e96ff0f581f56d48f4/69_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=72083d23b908056343f15773cd31c620",
+          "shortUrl": "https://gu.com/p/4pbyb",
+          "id": "football/video/2016/aug/01/the-premier-leagues-magnificent-seven-what-lies-ahead-this-season-video",
+          "group": "0",
+          "frontPublicationDate": 1470045143163
+        },
+        {
+          "headline": "Muslim immigrants attend classes on western attitudes to women",
+          "trailText": "Jenny Kleeman meets migrant students in Moi, west Norway, and asks whether western values can really be taught in a classroom",
+          "thumbnail": "https://i.guim.co.uk/img/media/80d5fa7844e9441ce4d0c7affdb0a8671d14ac51/71_56_1595_957/500.jpg?q=55&auto=format&usm=12&fit=max&s=df977af0c901f5ecd26aa8711e787af8",
+          "shortUrl": "https://gu.com/p/4p6c3",
+          "id": "world/video/2016/aug/01/norway-muslim-immigrants-classes-western-attitudes-women-video",
+          "group": "0",
+          "frontPublicationDate": 1470069031277
+        },
+        {
+          "headline": "What we know so far about the Russia doping scandal",
+          "trailText": "Over 110 athletes, out of 387, have been banned from the Russian olympic team for doping",
+          "thumbnail": "https://i.guim.co.uk/img/media/f01b1169a5d2850a16b984050d2c18d116ab5282/0_7_4096_2457/500.jpg?q=55&auto=format&usm=12&fit=max&s=de4d1010781809ec41c9cac4def35676",
+          "shortUrl": "https://gu.com/p/4pbe3",
+          "id": "sport/video/2016/jul/31/russia-doping-scandal-what-we-know-so-far-video-explainer",
+          "group": "0",
+          "frontPublicationDate": 1469962293755
+        },
+        {
+          "headline": "Trump, you have sacrificed nothing",
+          "trailText": "Khizr Khan said that under a Trump government, his son wouldn’t have even been allowed in the country. ‘Have you even read the United States constitution?’ he asked Trump, before offering up his own copy",
+          "thumbnail": "https://i.guim.co.uk/img/media/22bd722e4ac1747e8cb62d8a5dc60ec2a5279f6c/17_328_3483_2090/500.jpg?q=55&auto=format&usm=12&fit=max&s=dd51ffb93246b40ed17a64fc01f6039b",
+          "shortUrl": "https://gu.com/p/4p98f",
+          "id": "us-news/video/2016/jul/28/khizr-humayun-khan-donald-trump-video-democrat-convention",
+          "group": "0",
+          "frontPublicationDate": 1470217912758
+        },
+        {
+          "headline": "Mysterious purple orb discovered by marine scientists in California",
+          "trailText": "The marine scientists on the Ocean Exploration Trust’s research vessel, E/V Nautilus, find what is likely to be a variant of sea slug 5,000ft below the sea off Santa Barbara, California in a video published online on 25 July",
+          "thumbnail": "https://i.guim.co.uk/img/media/11c95049cbd9ddb546fbefdaa86e339957fa317b/120_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=f3bcf13bf8a8ebc388287fc6c7d22148",
+          "shortUrl": "https://gu.com/p/4pb8e",
+          "id": "environment/video/2016/jul/30/mysterious-purple-orb-discovered-marine-scientists-california-video",
+          "group": "0",
+          "frontPublicationDate": 1470217912758
+        }
+      ]
+    },
+    {
+      "displayName": "from the UK",
+      "id": "84e4005f-63fe-4b03-a8cc-10a864564853",
+      "content": [
+        {
+          "headline": "Corbyn and Smith face off in tense hustings",
+          "trailText": "Challenger heckled by audience during plea for unity as incumbent questions his resignation from shadow cabinet",
+          "thumbnail": "https://i.guim.co.uk/img/media/d9d1c5900246194daadc623f152e901f3d6103be/0_5_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=b4056820e828ec705352fdb63e7e91f1",
+          "shortUrl": "https://gu.com/p/4ptj6",
+          "id": "politics/2016/aug/04/corbyn-and-smith-face-off-in-tense-labour-leadership-hustings",
+          "group": "0",
+          "frontPublicationDate": 1470386805929,
+          "supporting": [
+            {
+              "headline": "Mayoral hopefuls 'committed to social justice', says Corbyn",
+              "trailText": "Voting to select candidates for role in regions from Greater Manchester to Tees Valley will close on Friday",
+              "thumbnail": "https://i.guim.co.uk/img/media/58833ece93abf6ebcbb62f2e1bc3fac57ded5de9/19_0_5179_3109/500.jpg?q=55&auto=format&usm=12&fit=max&s=66dd2e4358b25dd8bbd8c054b7c886ab",
+              "shortUrl": "https://gu.com/p/4pggy",
+              "id": "politics/2016/aug/05/labour-mayoral-hopefuls-committed-to-social-justice-says-jeremy-corbyn",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "House raid foiled by footballer's alarm system",
+          "trailText": "Manchester United star’s £6m mansion targeted during Old Trafford match, but thieves flee after alarm goes off",
+          "thumbnail": "https://i.guim.co.uk/img/media/6a3c882f98035bece1dedf6596b8267a89685070/0_72_3660_2197/500.jpg?q=55&auto=format&usm=12&fit=max&s=7076547743fbfadf840146609d1b4eb0",
+          "shortUrl": "https://gu.com/p/4ptq6",
+          "id": "football/2016/aug/05/wayne-rooney-house-raid-foiled-by-footballers-alarm-system",
+          "group": "0",
+          "frontPublicationDate": 1470391683038
+        },
+        {
+          "headline": "Prison governor attacked by inmate at HMP Wayland",
+          "trailText": "Police investigate after Paul Cawkwell is reportedly left needing hospital treatment by attack in jail canteen",
+          "thumbnail": "https://i.guim.co.uk/img/media/985a7a9010f39de78b27e3f053a761270cbbe72d/0_327_3150_1889/500.jpg?q=55&auto=format&usm=12&fit=max&s=163ba3c9682f991b0133eaeef07149a8",
+          "shortUrl": "https://gu.com/p/4ptz9",
+          "id": "society/2016/aug/05/prison-governor-attacked-by-inmate-hmp-wayland-paul-caukwell",
+          "group": "0",
+          "frontPublicationDate": 1470385067752
+        },
+        {
+          "headline": "Nissan says future of car plant hinges on Brexit talks",
+          "trailText": "CEO Carlos Ghosn says future investment decisions depend on the new trade status negotiated between Britain and the EU",
+          "thumbnail": "https://i.guim.co.uk/img/media/b7b5819ffdce3148a3cff56ca82826a819f38cd4/0_207_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=7c399ee7545e0df98ceee163a6e524b8",
+          "shortUrl": "https://gu.com/p/4pjv5",
+          "id": "business/2016/aug/05/nissan-warns-sunderland-uk-car-plant-hinges-brexit-talks",
+          "group": "0",
+          "frontPublicationDate": 1470394668627
+        },
+        {
+          "headline": "Ipso sets up pilot arbitration scheme to resolve legal complaints",
+          "trailText": "Regulator launches one-year experiment aimed at avoiding costly court costs",
+          "thumbnail": "https://i.guim.co.uk/img/media/dfb7a6844aae9f772377dbc1eeeba91fba747098/926_686_4642_2784/500.jpg?q=55&auto=format&usm=12&fit=max&s=3ef8c8b257c90aaa73f7f17a35421da1",
+          "shortUrl": "https://gu.com/p/4ptp7",
+          "id": "media/greenslade/2016/aug/05/ipso-sets-up-pilot-arbitration-scheme-to-resolve-legal-complaints",
+          "group": "0",
+          "frontPublicationDate": 1470392234249
+        },
+        {
+          "headline": "Thames garden bridge delays raise risk of major boat collision – expert",
+          "trailText": "Leading marine civil engineer warns of potential for accident on scale of 1989 Marchioness disaster as major projects on river overlap",
+          "thumbnail": "https://i.guim.co.uk/img/media/1aa3c9ea235b4ffb75cf26e57fc003692cae1ca1/0_123_2628_1577/500.jpg?q=55&auto=format&usm=12&fit=max&s=bd4968f71e340298035f710a0069177e",
+          "shortUrl": "https://gu.com/p/4pth8",
+          "id": "uk-news/2016/aug/05/thames-garden-bridge-delays-raise-risk-of-major-boat-collision-expert",
+          "group": "0",
+          "frontPublicationDate": 1470380181027
+        },
+        {
+          "headline": "Bank of England deputy governor defends interest rate cut",
+          "trailText": "Ben Broadbent denies package sends out message of panic",
+          "thumbnail": "https://i.guim.co.uk/img/media/4e6c57bfd4f87976fa13485a495246fad97a677f/0_136_3543_2126/500.jpg?q=55&auto=format&usm=12&fit=max&s=30b2470a23ca83b682227f6c6efed609",
+          "shortUrl": "https://gu.com/p/4ptnz",
+          "id": "business/blog/live/2016/aug/05/bank-of-england-deputy-governor-defends-interest-rate-cut-and-stimulus-package-live",
+          "group": "0",
+          "frontPublicationDate": 1470383686970
+        },
+        {
+          "headline": "UK house prices fall 1% after Brexit vote, says Halifax",
+          "trailText": "Building society records month-on-month fall in July but defies increasingly negative expert consensus by saying growth rates appear sturdy",
+          "thumbnail": "https://i.guim.co.uk/img/media/a2afb77bf356253d639ba785f1efee6993f90eb6/0_398_5635_3382/500.jpg?q=55&auto=format&usm=12&fit=max&s=51aec004b63be5e03c238faf5162ab9e",
+          "shortUrl": "https://gu.com/p/4ptzk",
+          "id": "business/2016/aug/05/uk-house-prices-fall-1-after-brexit-vote-says-halifax",
+          "group": "0",
+          "frontPublicationDate": 1470387460105
+        },
+        {
+          "headline": "British woman held after being seen reading book about Syria on plane",
+          "trailText": "Faizah Shaheen was detained after an airline crew member reported her for suspicious activity on a flight to Turkey",
+          "thumbnail": "https://i.guim.co.uk/img/media/bfba30c63f98e2556e9ea8e62c395de27cd20fd7/0_25_1220_732/500.jpg?q=55&auto=format&usm=12&fit=max&s=1a35dafd21fce9f740bf8158e39e7d34",
+          "shortUrl": "https://gu.com/p/4ptbk",
+          "id": "books/2016/aug/04/british-woman-held-after-being-seen-reading-book-about-syria-on-plane",
+          "group": "0",
+          "frontPublicationDate": 1470363292673
+        },
+        {
+          "headline": "Bristol police make breakthrough in cold case murder",
+          "trailText": "Susan Donoghue was sexually assaulted and killed at home by an unknown intruder in 1976. Now detectives have a DNA profile of the suspect",
+          "thumbnail": "https://i.guim.co.uk/img/media/f0674121c6119858c0bda64f374dff9512ad117e/366_61_2063_1238/500.jpg?q=55&auto=format&usm=12&fit=max&s=dc381af5afd7d4f279a82f0e035ebf56",
+          "shortUrl": "https://gu.com/p/4ptyf",
+          "id": "uk-news/2016/aug/04/bristol-police-make-breakthrough-in-cold-case",
+          "group": "0",
+          "frontPublicationDate": 1470351756289
+        },
+        {
+          "headline": "Goldman Sachs warns UK operations may 'restructure' in wake of Brexit vote",
+          "trailText": "The EU referendum ‘may adversely affect’ the bank’s London arm, according to a regulatory filing, as US banks may follow suit in order to serve eurozone",
+          "thumbnail": "https://i.guim.co.uk/img/media/b64e817c358779917df7215d7d1206a80bee95fd/0_70_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=205eb4eec9b0dadd50ebd430d3de32ac",
+          "shortUrl": "https://gu.com/p/4ptk6",
+          "id": "business/2016/aug/04/goldman-sachs-british-bank-brexit",
+          "group": "0",
+          "frontPublicationDate": 1470380132769
+        },
+        {
+          "headline": "Bank of England cuts UK interest rates to 0.25%, in wake of Brexit vote",
+          "trailText": "Bank’s monetary policy committee unveils a four-point plan to mitigate the impact of the EU referendum vote",
+          "thumbnail": "https://i.guim.co.uk/img/media/41770a596d0b6978b17c11b8155b0d849944a57a/0_53_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=b3cb1634e162581992c1f96f297f077d",
+          "shortUrl": "https://gu.com/p/4pfhj",
+          "id": "business/2016/aug/04/bank-of-england-cuts-uk-interest-rates",
+          "group": "0",
+          "frontPublicationDate": 1470368639442,
+          "supporting": [
+            {
+              "headline": "Time for the Treasury to act",
+              "trailText": "<strong>Editorial:</strong> After seven years at a record low, the bank rate is now even lower And on its own, that’s not likely to be enough. Step forward, Philip Hammond",
+              "thumbnail": "https://i.guim.co.uk/img/media/f794509fc4ae48a01b16a8e422579b176e0df1b4/0_232_3543_2127/500.jpg?q=55&auto=format&usm=12&fit=max&s=ab96551c9ba415fd4cb492a30f26b4bf",
+              "shortUrl": "https://gu.com/p/4pttk",
+              "id": "commentisfree/2016/aug/04/the-guardian-view-on-interest-rates-time-for-the-treasury-to-act",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Give young people and gay men free condoms to reduce STIs, watchdog says",
+          "trailText": "Draft guidance from Nice says councils should consider schemes to provide free advice and condoms to halt rise in HIV and gonorrhoea",
+          "thumbnail": "https://i.guim.co.uk/img/media/b4199ec3592a6a99e2a73db62ebbf30ad74372ac/0_129_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=39c0dbe1c93820ab1878d8ddb0f08e4c",
+          "shortUrl": "https://gu.com/p/4ptbq",
+          "id": "society/2016/aug/05/free-condoms-young-people-gay-men-hiv-gonorrhoea-nice",
+          "group": "0",
+          "frontPublicationDate": 1470351871047
+        },
+        {
+          "headline": "Corbyn sets out 10-point vision for Britain",
+          "trailText": "Dismissing idea of Labour split, he pledges £500bn programme to build new houses, boost NHS and reduce income disparities",
+          "thumbnail": "https://i.guim.co.uk/img/media/8104237e7b0de267377f3d37842123af42020547/0_0_4258_2556/500.jpg?q=55&auto=format&usm=12&fit=max&s=af7c5b0c7e5d9fca5b28cdf8284255cc",
+          "shortUrl": "https://gu.com/p/4ptbx",
+          "id": "politics/2016/aug/04/jeremy-corbyn-10-point-vision-britain-labour-split",
+          "group": "0",
+          "frontPublicationDate": 1470335694695
+        },
+        {
+          "headline": "Environment minister gets £49,000 in farm subsidies",
+          "trailText": "Lord Gardiner, who will be involved in reforming EU farming support post-Brexit, receives £49,000 a year in payments, it has been revealed",
+          "thumbnail": "https://i.guim.co.uk/img/media/5cff97a0e348df291b22810f7c876e2a7c53bbef/0_261_5184_3110/500.jpg?q=55&auto=format&usm=12&fit=max&s=fcbd83aae1a7b8728f21a9aec99a7f64",
+          "shortUrl": "https://gu.com/p/4pg3q",
+          "id": "environment/2016/aug/04/environment-minister-accused-of-conflict-of-interest-over-farm-subsidies",
+          "group": "0",
+          "frontPublicationDate": 1470320408925
+        },
+        {
+          "headline": "'Traumatised' Briton recuperating after fall from Thailand waterfall",
+          "trailText": "Natalie Cook, 19, broke several major bones including pelvis, hip and femur after fall in Mae Wang national park in May",
+          "thumbnail": "https://i.guim.co.uk/img/media/8654506602c0f406f968152ea84c54a122d68ea0/64_0_1920_1152/500.jpg?q=55&auto=format&usm=12&fit=max&s=a8695a7efdee1224da4ddd3fd6c7e5a9",
+          "shortUrl": "https://gu.com/p/4ph2c",
+          "id": "uk-news/2016/aug/04/briton-traumatised-thailand-fall-rocks-natalie-cook",
+          "group": "0",
+          "frontPublicationDate": 1470301214439
+        },
+        {
+          "headline": "Growth in new UK car sales slows in July",
+          "trailText": "Car sales level off after a record 2015 and strong growth this year, with a rise of just 0.1% last month, new figures show",
+          "thumbnail": "https://i.guim.co.uk/img/media/a7c2ed40559879232a36e5a8341a72fd9c69599e/0_0_3940_2364/500.jpg?q=55&auto=format&usm=12&fit=max&s=468c137de965bc7d3cbe68ea2c2506f2",
+          "shortUrl": "https://gu.com/p/4pt73",
+          "id": "business/2016/aug/04/new-uk-car-sales-slow-down-to-a-trickle-in-july",
+          "group": "0",
+          "frontPublicationDate": 1470333369296
+        },
+        {
+          "headline": "Australian family fighting deportation get flurry of job offers",
+          "trailText": "Gregg and Kathryn Brain, who have been ordered to leave the UK, say two of employment leads may be strong enough to meet strict visa criteria ",
+          "thumbnail": "https://i.guim.co.uk/img/media/abaecc02e89d99f3bdd661a122ab60f2148579cb/76_381_5503_3302/500.jpg?q=55&auto=format&usm=12&fit=max&s=e98513757dabe6bb5633dc784c5c632d",
+          "shortUrl": "https://gu.com/p/4ptck",
+          "id": "uk-news/2016/aug/04/australian-family-gregg-kathryn-lachlan-brain-fighting-deportation-get-flurry-of-job-offers",
+          "group": "0",
+          "frontPublicationDate": 1470319720912
+        },
+        {
+          "headline": "Retired vicar loses case over non-payment of Haringey council tax",
+          "trailText": "Paul Nicolson, 84, challenges Tottenham magistrates court in north London to jail him after ruling he must pay £2,831.42",
+          "thumbnail": "https://i.guim.co.uk/img/media/36442d1ac86c2c9760f4e34b5be2b1c474c1f24c/0_0_4368_2621/500.jpg?q=55&auto=format&usm=12&fit=max&s=9e709139c9d81a69203d4ce49d512d4e",
+          "shortUrl": "https://gu.com/p/4pthd",
+          "id": "money/2016/aug/04/retired-vicar-paul-nicolson-loses-case-over-non-payment-of-haringey-council-tax",
+          "group": "0",
+          "frontPublicationDate": 1470330691713
+        },
+        {
+          "headline": "Liverpool machete attack victim drove himself to hospital",
+          "trailText": "Man, now in serious condition, undertook five-mile journey to A&amp;E from Bootle with wounds to head, arm and torso ",
+          "thumbnail": "https://i.guim.co.uk/img/media/404fec230c099e96e69b9dbf9a282fdfc2455219/0_400_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=27c0fc94c471c31c1c60079c42fbc9e5",
+          "shortUrl": "https://gu.com/p/4ptgn",
+          "id": "uk-news/2016/aug/04/machete-attack-liverpool-drove-himself-to-hospital",
+          "group": "0",
+          "frontPublicationDate": 1470328815437
+        },
+        {
+          "headline": "Charge points to outnumber petrol stations by 2020, say Nissan",
+          "trailText": "Analysis by the car manufacturer marks end of the decade as a potential tipping point for the mass take up of electric vehicles",
+          "thumbnail": "https://i.guim.co.uk/img/media/67891607d2ea204df2472095b1858559f8acf0e3/0_0_4843_2905/500.jpg?q=55&auto=format&usm=12&fit=max&s=a093e72ced84b9cb3135d07a166e7017",
+          "shortUrl": "https://gu.com/p/4pt98",
+          "id": "environment/2016/aug/04/electric-vehicle-charge-points-to-outnumber-petrol-stations-by-2020-say-nissan",
+          "group": "0",
+          "frontPublicationDate": 1470310463151
+        },
+        {
+          "headline": "Lorry driver found guilty over death of police officer in crash",
+          "trailText": "Danny Warby read text on phone before vehicle veered into oncoming traffic, hitting Sharon Garrett’s car near Huntingdon",
+          "thumbnail": "https://i.guim.co.uk/img/media/b71188a1b973f17f27ab3d76d565d3e88c50eb7f/0_85_2131_1278/500.jpg?q=55&auto=format&usm=12&fit=max&s=09e048ba305a8d2d980c0e202f1be676",
+          "shortUrl": "https://gu.com/p/4ptby",
+          "id": "uk-news/2016/aug/04/lorry-driver-danny-warby-found-guilty-crash-death-sharon-garrett-cambridgeshire",
+          "group": "0",
+          "frontPublicationDate": 1470316536973
+        },
+        {
+          "headline": "Church of England clergyman found guilty of historical sex offences",
+          "trailText": "George Granville Gibson, the former archdeacon of Auckland, is found guilty of the indecent assault of two young men",
+          "thumbnail": "https://i.guim.co.uk/img/media/50c2601185029985f3097ce12c479da9d53255d9/194_108_1795_1077/500.jpg?q=55&auto=format&usm=12&fit=max&s=26c424c3083ecd79d6c79d5870ee49a3",
+          "shortUrl": "https://gu.com/p/4ptbz",
+          "id": "uk-news/2016/aug/04/george-granville-gibson-church-of-england-guilty-indecent-assault",
+          "group": "0",
+          "frontPublicationDate": 1470317463124
+        },
+        {
+          "headline": "Brewers' £79bn mega-merger could cost UK 600 jobs",
+          "trailText": "AB InBev’s looming £79bn takeover of SABMiller will shut down operations in Woking and London with new beer giant’s HQ in Belgium",
+          "thumbnail": "https://i.guim.co.uk/img/media/4a4d3f2dc6ee087205fbcf21b841021da5979e9e/0_15_4968_2980/500.jpg?q=55&auto=format&usm=12&fit=max&s=621878a63d38f54a5ceb9fc0bcfef658",
+          "shortUrl": "https://gu.com/p/4ptef",
+          "id": "business/2016/aug/04/brewers-79bn-mega-merger-could-cost-uk-600-jobs",
+          "group": "0",
+          "frontPublicationDate": 1470329072607
+        },
+        {
+          "headline": "'One in 14' adults sexually abused in childhood",
+          "trailText": "New questions in annual crime survey reveal 11% of women and 3% of men were sexually assaulted as minors",
+          "thumbnail": "https://i.guim.co.uk/img/media/df4b4f433d625c9c096ec3f4e06b7f5eccf88718/0_265_5184_3110/500.jpg?q=55&auto=format&usm=12&fit=max&s=71ce5a56966b213a4312b48bb1f100b9",
+          "shortUrl": "https://gu.com/p/4pt6c",
+          "id": "uk-news/2016/aug/04/one-in-14-people-england-wales-sexually-abused-childhood-survey",
+          "group": "0",
+          "frontPublicationDate": 1470315522444
+        },
+        {
+          "headline": "More pain for Southern passengers after hole found under track at Forest Hill",
+          "trailText": "Discovery of second hole in a month further disrupts services, as talks continue at Acas to avert five days of strikes",
+          "thumbnail": "https://i.guim.co.uk/img/media/8468d0c5dbc40850abba38d2312ebd3374f24a9c/0_324_1410_846/500.jpg?q=55&auto=format&usm=12&fit=max&s=df51dee234e1a8f3e8e0e9e0fdd4b95e",
+          "shortUrl": "https://gu.com/p/4pt5m",
+          "id": "uk-news/2016/aug/04/trains-into-london-bridge-cancelled-after-hole-found-under-track",
+          "group": "0",
+          "frontPublicationDate": 1470302690208
+        },
+        {
+          "headline": "Hinkley Point C is not only new energy option, says windfarm developer",
+          "trailText": "Henrik Poulsen of Dong says UK investment in turbines and offshore farms can power country without new nuclear station",
+          "thumbnail": "https://i.guim.co.uk/img/media/d2275e8e314363ac279d2ac729cf831a968bc9cb/0_26_3782_2269/500.jpg?q=55&auto=format&usm=12&fit=max&s=b2ae5be47362e722b678e30705b18cea",
+          "shortUrl": "https://gu.com/p/4pta8",
+          "id": "business/2016/aug/04/windfarms-hinckley-point-plant-henrik-paulsen-dong",
+          "group": "0",
+          "frontPublicationDate": 1470317595177
+        },
+        {
+          "headline": "Theresa May accused of snubbing Scotland",
+          "trailText": "The government has come under fire for restricting the scope of the public inquiry into the undercover policing",
+          "thumbnail": "https://i.guim.co.uk/img/media/db7ecba257d8c0fb0b75f1cb79d695b3b32b2ed6/0_80_1633_980/500.jpg?q=55&auto=format&usm=12&fit=max&s=79881d76e61311fb43fa814464c29463",
+          "shortUrl": "https://gu.com/p/4pfmj",
+          "id": "uk-news/undercover-with-paul-lewis-and-rob-evans/2016/aug/04/theresa-may-accused-of-snubbing-scotland-over-police-spies-inquiry",
+          "group": "0",
+          "frontPublicationDate": 1470308166817
+        },
+        {
+          "headline": "Cash handouts are best way to boost British growth, say economists",
+          "trailText": "In letter to the Guardian, 35 economists state that providing money directly to households would be most effective policy",
+          "thumbnail": "https://i.guim.co.uk/img/media/1adf2a897a918a4bfd4b9a9a3172349e8270547c/0_26_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=c2656663697f4339e30ab4767ec567e3",
+          "shortUrl": "https://gu.com/p/4pgyq",
+          "id": "business/2016/aug/03/cash-handouts-are-best-way-to-boost-growth-say-economists",
+          "group": "0",
+          "frontPublicationDate": 1470293874067,
+          "supporting": [
+            {
+              "headline": "A post-Brexit economic policy reset is essential",
+              "trailText": "<strong>Letters:</strong> Further cuts in interest rates and more quantitative easing won’t work",
+              "thumbnail": "https://i.guim.co.uk/img/media/4b040e5bd3d4a68c5cfef969f35a0dc55c6ce154/0_161_3500_2099/500.jpg?q=55&auto=format&usm=12&fit=max&s=9f9edb4967375b2471fdca26e6bfcb5a",
+              "shortUrl": "https://gu.com/p/4ph4m",
+              "id": "politics/2016/aug/03/a-post-brexit-economic-policy-reset-for-the-uk-is-essential",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Squalid property used to house asylum seekers receives further inspection after Guardian exposé",
+          "trailText": "A London council revisits Home Office house after Guardian uncovered dozens of people living in overcrowded and potentially dangerous conditions",
+          "thumbnail": "https://i.guim.co.uk/img/media/5ceb2b5077881026c81eb83e83e40fa98c359278/0_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=9bbb430cb1d2e56c98152ab44f3e62a9",
+          "shortUrl": "https://gu.com/p/4pt2j",
+          "id": "uk-news/2016/aug/04/squalid-property-used-to-house-asylum-seekers-receives-second-inspection",
+          "group": "0",
+          "frontPublicationDate": 1470287779361
+        },
+        {
+          "headline": "Today programme gets record ratings with Brexit coverage",
+          "trailText": "6 Music and Asian Network also hit audience highs in second quarter – but Radio 1 continues slide ",
+          "thumbnail": "https://i.guim.co.uk/img/media/654115eb767ce45f3f4e33be8b7551eaf22eda07/125_116_2868_1721/500.jpg?q=55&auto=format&usm=12&fit=max&s=50642c8302df2df2aa9ca37290fbcef8",
+          "shortUrl": "https://gu.com/p/4ph3z",
+          "id": "media/2016/aug/04/bbc-radio-4-today-lbc-ratings-brexit-6-music-radio-1",
+          "group": "0",
+          "frontPublicationDate": 1470306592190
+        },
+        {
+          "headline": "Study reveals Britons' obsession with the web",
+          "trailText": "Study shows scale of obsession with the web, including many people feeling unable to switch off or feeling lost when they do",
+          "thumbnail": "https://i.guim.co.uk/img/media/496cac6de829cc5f3cbefd16d8d0fe2e4078f88f/0_28_5100_3057/500.jpg?q=55&auto=format&usm=12&fit=max&s=7d939f221756fa4dc3c62e4181b3f753",
+          "shortUrl": "https://gu.com/p/4pg28",
+          "id": "technology/2016/aug/04/more-than-a-third-of-uk-internet-users-have-tried-digital-detox-ofcom",
+          "group": "0",
+          "frontPublicationDate": 1470294664322
+        }
+      ]
+    },
+    {
+      "displayName": "around the world",
+      "id": "b75dc3f9-0e7f-4c91-aa75-784e71f32d80",
+      "content": [
+        {
+          "headline": "UN considers role in Russia's 'deeply flawed' humanitarian corridors plan",
+          "trailText": "Confidential documents reveal internal fears of being seen as an accomplice to Kremlin over proposal for besieged Aleppo ",
+          "thumbnail": "https://i.guim.co.uk/img/media/9ff543196c57dac211c85cda32f64a43adeccdb4/0_155_2835_1701/500.jpg?q=55&auto=format&usm=12&fit=max&s=1aa5fe6f550c674004cbe42f147dc273",
+          "shortUrl": "https://gu.com/p/4ptgz",
+          "id": "world/2016/aug/05/syria-un-considers-role-in-russias-deeply-flawed-humanitarian-corridors-plan",
+          "group": "0",
+          "frontPublicationDate": 1470385155504
+        },
+        {
+          "headline": "Former model denies unlawfully working in US on improper visa",
+          "trailText": "The New York Post published naked photos taken of Donald Trump’s wife in 1995, a year before she emigrated to the US, according to previous statements",
+          "thumbnail": "https://i.guim.co.uk/img/media/d3285e0b10fcc285eab54e83cb19823fb46cc4e8/0_86_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=1a37a039a9b70be47848af554a9c8e46",
+          "shortUrl": "https://gu.com/p/4pthc",
+          "id": "us-news/2016/aug/04/melania-trump-nude-photos-work-visa-immigration",
+          "group": "0",
+          "frontPublicationDate": 1470391219123
+        },
+        {
+          "headline": "Police raid LGBT fashion show",
+          "trailText": "Twenty people detained during Pride event in country where homosexuality is illegal under colonial-era laws",
+          "thumbnail": "https://i.guim.co.uk/img/media/ddc586aa1dd9ffb212ecc78f8f0138f758cc9322/0_291_4368_2621/500.jpg?q=55&auto=format&usm=12&fit=max&s=88293865eb20a816b620b6a520e67b06",
+          "shortUrl": "https://gu.com/p/4ptpt",
+          "id": "world/2016/aug/05/uganda-police-raid-lgbt-gay-pride",
+          "group": "0",
+          "frontPublicationDate": 1470392070166
+        },
+        {
+          "headline": "Plot to launch Singapore rocket attack foiled, say Indonesian police",
+          "trailText": "Six suspected militants arrested on suspicion of planning to launch attack from nearby Batam island",
+          "thumbnail": "https://i.guim.co.uk/img/media/8afa008682bf56dfd68a7be3f3af1420e0baed8c/0_315_4000_2399/500.jpg?q=55&auto=format&usm=12&fit=max&s=46400ebd47d78d452d4f15850d98a79a",
+          "shortUrl": "https://gu.com/p/4pjx2",
+          "id": "world/2016/aug/05/plot-to-launch-singapore-rocket-attack-foiled-say-indonesian-police",
+          "group": "0",
+          "frontPublicationDate": 1470394727479
+        },
+        {
+          "headline": "US Olympic shooter attacks gun-control laws",
+          "trailText": "The triple gold medallist says new laws passed in her home state of California make it more difficult for her to practise",
+          "thumbnail": "https://i.guim.co.uk/img/media/a0b217bcb8338ca63fcf4dccf0a0cc27d90c411a/0_158_3500_2101/500.jpg?q=55&auto=format&usm=12&fit=max&s=4a2c1b6ae5ec9f72fe493e4ee3c8fec1",
+          "shortUrl": "https://gu.com/p/4ptm3",
+          "id": "sport/2016/aug/05/rio2016-top-american-olympic-shooter-kim-rhode-attacks-gun-control-laws",
+          "group": "0",
+          "frontPublicationDate": 1470382840247
+        },
+        {
+          "headline": "Isis tries to impose new leader on Boko Haram",
+          "trailText": "Leadership of terrorist group in doubt, with long-term leader believed to be out of favour after killing moderate Muslims",
+          "thumbnail": "https://i.guim.co.uk/img/media/14d579607ceb89bfec055f712602f46fbe95c271/0_259_1533_919/500.jpg?q=55&auto=format&usm=12&fit=max&s=a30def265ae983e0d28a49ca38b0fe51",
+          "shortUrl": "https://gu.com/p/4ptyj",
+          "id": "world/2016/aug/05/isis-tries-to-impose-new-leader-on-boko-haram-in-nigeria",
+          "group": "0",
+          "frontPublicationDate": 1470390138052
+        },
+        {
+          "headline": "Major Amazon dam opposed by tribes fails to get environmental licence",
+          "trailText": "Brazil’s environmental regulator rules the dam’s backers had failed to supply information to show its social and environmental impact",
+          "thumbnail": "https://i.guim.co.uk/img/media/35dba1e226c1941265f969d6c651031c92a09950/122_0_3257_1955/500.jpg?q=55&auto=format&usm=12&fit=max&s=8723bc9f4f9fce7c5d6d9d50b0f581a1",
+          "shortUrl": "https://gu.com/p/4ptp3",
+          "id": "environment/2016/aug/05/major-amazon-dam-brazil-opposed-by-tribes-fails-get-environmental-license",
+          "group": "0",
+          "frontPublicationDate": 1470389072600
+        },
+        {
+          "headline": "Rugby club and sponsor criticise dancer who said players lgroped her",
+          "trailText": "Spokeswoman for Chiefs sponsor ‘reluctant to say the boys were out of line’ after claims they harrassed and threw gravel at dancer",
+          "thumbnail": "https://i.guim.co.uk/img/media/21d8e40326ae8fa0e557ccd434249d756a2b825a/0_0_3444_2068/500.jpg?q=55&auto=format&usm=12&fit=max&s=1865bb1b103e1382b718cbd318b34b4b",
+          "shortUrl": "https://gu.com/p/4ptnb",
+          "id": "world/2016/aug/05/nz-rugby-club-and-sponsor-criticise-dancer-who-said-players-licked-and-groped-her",
+          "group": "0",
+          "frontPublicationDate": 1470387386997
+        },
+        {
+          "headline": "World Vision aid halted after allegations millions diverted to Hamas",
+          "trailText": "Head of the charity in Gaza charged by Israel for allegedly providing tens of millions of dollars in humanitarian funds to Hamas and its terrorist activities",
+          "thumbnail": "https://i.guim.co.uk/img/media/5131730a41f52868b4f971372d8b49ca21421c53/0_173_3456_2074/500.jpg?q=55&auto=format&usm=12&fit=max&s=27654d12cf43492d4f0e5b5d74241f81",
+          "shortUrl": "https://gu.com/p/4ptyc",
+          "id": "global-development/2016/aug/05/australia-suspends-world-visions-palestine-aid-after-allegations-funds-were-diverted",
+          "group": "0",
+          "frontPublicationDate": 1470378047194
+        },
+        {
+          "headline": "Syrian refugees design app to navigate German bureaucracy",
+          "trailText": "The developers behind Bureaucrazy want to help natives and newcomers who share their bewilderment at the nation’s red tape",
+          "thumbnail": "https://i.guim.co.uk/img/media/45829491d86620bad1b2dac7a54b4bbf1c020e27/0_129_3264_1958/500.jpg?q=55&auto=format&usm=12&fit=max&s=9f0dbd325b7705d3780e841beed4b886",
+          "shortUrl": "https://gu.com/p/4ptad",
+          "id": "world/2016/aug/05/syrian-refugees-app-navigating-german-bureacracy-bureaucrazy",
+          "group": "0",
+          "frontPublicationDate": 1470379778536
+        },
+        {
+          "headline": "Tests on children's bones support 4,000-year-old legend",
+          "trailText": "Carbon dating suggests landslide caused a Yellow river deluge matching the time China’s civilisation was said to have begun",
+          "thumbnail": "https://i.guim.co.uk/img/media/d206c898031e8fed92be434ece9a7af0c789a8f0/139_421_2048_1229/500.jpg?q=55&auto=format&usm=12&fit=max&s=01d231385438bb050791806db8f36f7c",
+          "shortUrl": "https://gu.com/p/4ptmh",
+          "id": "world/2016/aug/05/chinas-great-flood-tests-on-childrens-bones-support-4000-year-old-legend",
+          "group": "0",
+          "frontPublicationDate": 1470379412108
+        },
+        {
+          "headline": "Voters deliver stinging rebuke to ANC",
+          "trailText": "Party concedes defeat in Port Elizabeth and could lose control of Johannesburg and Pretoria",
+          "thumbnail": "https://i.guim.co.uk/img/media/5b60a93933b1583f310e418d9a344c4b7ed0b505/0_17_3600_2160/500.jpg?q=55&auto=format&usm=12&fit=max&s=e72f34985a56fd22bffcfa3fae0c1934",
+          "shortUrl": "https://gu.com/p/4ptt8",
+          "id": "world/2016/aug/04/south-africans-deliver-stinging-rebuke-to-anc",
+          "group": "0",
+          "frontPublicationDate": 1470336684290,
+          "supporting": [
+            {
+              "headline": "ANC could lose key cities to Democratic Alliance",
+              "trailText": "ANC support falls below 60% for first time as early indications show it neck and neck with opposition in Pretoria and Johannesburg",
+              "thumbnail": "https://i.guim.co.uk/img/media/f3af25af5281bc88bd426e436c068819e76721e1/0_76_5760_3456/500.jpg?q=55&auto=format&usm=12&fit=max&s=a903beef625157f08d7b3486ed470124",
+              "shortUrl": "https://gu.com/p/4pt2c",
+              "id": "world/2016/aug/04/south-africa-elections-anc-takes-early-lead-but-may-lose-grip-on-cities",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Users tend to have lower self-esteem, research shows",
+          "trailText": "Tinder users were more dissatisfied with their bodies and more likely to objectify their appearances than those who did not use the app, study shows ",
+          "thumbnail": "https://i.guim.co.uk/img/media/f48c29e052a98724b1b35b99916ece9656fd97cb/0_0_5141_3084/500.jpg?q=55&auto=format&usm=12&fit=max&s=fd5bf5e299c3cf97592d6795ca150c8e",
+          "shortUrl": "https://gu.com/p/4ptjc",
+          "id": "science/2016/aug/04/swipe-right-for-negative-self-perception-says-research-into-tinder-users",
+          "group": "0",
+          "frontPublicationDate": 1470359912015
+        },
+        {
+          "headline": "Peru president leads ministerial gym class in front of palace",
+          "trailText": "Newly elected elected leader Pedro Pablo Kuczynski joins 11 ministers for workout following questions about his health ",
+          "thumbnail": "https://i.guim.co.uk/img/media/29bc7d0ff28e35f57266fa7c22abd1d958bb9cff/0_163_3500_2101/500.jpg?q=55&auto=format&usm=12&fit=max&s=10aa5827ae39593022756d1b02e4f5b9",
+          "shortUrl": "https://gu.com/p/4ptmf",
+          "id": "world/2016/aug/05/peru-president-ministerial-gym-class-palace-pedro-pablo-kuczynski",
+          "group": "0",
+          "frontPublicationDate": 1470362551956
+        },
+        {
+          "headline": "Apple offers up to $200,000 reward for finding security bugs",
+          "trailText": "The top prize will be given for finding bugs in Apple’s ‘secure boot’ firmware for blocking unwanted programs when an iOS device powers up",
+          "thumbnail": "https://i.guim.co.uk/img/media/dc7ed08a8ff18c887aec405b1ba61ca35ac6bc9c/0_197_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=c916b9cce66b1629abc1069272628e2e",
+          "shortUrl": "https://gu.com/p/4ptn4",
+          "id": "technology/2016/aug/05/apple-offers-up-to-200000-reward-for-finding-security-bugs",
+          "group": "0",
+          "frontPublicationDate": 1470373000015
+        },
+        {
+          "headline": "Scientists edge closer to creating effective Zika virus vaccine",
+          "trailText": "Successful short-term trials of three different vaccine formulations boost confidence that a viable human vaccine is on the horizon",
+          "thumbnail": "https://i.guim.co.uk/img/media/b3c039d19c92c3ab571995b5c863e72aff8400c9/0_160_5000_3000/500.jpg?q=55&auto=format&usm=12&fit=max&s=4f245d1aa3588092fee12b511a67a3df",
+          "shortUrl": "https://gu.com/p/4ptd5",
+          "id": "world/2016/aug/04/scientists-edge-closer-to-creating-effective-zika-virus-vaccine",
+          "group": "0",
+          "frontPublicationDate": 1470358363079
+        },
+        {
+          "headline": "Pollution may shorten lung cancer patients' lives, research shows",
+          "trailText": "American study of people with early-stage disease adds to evicence about health impact of airborne toxins",
+          "thumbnail": "https://i.guim.co.uk/img/media/a458788a3fcbf3011a9061549c45c34a7925099a/24_0_3453_2072/500.jpg?q=55&auto=format&usm=12&fit=max&s=20c8eccc8b3467f496ced19179af2d61",
+          "shortUrl": "https://gu.com/p/4pttm",
+          "id": "society/2016/aug/05/pollution-shorten-lung-cancer-lives-research-air",
+          "group": "0",
+          "frontPublicationDate": 1470351863029,
+          "supporting": [
+            {
+              "headline": "Genes linked to rare cancer affecting children and young adults uncovered",
+              "trailText": "Sarcomas disproportionately affect the young, but researchers have discovered a host of genes linked to the cancers, raising hopes for better treatment",
+              "thumbnail": "https://i.guim.co.uk/img/media/5741b733902a71f2f8a225d5d6de25fe94967ef8/0_0_5192_3116/500.jpg?q=55&auto=format&usm=12&fit=max&s=18c0f630da385b332fbb3866e172fa08",
+              "shortUrl": "https://gu.com/p/4ptfp",
+              "id": "science/2016/aug/04/genes-linked-to-rare-cancer-affecting-children-and-young-adults-uncovered",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Head of Isis in Egypt killed by security forces",
+          "trailText": "Abu Duaa al-Ansari was killed with at least 45 other jihadis in an operation involving Egypt’s air force and anti-terrorism squad, according to army ",
+          "thumbnail": "https://i.guim.co.uk/img/media/0805fa389e59722ff2b745d43dd359ad2ae56d6b/1825_0_3423_2055/500.jpg?q=55&auto=format&usm=12&fit=max&s=c1496af4245740214072963c881523c6",
+          "shortUrl": "https://gu.com/p/4ptke",
+          "id": "world/2016/aug/04/head-of-isis-in-egypt-killed-by-security-forces",
+          "group": "0",
+          "frontPublicationDate": 1470348669608
+        },
+        {
+          "headline": "Death toll from Nice truck attack rises to 85 after man dies of injuries",
+          "trailText": "56-year-old, who has been on life support since tragedy, died on Thursday in a hospital in the French city",
+          "thumbnail": "https://i.guim.co.uk/img/media/ec6fbd5f1e69141092550e8a69597d68e1197c35/398_782_4621_2772/500.jpg?q=55&auto=format&usm=12&fit=max&s=0f38042a9db9b6104f074bcb1b7e6202",
+          "shortUrl": "https://gu.com/p/4pty8",
+          "id": "world/2016/aug/04/death-toll-from-nice-truck-attack-rises-to-85-after-man-dies-of-injuries",
+          "group": "0",
+          "frontPublicationDate": 1470348669608
+        },
+        {
+          "headline": "Military veterans demand Republicans unendorse Trump and his 'ignorance'",
+          "trailText": "Group of veterans visit Capitol Hill to present petition to Senator John McCain urging him and other Republican leaders to disavow presidential nominee",
+          "thumbnail": "https://i.guim.co.uk/img/media/a679676b45ca42710ed4b8fdd90f40dc9acbc0b2/0_126_4392_2635/500.jpg?q=55&auto=format&usm=12&fit=max&s=5198cb127deed905f69135e332a4303b",
+          "shortUrl": "https://gu.com/p/4ptje",
+          "id": "us-news/2016/aug/04/us-military-veterans-donald-trump-petition-john-mccain",
+          "group": "0",
+          "frontPublicationDate": 1470345211046,
+          "supporting": [
+            {
+              "headline": "Melania Trump denies she unlawfully worked as model on improper visa",
+              "trailText": "The New York Post published naked photos taken of Donald Trump’s wife in 1995, a year before she emigrated to the US, according to previous statements",
+              "thumbnail": "https://i.guim.co.uk/img/media/d3285e0b10fcc285eab54e83cb19823fb46cc4e8/0_86_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=1a37a039a9b70be47848af554a9c8e46",
+              "shortUrl": "https://gu.com/p/4pthc",
+              "id": "us-news/2016/aug/04/melania-trump-nude-photos-work-visa-immigration",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "Judge orders arrest of Mothers of the Plaza de Mayo leader",
+          "trailText": "Hundreds of protesters impeded police efforts to arrest Hebe de Bonafini for refusing to appear for questioning in case of alleged embezzlement",
+          "thumbnail": "https://i.guim.co.uk/img/media/bbdbb66b1bfe95b9e28cba34ad6cb62fc52399b2/0_150_5190_3115/500.jpg?q=55&auto=format&usm=12&fit=max&s=4fc94a8d9ea7f9dc4de475c5e8db823f",
+          "shortUrl": "https://gu.com/p/4ptkz",
+          "id": "world/2016/aug/04/argentina-mothers-of-the-plaza-de-mayo-hebe-de-bonafini-arrest",
+          "group": "0",
+          "frontPublicationDate": 1470347456171
+        },
+        {
+          "headline": "Israel accuses Gaza director of diverting cash to Hamas",
+          "trailText": "Charity defends Mohammad El Halabi, who Israeli security forces say confessed during detention to being Hamas member ",
+          "thumbnail": "https://i.guim.co.uk/img/media/caa282f7a0b4936401c976d73b0df1f448661461/0_365_3227_1936/500.jpg?q=55&auto=format&usm=12&fit=max&s=a9b44acce83435a55a982ad9c3987d89",
+          "shortUrl": "https://gu.com/p/4ptaz",
+          "id": "world/2016/aug/04/israel-world-visions-gaza-director-diverting-cash-hamas-mohammed-el-halabi",
+          "group": "0",
+          "frontPublicationDate": 1470321377323
+        },
+        {
+          "headline": "Notorious anti-Arab rapper joins Netanyahu's Likud party",
+          "trailText": "The Shadow was sponsorsed by equally controversial MP Oren Hazan who said rapper is ‘worth five seats’ in parliament",
+          "thumbnail": "https://i.guim.co.uk/img/media/5bc14b6a2a73182f401b3c7031d18094895dce55/0_99_997_598/500.jpg?q=55&auto=format&usm=12&fit=max&s=b25d4837b7f03caf79766429049c44bf",
+          "shortUrl": "https://gu.com/p/4pt79",
+          "id": "world/2016/aug/04/notorious-anti-arab-israeli-rapper-joins-pm-netanyahus-likud-party",
+          "group": "0",
+          "frontPublicationDate": 1470311892622
+        }
+      ]
+    },
+    {
+      "displayName": "in brief",
+      "id": "e5c813be-d21c-4e48-8b84-d38d74f99da8",
+      "content": [
+        {
+          "headline": "A blind student's guide to choosing a campus",
+          "trailText": "Can you get the bus to campus? Are electronic books available? Here are the main things to consider before you apply",
+          "thumbnail": "https://i.guim.co.uk/img/media/2a12fdf8288fa757c4461940224051ce93e27c82/0_14_5400_3240/500.jpg?q=55&auto=format&usm=12&fit=max&s=95d9836dd49b59af475a646bd838229a",
+          "shortUrl": "https://gu.com/p/4pajt",
+          "id": "education/2016/aug/05/a-blind-students-guide-to-choosing-a-university",
+          "group": "0",
+          "frontPublicationDate": 1470389039101
+        },
+        {
+          "headline": "Billie Piper gives a breathtakingly uninhibited performance in Yerma",
+          "trailText": "In a bravura display, Piper lays bare the soul of a woman who is unable to have children – even if Simon Stone’s update is less powerful than Lorca’s original play",
+          "thumbnail": "https://i.guim.co.uk/img/media/0493ca1a2718383049f0972801c79ec9eb115931/291_522_4925_2955/500.jpg?q=55&auto=format&usm=12&fit=max&s=f0e357fde2ab8ea3d162253121619ef4",
+          "shortUrl": "https://gu.com/p/4ptpm",
+          "id": "stage/2016/aug/05/yerma-review-billie-piper-young-vic-simon-stone-lorca",
+          "group": "0",
+          "frontPublicationDate": 1470394932258
+        },
+        {
+          "headline": "Popular dog name or popular baby name?",
+          "trailText": "Can you guess which of these names come from the top 100 dog names, and which come from the top 100 boys and girls names?",
+          "thumbnail": "https://i.guim.co.uk/img/media/e6d29138e4e42b2eed041664d2ab7041cc84b00b/0_0_5130_3078/500.jpg?q=55&auto=format&usm=12&fit=max&s=12eec411712555f2a8be4b8ed6cccdd8",
+          "shortUrl": "https://gu.com/p/4pd3c",
+          "id": "lifeandstyle/2016/aug/05/quiz-popular-dog-name-or-popular-baby-name",
+          "group": "0",
+          "frontPublicationDate": 1470389662055
+        },
+        {
+          "headline": "Leave it alone!",
+          "trailText": "<strong>The Delia project:</strong> No wooden spoon, no stirring, and no weighing: the long and short of it the Delia way ...",
+          "thumbnail": "https://i.guim.co.uk/img/media/168efd56936cb27b8fae3611d85b1ebe803d0511/0_0_1980_1187/500.jpg?q=55&auto=format&usm=12&fit=max&s=066d9ff60317ea30fec13aea2ffa0395",
+          "shortUrl": "https://gu.com/p/4pt8c",
+          "id": "lifeandstyle/2016/aug/05/how-to-cook-rice-delia-smith-stephen-bush-delia-project",
+          "group": "0",
+          "frontPublicationDate": 1470392737218
+        },
+        {
+          "headline": "The 10 best things… to do this week",
+          "trailText": "From Stranger Things to Louis CK: your at-a-glance guide to the next seven days in culture across the UK",
+          "thumbnail": "https://i.guim.co.uk/img/media/4ac5bd00d6741ceba9b1c07dfeac613f80597f6d/0_339_5987_3594/500.jpg?q=55&auto=format&usm=12&fit=max&s=ea4bd65509016fa62ce9d12a46ba07cf",
+          "shortUrl": "https://gu.com/p/4pgpz",
+          "id": "culture/2016/aug/05/the-10-best-things-to-do-this-week",
+          "group": "0",
+          "frontPublicationDate": 1470394835274
+        },
+        {
+          "headline": "Pokémon Go jumps the shark from virtual to reality",
+          "trailText": "When grown adults dressed as Pikachu take to the streets and hit bystanders in the face with giant Pokéballs fired from slingshots, you know it’s gone too far",
+          "thumbnail": "https://i.guim.co.uk/img/media/d45220ce386bc1d8e02f02d24e7c00cca6fc81fa/0_0_2000_1200/500.jpg?q=55&auto=format&usm=12&fit=max&s=73cc9d437c965086c82dac85c38d5669",
+          "shortUrl": "https://gu.com/p/4ptpk",
+          "id": "technology/2016/aug/05/pokemon-go-pikachu-giant-pokeballs-basel-switzerland",
+          "group": "0",
+          "frontPublicationDate": 1470392709904,
+          "supporting": [
+            {
+              "headline": "How to stop playing it",
+              "trailText": "Here are six easy steps to rid yourself of Pokémon Go for good. Follow them all",
+              "thumbnail": "https://i.guim.co.uk/img/media/b65106dd0a3fc4b8aa0002092f95e3a1f8bc5770/0_202_4155_2493/500.jpg?q=55&auto=format&usm=12&fit=max&s=66964ab338ee3c82a0324265f794db0c",
+              "shortUrl": "https://gu.com/p/4p9hc",
+              "id": "technology/2016/aug/05/how-to-stop-playing-pokemon-go",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "A hilarious sitcom about terrible people and broken lives",
+          "trailText": "Phoebe Waller-Bridge’s sitcom is full of people who are defeated and unlikable – including her own character who masturbates to Barack Obama speeches. But it’s utterly riveting",
+          "thumbnail": "https://i.guim.co.uk/img/media/436cd59d2778a0239c2928d927998c505618f796/89_0_2675_1605/500.jpg?q=55&auto=format&usm=12&fit=max&s=8ad8334f47a0c2e0162e2eb67b80e924",
+          "shortUrl": "https://gu.com/p/4pt8b",
+          "id": "tv-and-radio/2016/aug/05/fleabag-a-hilarious-sitcom-about-terrible-people-and-broken-lives",
+          "group": "0",
+          "frontPublicationDate": 1470379925325
+        },
+        {
+          "headline": "Make waves with our pick of the best swimsuits",
+          "trailText": "Whether you’re on holiday or just by the local pool, you can make a splash in a stylish one-piece",
+          "thumbnail": "https://i.guim.co.uk/img/media/f22a642006d2e83add836c40905e68bbf695373d/0_0_2560_1536/500.jpg?q=55&auto=format&usm=12&fit=max&s=aca393821bd39fe3c5297c4cf6b3de04",
+          "shortUrl": "https://gu.com/p/4ptbh",
+          "id": "fashion/gallery/2016/aug/05/make-waves-with-our-pick-of-the-best-swimsuits-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470387450017
+        },
+        {
+          "headline": "A Borgesian maybe-murder mystery",
+          "trailText": "An inspector searches for a young man who may or may not be there in this serpentine inquiry into the nature of reality",
+          "thumbnail": "https://i.guim.co.uk/img/media/3ae25591842ef576d7e0838be305971e8eccf762/0_39_5346_3207/500.jpg?q=55&auto=format&usm=12&fit=max&s=39bcea8c5e777ff7a771bd09c0a6e367",
+          "shortUrl": "https://gu.com/p/4p8qf",
+          "id": "books/2016/aug/05/infinite-ground-martin-macinnes-review",
+          "group": "0",
+          "frontPublicationDate": 1470379444014
+        },
+        {
+          "headline": "Do you know this week in pop history?",
+          "trailText": "It was the week Jimmy Webb was born, and Pink Floyd released their first album – but how well do you know your music history?",
+          "thumbnail": "https://i.guim.co.uk/img/media/78b6acd9f683a6a878e82ebee98d29f381c0fede/0_45_2000_1199/500.jpg?q=55&auto=format&usm=12&fit=max&s=f028a5b1ec61a272f4691af65c83e000",
+          "shortUrl": "https://gu.com/p/4ptc3",
+          "id": "music/2016/aug/05/from-craig-david-to-coronation-street-do-you-know-this-week-in-pop-history",
+          "group": "0",
+          "frontPublicationDate": 1470379950762
+        },
+        {
+          "headline": "My brother, a Tefl teacher, wants to return to the UK, but will need a job",
+          "trailText": "Are there any parts of the country that are in particular need of Tefl teachers?<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/63acbefcd53b77045015f418cf5106b9e05461d5/0_68_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=5e96f8069f47e24875b795f0aa508089",
+          "shortUrl": "https://gu.com/p/4ptff",
+          "id": "money/2016/aug/05/tefl-teacher-job-uk",
+          "group": "0",
+          "frontPublicationDate": 1470379971957
+        },
+        {
+          "headline": "Cockchafer flies in with chainsaw hum",
+          "trailText": "<strong>Country diary: Watership Down, Hampshire</strong> Disturbingly large and menacing in flight, the billy witch is a beetle of otherworldly workmanship ",
+          "thumbnail": "https://i.guim.co.uk/img/media/fd7c80dbd9cba50dd44ed92876f90bffd4f85f93/545_1360_3414_2049/500.jpg?q=55&auto=format&usm=12&fit=max&s=ee3e70e8b502808bfc52ebe23fd394d0",
+          "shortUrl": "https://gu.com/p/4p6dq",
+          "id": "environment/2016/aug/05/cockchafer-flies-in-with-chainsaw-hum",
+          "group": "0",
+          "frontPublicationDate": 1470372003777
+        },
+        {
+          "headline": "(And you won't believe how they're doing it!)",
+          "trailText": "Facebook has stepped up its battle against much-reviled (but effective) ‘clickbait’ headlines in its newsfeed with an algorithm that weeds out the most misleading",
+          "thumbnail": "https://i.guim.co.uk/img/media/0e612c6b9aee5db8505a51ac13b5341f3f701cc2/0_762_5100_3061/500.jpg?q=55&auto=format&usm=12&fit=max&s=21429a2978511d981eb623971534416d",
+          "shortUrl": "https://gu.com/p/4ptj3",
+          "id": "technology/2016/aug/04/facebook-clickbait-algorithm-change-newsfeed",
+          "group": "0",
+          "frontPublicationDate": 1470338340374
+        },
+        {
+          "headline": "Amazing Spaces Shed of the Year; Highlands; Scotland’s Wild Heart",
+          "trailText": "Magical wooden wonderlands and blooming marvellous sheds; luxuriantly photographed wildlife through the seasons; and the Olympics opening ceremony",
+          "thumbnail": "https://i.guim.co.uk/img/media/2db10d1ced8a20277698fa6e0a13f8957731a9c0/94_0_2813_1688/500.jpg?q=55&auto=format&usm=12&fit=max&s=5d43375af87443719a4e3d02678d7945",
+          "shortUrl": "https://gu.com/p/4pt8p",
+          "id": "tv-and-radio/2016/aug/05/friday-best-tv-amazing-spaces-shed-year-highlands-wild-heart-olympics-opening-ceremony",
+          "group": "0",
+          "frontPublicationDate": 1470374725315
+        },
+        {
+          "headline": "A welcome corrective to bland punk nostalgia",
+          "trailText": "This 30th anniversary restoration of Alex Cox’s Beckettian masterpiece shows how punk camouflaged a lot of undiagnosed dysfunction",
+          "thumbnail": "https://i.guim.co.uk/img/media/95b0b2f169f34322fa2cc324c348947859029af3/0_245_1245_747/500.jpg?q=55&auto=format&usm=12&fit=max&s=83e3d5aec038839d823ea0e9f0a42ea8",
+          "shortUrl": "https://gu.com/p/4pfn3",
+          "id": "film/2016/aug/04/sid-and-nancy-review-a-welcome-corrective-to-bland-punk-nostalgia",
+          "group": "0",
+          "frontPublicationDate": 1470346865256
+        },
+        {
+          "headline": "Dinosaur Jr: Give a Glimpse of What Yer Not review",
+          "trailText": " ",
+          "thumbnail": "https://i.guim.co.uk/img/media/7c55637ccd3081ee7cf2e989a36a0bb8117e0f7e/0_264_3960_2376/500.jpg?q=55&auto=format&usm=12&fit=max&s=3fbbb80d1d7f3c1bd8714b8b6cf078a9",
+          "shortUrl": "https://gu.com/p/4pg7k",
+          "id": "music/2016/aug/04/dinosaur-jr-give-a-glimpse-of-what-yer-not-review-a-murky-melodic-onslaught",
+          "group": "0",
+          "frontPublicationDate": 1470340906816
+        },
+        {
+          "headline": "Survey finds individual personalities",
+          "trailText": "Queen Mary University of London tracked four bumblebees for their whole lives and found differences in how they searched for food ",
+          "thumbnail": "https://i.guim.co.uk/img/media/9c3230899c5f7f2b87d95145e6d154e19c0fc176/195_642_4052_2432/500.jpg?q=55&auto=format&usm=12&fit=max&s=b162d7ef95035ff48fafad9d256064dc",
+          "shortUrl": "https://gu.com/p/4ptyd",
+          "id": "environment/2016/aug/04/flight-of-the-bumblebee-survey-finds-individual-personalities",
+          "group": "0",
+          "frontPublicationDate": 1470351452632
+        },
+        {
+          "headline": "Morrissey talks about Galloway, Farage and Sadiq Khan",
+          "trailText": "According to the Smiths singer, the Respect MP and Ukip man are loathed by the BBC because of their love of freedom. And the London mayor talks too quickly …",
+          "thumbnail": "https://i.guim.co.uk/img/media/b1407e9ebb4a12e6d275c6522b4e23f41cef2037/0_187_2440_1464/500.jpg?q=55&auto=format&usm=12&fit=max&s=8ed892c638df20e170f0f614e6d8fecb",
+          "shortUrl": "https://gu.com/p/4ptea",
+          "id": "lifeandstyle/lostinshowbiz/2016/aug/04/oh-god-morrissey-talks-about-galloway-farage-and-sadiq-khan",
+          "group": "0",
+          "frontPublicationDate": 1470334946044
+        },
+        {
+          "headline": "Swipe right for negative self perception, suggests research",
+          "trailText": "Tinder users were more dissatisfied with their bodies and more likely to objectify their appearances than those who did not use the app, study shows ",
+          "thumbnail": "https://i.guim.co.uk/img/media/f48c29e052a98724b1b35b99916ece9656fd97cb/0_0_5141_3084/500.jpg?q=55&auto=format&usm=12&fit=max&s=fd5bf5e299c3cf97592d6795ca150c8e",
+          "shortUrl": "https://gu.com/p/4ptjc",
+          "id": "science/2016/aug/04/swipe-right-for-negative-self-perception-says-research-into-tinder-users",
+          "group": "0",
+          "frontPublicationDate": 1470340956447
+        },
+        {
+          "headline": "Master saxophonist meets great jazz vocalist",
+          "trailText": " ",
+          "thumbnail": "https://i.guim.co.uk/img/media/f5d83483f29d537c0383bcb1aa661926575b69dc/0_83_4337_2602/500.jpg?q=55&auto=format&usm=12&fit=max&s=12360a08659ed281027daf35bcfc2f4e",
+          "shortUrl": "https://gu.com/p/4pfpc",
+          "id": "music/2016/aug/04/branford-marsalis-quartet-kurt-elling-upward-spiral-review-jazz-saxophone",
+          "group": "0",
+          "frontPublicationDate": 1470330500210
+        },
+        {
+          "headline": "Why the vest will never be the new T-shirt",
+          "trailText": "The vest is making an appearance on the catwalk, on TV and on the street, but do you need a perfect upper body to carry it off?",
+          "thumbnail": "https://i.guim.co.uk/img/media/411da309e7d7b34c932b58bb64852dcdfb5cbee2/0_69_1506_904/500.jpg?q=55&auto=format&usm=12&fit=max&s=fda3af9393c216ca6f4e072f60548949",
+          "shortUrl": "https://gu.com/p/4pt76",
+          "id": "fashion/2016/aug/04/vest-will-never-be-new-t-shirt-tank-top",
+          "group": "0",
+          "frontPublicationDate": 1470320162173
+        },
+        {
+          "headline": "Eroica is voted greatest symphony of all time",
+          "trailText": " German and Austrian composers occupy eight of top 10 places in survey of leading conductors by BBC Music magazine",
+          "thumbnail": "https://i.guim.co.uk/img/media/5e00721de904f9d1a2f1890d197a3240a889c28b/0_483_3811_2285/500.jpg?q=55&auto=format&usm=12&fit=max&s=fe362b3b86e771d9823a1694c133fd90",
+          "shortUrl": "https://gu.com/p/4pt7b",
+          "id": "music/2016/aug/04/beethoven-eroica-greatest-symphony-vote-bbc-mozart-mahler",
+          "group": "0",
+          "frontPublicationDate": 1470324655229
+        },
+        {
+          "headline": "Break for the Bordeaux",
+          "trailText": "Yes, it’s France’s largest fine wine region, but Bordeaux also makes affordable bottles that are ideal for everyday summer drinking",
+          "thumbnail": "https://i.guim.co.uk/img/media/4ff31fab8cfbafc55c78001a2d4ff2d876f55caf/15_574_4167_2500/500.jpg?q=55&auto=format&usm=12&fit=max&s=371f44708fd2353a6cb6fa2057e91941",
+          "shortUrl": "https://gu.com/p/4p2pn",
+          "id": "lifeandstyle/2016/aug/04/bordeaux-affordable-everyday-rose-red-white-wine-for-summer",
+          "group": "0",
+          "frontPublicationDate": 1470326313787
+        },
+        {
+          "headline": "Redditors turn candidate into cartoon boy",
+          "trailText": "Calvin and Hobbes provides the template for web collages putting Trump’s head onto the much loved comic strip’s juvenile hero",
+          "thumbnail": "https://i.guim.co.uk/img/media/085842e5fbdb5fd97c674a4b76799a32a5b5ec4e/0_30_918_551/500.jpg?q=55&auto=format&usm=12&fit=max&s=f2a099ce5f0041959fafc56e2d7e979a",
+          "shortUrl": "https://gu.com/p/4pgaz",
+          "id": "books/booksblog/2016/aug/04/donald-and-hobbes-redditors-turn-candidate-into-cartoon-boy-trump",
+          "group": "0",
+          "frontPublicationDate": 1470310247960
+        },
+        {
+          "headline": "Why the slasher flick works better on TV",
+          "trailText": "The Scream films became tiresome and overly self-referential, but as season two of the TV spinoff reaches its climax, it’s proving to be deep psychological slow-burner",
+          "thumbnail": "https://i.guim.co.uk/img/media/4d77ddc5be64f5e4873052e1b5eb1176b51a7083/0_293_5760_3456/500.jpg?q=55&auto=format&usm=12&fit=max&s=2da80cdeb6b8ad6c5de5dc62d82950fc",
+          "shortUrl": "https://gu.com/p/4pt6g",
+          "id": "tv-and-radio/tvandradioblog/2016/aug/04/scream-tv-series-netflix",
+          "group": "0",
+          "frontPublicationDate": 1470320030709
+        },
+        {
+          "headline": "Henry Normal's poetic paean to his autistic son",
+          "trailText": "Henry Normal, co-writer of The Royle Family and other comedy hits, beautifully folds in the pathos as he talks about his son who has ‘mildly severe’ autism",
+          "thumbnail": "https://i.guim.co.uk/img/media/d72c050e0048639719bc408a84d7582435b334bd/0_0_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=a841d92b1467b98a4644606f75d7092c",
+          "shortUrl": "https://gu.com/p/4pt9x",
+          "id": "tv-and-radio/2016/aug/04/a-normal-family-henry-normal-radio-4",
+          "group": "0",
+          "frontPublicationDate": 1470323191941
+        },
+        {
+          "headline": "Can I still upgrade from Vista to Windows 10 or should I buy a new PC?",
+          "trailText": "Vista users need to estimate how long their PC will remain usable before they decide to upgrade, but a few loopholes exist",
+          "thumbnail": "https://i.guim.co.uk/img/media/6e0bb078f226aee0cffb5d8f9b0119c0d3895ff9/0_333_5323_3195/500.jpg?q=55&auto=format&usm=12&fit=max&s=415f7d38800421796f337b4b503995d4",
+          "shortUrl": "https://gu.com/p/4pt5x",
+          "id": "technology/askjack/2016/aug/04/can-i-still-upgrade-from-vista-to-windows-10-or-should-i-buy-a-new-pc",
+          "group": "0",
+          "frontPublicationDate": 1470304871488
+        },
+        {
+          "headline": "How I survived the world’s least-stimulating dinner party",
+          "trailText": "A San Francisco dining event serving only Soylent, a meal-substitute drink, asks guests to focus on each other instead of the food. But is it any fun? ",
+          "thumbnail": "https://i.guim.co.uk/img/media/f667bbcc9206ab0b88832b96526869d51b7a1382/93_0_1407_844/500.jpg?q=55&auto=format&usm=12&fit=max&s=d5512006847776377241137030f4eff2",
+          "shortUrl": "https://gu.com/p/4ptvh",
+          "id": "lifeandstyle/2016/aug/04/soylent-no-food-dinner-party-san-francisco",
+          "group": "0",
+          "frontPublicationDate": 1470304936162
+        },
+        {
+          "headline": "Are you defined by your job title?",
+          "trailText": "I didn’t realise until I left my permanent role how much my job defined me – or how I would feel without it as a freelancer",
+          "thumbnail": "https://i.guim.co.uk/img/media/cf933a3f3a2962d43cf8dc073b2fdf5ad8ab97be/0_394_5912_3548/500.jpg?q=55&auto=format&usm=12&fit=max&s=f7a0db1824f0a9466c0dba2940055cb1",
+          "shortUrl": "https://gu.com/p/4pbpv",
+          "id": "money/2016/aug/04/defined-by-job-title-permanent-role-freelancer",
+          "group": "0",
+          "frontPublicationDate": 1470301278951
+        },
+        {
+          "headline": "Le Corbusier and Eileen Gray at Cap Moderne",
+          "trailText": "A peninsula near Monaco is home to an array of modernist architecture, including houses by two stars of the scene, and a revamped visitor centre is helping to show it all in the best light",
+          "thumbnail": "https://i.guim.co.uk/img/media/d09805936a8cb57d7de0efa062a3994ea3e8f359/0_211_4984_2991/500.jpg?q=55&auto=format&usm=12&fit=max&s=b3b53035bc8fe7503775580e7dc6298e",
+          "shortUrl": "https://gu.com/p/4pve9",
+          "id": "travel/2016/aug/04/modernism-monaco-le-corbusier-eileen-gray-cap-moderne-roquebrune",
+          "group": "0",
+          "frontPublicationDate": 1470304904867
+        },
+        {
+          "headline": "I'm buying a home for me and my girlfriend  – what happens if we split up?",
+          "trailText": "She will contribute to the deposit and monthly mortgage payments, but I will be the sole owner<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/c00d7751a71fe6d84f2620fd153a3323178a6f12/0_232_5504_3302/500.jpg?q=55&auto=format&usm=12&fit=max&s=035b2a83b5e2f262856b2b05a711d233",
+          "shortUrl": "https://gu.com/p/4pftt",
+          "id": "money/2016/aug/04/buying-home-what-happens-if-we-split-up",
+          "group": "0",
+          "frontPublicationDate": 1470292297388
+        },
+        {
+          "headline": "Bright and oversized earrings",
+          "trailText": "Giant earrings are an easy way to update your look. Think Perspex, insects and diamanté and – most importantly – the bigger the better",
+          "thumbnail": "https://i.guim.co.uk/img/media/1a666dd3c22b2b627ad048799be0735819c836f1/0_169_956_574/500.jpg?q=55&auto=format&usm=12&fit=max&s=9fb6c4ce7c84dc3c6af4ff7f2fe83c26",
+          "shortUrl": "https://gu.com/p/4pcng",
+          "id": "fashion/gallery/2016/aug/04/swing-low-bright-and-oversized-earrings-10-of-the-best",
+          "group": "0",
+          "frontPublicationDate": 1470294739449
+        }
+      ]
+    },
+    {
+      "displayName": "sos olympics",
+      "id": "9d68b026-7a15-4cc5-8a5c-1f27b17cb3d5",
+      "content": [
+        {
+          "headline": "Andy Zaltzman's Summer of Sport",
+          "trailText": "Coming to you live in glorious Sport-o-scope - every week throughout summer 2016 - Andy Zaltzman and guests so special we can’t say here, give their insight into the summer’s sporting bonanza",
+          "thumbnail": "https://i.guim.co.uk/img/media/e287a6b8826e3c3b2876ed763c3c5ac94d1162c7/0_84_2418_1451/500.jpg?q=55&auto=format&usm=12&fit=max&s=b25c4f2d6d7834e2209bf21f34f06e05",
+          "shortUrl": "https://gu.com/p/4pbzq",
+          "id": "sport/audio/2016/aug/03/olympics-preview-andy-zaltzmans-summer-of-sport",
+          "group": "0",
+          "frontPublicationDate": 1470242738192
+        }
+      ]
+    },
+    {
+      "displayName": "in depth",
+      "id": "uk-alpha/features/feature-stories",
+      "content": [
+        {
+          "headline": "Secret messages, boomboxes and Boys Don't Cry",
+          "trailText": "With the R&amp;B star’s new album finally about to land, we search for clues to its content in the mysterious live stream he posted",
+          "thumbnail": "https://i.guim.co.uk/img/media/12e93b7d2a18254ede1e0fa5ce924b47951db39d/2_0_10663_6400/500.jpg?q=55&auto=format&usm=12&fit=max&s=1b9b5bcd77a91e7d43899348961088d9",
+          "shortUrl": "https://gu.com/p/4pt6x",
+          "id": "music/2016/aug/04/decoding-frank-ocean-secret-messages-boomboxes-boys-dont-cry",
+          "group": "0",
+          "frontPublicationDate": 1470379791740
+        },
+        {
+          "headline": "Colin Thubron on his passion for Asia",
+          "trailText": "The continent that ‘both invites and resists understanding’ has always fascinated the travel writer. And his favourite country is today the saddest: Syria ",
+          "thumbnail": "https://i.guim.co.uk/img/media/9ff59ab8a1f08b98218041d73645a529a7e3ea59/0_79_5184_3110/500.jpg?q=55&auto=format&usm=12&fit=max&s=6ce9b2a0cc3fa12a020282be54cf96a6",
+          "shortUrl": "https://gu.com/p/4pe3q",
+          "id": "travel/2016/aug/05/colin-thubron-why-i-love-asia-travel-writing",
+          "group": "0",
+          "frontPublicationDate": 1470392583826
+        },
+        {
+          "headline": "How Russia spills two Deepwater Horizons of oil each year",
+          "trailText": "Oil spills in the Komi Republic caused by old pipelines are relatively small and rarely garner widespread attention - but added up they threaten fish stocks and pasture for cattle",
+          "thumbnail": "https://i.guim.co.uk/img/media/f9f33af2f21e03ce8807288b41c1a229d7f63705/0_149_5472_3283/500.jpg?q=55&auto=format&usm=12&fit=max&s=aeb561f76f5c972eb552ba322143641d",
+          "shortUrl": "https://gu.com/p/4pc85",
+          "id": "environment/2016/aug/05/the-town-that-reveals-how-russia-spills-two-deepwater-horizons-of-oil-each-year",
+          "group": "0",
+          "frontPublicationDate": 1470388866563
+        },
+        {
+          "headline": "Ordinary people can't afford a home in San Francisco. How did it come to this?",
+          "trailText": "The city by the bay has the nation’s priciest real estate, and a battle is raging over whether tech wealth, population growth, or political will is to blame ",
+          "thumbnail": "https://i.guim.co.uk/img/media/2a898339e7fe36ddddf94bdfcda73f46772e80e4/0_118_2992_1796/500.jpg?q=55&auto=format&usm=12&fit=max&s=419e54d123712a2c666a0723e8b0824c",
+          "shortUrl": "https://gu.com/p/4ptyb",
+          "id": "business/2016/aug/05/high-house-prices-san-francisco-tech-boom-inequality",
+          "group": "0",
+          "frontPublicationDate": 1470392775960
+        },
+        {
+          "headline": "Trump, Brexit ... is New Zealand your escape route too?",
+          "trailText": "Billy Crystal has threatened to move here if Trump wins power, and ‘move to New Zealand’ became a top Google search term after Brexit. Please consider moving here, but do so with your eyes wide open<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/bf87347ef58285fce27f8141a2320f7adb9f2e8d/0_102_3072_1843/500.jpg?q=55&auto=format&usm=12&fit=max&s=345d6933891d968f8a21381aeab8014c",
+          "shortUrl": "https://gu.com/p/4pd3z",
+          "id": "commentisfree/2016/aug/05/trump-brexit-is-new-zealand-your-escape-route-too",
+          "group": "0",
+          "frontPublicationDate": 1470389704437
+        },
+        {
+          "headline": "Fela was right – but I detest singing militant",
+          "trailText": "After pioneering afrobeat in the 70s, Tony Allen has gone on to work with musicians as diverse as Damon Albarn and Flea. As part of our series Gateways – Tony Allen and Nigeria, in association with Boiler Room, he talks about Fela Kuti, drugs and the art of drumming",
+          "thumbnail": "https://i.guim.co.uk/img/media/e3fc4d3ee97b05edac1580593f1d767eae3bad5a/20_228_4439_2664/500.jpg?q=55&auto=format&usm=12&fit=max&s=355eca74035f565542d1d3cba3ad5bc4",
+          "shortUrl": "https://gu.com/p/4ptdp",
+          "id": "music/2016/aug/05/tony-allen-fela-was-right-but-i-detest-singing-militant",
+          "group": "0",
+          "frontPublicationDate": 1470382299131
+        },
+        {
+          "headline": "Big unknowns: what is consciousness?",
+          "trailText": "What does it mean to be you? And how can science unpick the age-old debates around conscious experience? Join us for a journey into the unknown",
+          "thumbnail": "https://i.guim.co.uk/img/media/3f0c679d6b761214a90634812d05c1bd372d662b/0_115_5906_3545/500.jpg?q=55&auto=format&usm=12&fit=max&s=4252b8d3839494380be9be029d5588cc",
+          "shortUrl": "https://gu.com/p/4pjxx",
+          "id": "science/audio/2016/aug/05/big-unknowns-what-is-consciousness-podcast",
+          "group": "0",
+          "frontPublicationDate": 1470394628729
+        },
+        {
+          "headline": "Hear all the albums – and see what our critics thought of them",
+          "trailText": "Read what we said about this year’s 12 Hyundai Mercury prize-shortlisted albums – from Anonhi to the 1975 – and listen to them in full. And let us know what the judges have missed …",
+          "thumbnail": "https://i.guim.co.uk/img/media/17d2b2ad96d9f34f99804e04f668f4c53c8f6853/0_0_2560_1536/500.jpg?q=55&auto=format&usm=12&fit=max&s=01282efef4347ac6e26610ce468eaf4f",
+          "shortUrl": "https://gu.com/p/4pt5a",
+          "id": "music/2016/aug/04/2016-mercury-prize-shortlist-what-our-critics-said-hear-the-albums",
+          "group": "0",
+          "frontPublicationDate": 1470389740744,
+          "supporting": [
+            {
+              "headline": "'Mercury list revives an ailing brand'",
+              "trailText": "In recent years the Mercury shortlist has committed the cardinal sin of being boring. This year the judges have rectified this with a list that includes Bowie, Radiohead and Skepta",
+              "thumbnail": "https://i.guim.co.uk/img/media/95cf123bdbc325226cc0e803d4c5259572f3e5a6/0_183_4256_2554/500.jpg?q=55&auto=format&usm=12&fit=max&s=4f78d43a1f23ae6d7eb54ed8657047c1",
+              "shortUrl": "https://gu.com/p/4pt96",
+              "id": "music/musicblog/2016/aug/04/mercury-prize-2016-shortlist-grime-bowie-radiohead-skepta",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "The doctor who convinced himself he was dying",
+          "trailText": "When an experienced physician became convinced he had ALS, none of the specialists he consulted could persuade him he was perfectly healthy",
+          "thumbnail": "https://i.guim.co.uk/img/media/1e37ae741c9c15283ca962c8aae2feb5768b47d2/0_1689_3047_1826/500.jpg?q=55&auto=format&usm=12&fit=max&s=2e4662a094c8331eb64db79e662e40ff",
+          "shortUrl": "https://gu.com/p/4pgze",
+          "id": "news/2016/aug/04/perils-being-your-own-doctor-als",
+          "group": "0",
+          "frontPublicationDate": 1470318160523
+        },
+        {
+          "headline": "Africa's most innovative – and controversial – tech hacks",
+          "trailText": "From 3D-printed limbs to hacktivists tackling oppression, Africa is the perfect place for tech innovation against the odds",
+          "thumbnail": "https://i.guim.co.uk/img/media/54f769febbdede79f76e4e0c6efa8a84d472c1fb/0_58_2205_1323/500.jpg?q=55&auto=format&usm=12&fit=max&s=ae4c6766b753a16f24173aceaaf7b023",
+          "shortUrl": "https://gu.com/p/4k3y2",
+          "id": "world/2016/aug/05/africa-most-innovative-controversial-tech-hacks-hackers",
+          "group": "0",
+          "frontPublicationDate": 1470379830579
+        },
+        {
+          "headline": "Brazilian women embrace hair's curls and kinks",
+          "trailText": "Hair has long been a tool of political expression, and in Brazil, known for its straightening techniques, women are going natural to reclaim their racial identity",
+          "thumbnail": "https://i.guim.co.uk/img/media/336c66224167209e3d74e835551d9a7fdb40b931/60_0_1800_1080/500.jpg?q=55&auto=format&usm=12&fit=max&s=4219c826bf138e0341193a89123c6695",
+          "shortUrl": "https://gu.com/p/4ptch",
+          "id": "world/2016/aug/04/brazilian-women-natural-hair-techniques",
+          "group": "0",
+          "frontPublicationDate": 1470321634239
+        },
+        {
+          "headline": "The strange case of Marina Joyce and internet hysteria",
+          "trailText": "Witch hunts and panic among communities are nothing new, but what happens when YouTube intensifies the frenzy?",
+          "thumbnail": "https://i.guim.co.uk/img/media/f08000463d007a69f025b9a5422cfec8c2945303/329_0_2063_1238/500.jpg?q=55&auto=format&usm=12&fit=max&s=d2cd35ee013780a1f019b4fd294de274",
+          "shortUrl": "https://gu.com/p/4pgad",
+          "id": "technology/2016/aug/04/marina-joyce-internet-hysteria-witch-hunts-cyberspace",
+          "group": "0",
+          "frontPublicationDate": 1470334775158
+        },
+        {
+          "headline": "I watched TV while mapping 100km of Nigeria",
+          "trailText": "Gamers help find hard-to-reach communities as Médecins Sans Frontières uses data from app to produce detailed local maps",
+          "thumbnail": "https://i.guim.co.uk/img/media/60e9d392442a59762fb7fa75f9528668f02212c2/0_77_1024_614/500.jpg?q=55&auto=format&usm=12&fit=max&s=e6e025dd6e0ba4e89f10758c3053e33b",
+          "shortUrl": "https://gu.com/p/4p26q",
+          "id": "global-development/2016/aug/05/app-that-helps-aid-workers-i-watched-tv-while-mapping-100km-of-nigeria",
+          "group": "0",
+          "frontPublicationDate": 1470379857219
+        },
+        {
+          "headline": "Blossoms' doughty indie is indebted to 80s rock-pop",
+          "trailText": "&nbsp;",
+          "thumbnail": "https://i.guim.co.uk/img/media/9bab2a9a0355eb26593a705888b4056bf74cfb99/0_192_5760_3456/500.jpg?q=55&auto=format&usm=12&fit=max&s=d8693f9ca50874e0586a7e0da72b5add",
+          "shortUrl": "https://gu.com/p/4pgn2",
+          "id": "music/2016/aug/04/blossoms-blossoms-review-80s-rock-pop",
+          "group": "0",
+          "frontPublicationDate": 1470319349205
+        },
+        {
+          "headline": "Less sex? We just have less to prove",
+          "trailText": "Are young people really less interested in sex, as a study suggests? Here, eight millennials share their views",
+          "thumbnail": "https://i.guim.co.uk/img/media/9805506036077e3309ae7cb7c14b015859f669a4/0_200_6000_3600/500.jpg?q=55&auto=format&usm=12&fit=max&s=377508fd99c5ba253bb9b5c3d0132d79",
+          "shortUrl": "https://gu.com/p/4pgde",
+          "id": "lifeandstyle/2016/aug/04/millennials-having-less-sex-readers-less-to-prove",
+          "group": "0",
+          "frontPublicationDate": 1470313880886
+        },
+        {
+          "headline": "Positive thinking about the Middle East",
+          "trailText": "An impeccably qualified author, frustrated with media negativity, sees a solution in pluralism and a revival of overlapping faith communities",
+          "thumbnail": "https://i.guim.co.uk/img/media/0ac3f7d433e9ef8fc73aa3e0ce0afa0ded38d16c/0_32_2200_1320/500.jpg?q=55&auto=format&usm=12&fit=max&s=c4a44c6e6a0b6fc48ff24f64732d4db0",
+          "shortUrl": "https://gu.com/p/4pcpa",
+          "id": "books/2016/aug/04/holy-lands-by-nicolas-pelham-review",
+          "group": "0",
+          "frontPublicationDate": 1470319463011
+        },
+        {
+          "headline": "Where have all the women gone?",
+          "trailText": "The genre that once boasted the likes of Patsy Cline and Loretta Lynn now shuts young women out of country radio – and the problem’s actually getting worse",
+          "thumbnail": "https://i.guim.co.uk/img/media/154be10c97113ce82090bf4d6d3622a94a682387/0_104_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=7c6c5b7e4bc6fff5bc6112706247f3e0",
+          "shortUrl": "https://gu.com/p/4phpm",
+          "id": "music/2016/aug/04/female-country-singers-country-music-radio",
+          "group": "0",
+          "frontPublicationDate": 1470313880886
+        },
+        {
+          "headline": "How clean eating devoured the diet",
+          "trailText": "No one can agree on what it means – and that’s because the obsession with eating ‘clean’ is less about what you put into your body and more about how you sell those choices to your followers",
+          "thumbnail": "https://i.guim.co.uk/img/media/8ba8e1a54d411ca6ca7f9d71488076094668bc80/0_261_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=a29947c551da654168af156d3c22df0c",
+          "shortUrl": "https://gu.com/p/4peby",
+          "id": "lifeandstyle/2016/aug/03/clean-eating-diets-chrissy-teigen-juice-soulcycle",
+          "group": "0",
+          "frontPublicationDate": 1470247585986
+        },
+        {
+          "headline": "Why spending more time on the internet is a good thing",
+          "trailText": "A third of people have tried to take time offline, according to an Ofcom report, but just imagine what they’re missing …",
+          "thumbnail": "https://i.guim.co.uk/img/media/3e2987ac09dd8d0a6fba63f2ab017704ba22dafc/0_155_2798_1679/500.jpg?q=55&auto=format&usm=12&fit=max&s=1051d63ea8c330dcfb582a11b81fe3e3",
+          "shortUrl": "https://gu.com/p/4pt5z",
+          "id": "technology/2016/aug/04/why-spending-more-time-on-the-internet-is-a-good-thing",
+          "group": "0",
+          "frontPublicationDate": 1470313880886,
+          "supporting": [
+            {
+              "headline": "Britons' obsession with the web",
+              "trailText": "Study shows scale of obsession with the web, including many people feeling unable to switch off or feeling lost when they do",
+              "thumbnail": "https://i.guim.co.uk/img/media/496cac6de829cc5f3cbefd16d8d0fe2e4078f88f/0_28_5100_3057/500.jpg?q=55&auto=format&usm=12&fit=max&s=7d939f221756fa4dc3c62e4181b3f753",
+              "shortUrl": "https://gu.com/p/4pg28",
+              "id": "technology/2016/aug/04/more-than-a-third-of-uk-internet-users-have-tried-digital-detox-ofcom",
+              "group": "0"
+            }
+          ]
+        },
+        {
+          "headline": "What it's like to ride in a driverless car",
+          "trailText": "The unique simulator at the University of Warwick is designed to mimic the ‘vehicle autonomy’ of the future in which roads are safer. For Tim Dowling, not having his stomach constantly lurch would be a start ...",
+          "thumbnail": "https://i.guim.co.uk/img/media/eb089e319694ff0abccf6290f6d7bbf9849bd225/0_189_4896_2938/500.jpg?q=55&auto=format&usm=12&fit=max&s=710678a6b1e00cea62ac920981baa367",
+          "shortUrl": "https://gu.com/p/4pgvq",
+          "id": "lifeandstyle/2016/aug/03/backseat-history-driverless-car-coventry-warwick-university",
+          "group": "0",
+          "frontPublicationDate": 1470242640560
+        },
+        {
+          "headline": "North Korea sets sights on the moon",
+          "trailText": "In an exclusive interview, aerospace official denies satellite research is a military programme in disguise",
+          "thumbnail": "https://i.guim.co.uk/img/media/43acf586480a0727b7655db4a679b2d1703683a0/0_156_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=660e3d00819b86616797b954a661edfe",
+          "shortUrl": "https://gu.com/p/4pt8x",
+          "id": "world/2016/aug/04/sanctions-wont-stop-our-space-race-north-korea-sets-sights-on-the-moon",
+          "group": "0",
+          "frontPublicationDate": 1470311986127
+        },
+        {
+          "headline": "Reparations site asks people to 'offset your privilege' with acts of kindness",
+          "trailText": "The project by a Seattle-based artist lets strangers help a person of color with anything from childcare to taxes, and has attracted both praise and criticism",
+          "thumbnail": "https://i.guim.co.uk/img/media/6b119f1bd5d69ce6c930c3ecc8d90b67ebbd39af/0_0_600_360/500.jpg?q=55&auto=format&usm=12&fit=max&s=ce53eff2b9ec830eda139c3ea26cadd8",
+          "shortUrl": "https://gu.com/p/4pt2q",
+          "id": "world/2016/aug/04/reparations-website-race-white-privilege-natasha-marin",
+          "group": "0",
+          "frontPublicationDate": 1470299292095
+        },
+        {
+          "headline": "How Chicago police accused of brutality evaded discipline",
+          "trailText": "Dogged by allegations of abuse, members of the group have been named in more than 20 federal lawsuits – yet have won repeated praise from department",
+          "thumbnail": "https://i.guim.co.uk/img/media/1fbb368e7192b02ce56cdde4c2994883264bd496/0_0_1916_1150/500.jpg?q=55&auto=format&usm=12&fit=max&s=14e5a384c2264f121c7f6b46aeb3b689",
+          "shortUrl": "https://gu.com/p/4p94q",
+          "id": "us-news/2016/aug/03/chicago-skullcap-crew-police-brutality",
+          "group": "0",
+          "frontPublicationDate": 1470301310693
+        }
+      ]
+    },
+    {
+      "displayName": "take part",
+      "id": "eaf2df82-f7b4-4d96-a681-db52be53c798",
+      "content": [
+        {
+          "headline": "Readers recommend: share your songs about geology",
+          "trailText": "Make your nomination in the comments and a reader will pick the best eligible tracks for a playlist next week – you have until Monday 8 August",
+          "thumbnail": "https://i.guim.co.uk/img/media/011125b0b0a003a4cecc77ec7af84af9e5ffd46e/0_188_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=161fd2c5c4ddc5656897770717549c7b",
+          "shortUrl": "https://gu.com/p/4pg6c",
+          "id": "music/2016/aug/04/readers-recommend-share-your-songs-about-geology",
+          "group": "0",
+          "frontPublicationDate": 1470337677398
+        },
+        {
+          "headline": "Hooked online or able to switch off? Tell us about your relationship with the web",
+          "trailText": "A study shows many people feel unable to switch off from the internet. Have you managed to get the balance right? Share your experiences",
+          "thumbnail": "https://i.guim.co.uk/img/media/84d090afb9d96ffb7d792251336dc9816f237f01/0_619_5500_3302/500.jpg?q=55&auto=format&usm=12&fit=max&s=a47ef5cfaa870b2f01b22debee518a16",
+          "shortUrl": "https://gu.com/p/4pt7z",
+          "id": "technology/2016/aug/04/hooked-online-or-able-to-switch-off-tell-us-about-your-relationship-with-the-web",
+          "group": "0",
+          "frontPublicationDate": 1470305351665
+        },
+        {
+          "headline": "Readers capture the enlarged Yorkshire Dales and Lake District",
+          "trailText": " After boundaries were re-drawn, we asked you to share your best pictures of the Yorkshire Dales and Lake District national parks – including newly incorporated areas now on many walkers’ bucket lists<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/4977061c1d46fdba9b3159ae0e134c50719aa64f/0_383_1774_1064/500.jpg?q=55&auto=format&usm=12&fit=max&s=81c070f11c94965b78b32313519c2204",
+          "shortUrl": "https://gu.com/p/4ptb8",
+          "id": "environment/gallery/2016/aug/04/your-pictures-of-the-newly-enlarged-yorkshire-dales-and-lake-district",
+          "group": "0",
+          "frontPublicationDate": 1470327137728
+        },
+        {
+          "headline": "Share your eyewitness accounts of the London stabbings",
+          "trailText": "One woman has died and five have been injured after an attack in Russell Square. Have you been affected?<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/ba19650bd57b99a740a8336704fbc83509558125/0_59_3756_2254/500.jpg?q=55&auto=format&usm=12&fit=max&s=5690ba3c4558a1565b2483922dbac610",
+          "shortUrl": "https://gu.com/p/4pt5c",
+          "id": "uk-news/2016/aug/04/share-your-eyewitness-accounts-of-the-london-stabbings",
+          "group": "0",
+          "frontPublicationDate": 1470298414099
+        },
+        {
+          "headline": "Your art on the theme of juxtaposition",
+          "trailText": "We asked you to share your art on the theme of illuminating. Public Relations and Marketing at the Gallery of Russian Art and Design, Ella Rothenstein, has selected her favourites",
+          "thumbnail": "https://i.guim.co.uk/img/media/3cbce6853a6ca42633708c63210ab28815d14561/0_180_1200_720/500.jpg?q=55&auto=format&usm=12&fit=max&s=209f1e69a336d8d6eac5495d4bb4219d",
+          "shortUrl": "https://gu.com/p/4pt7t",
+          "id": "community/gallery/2016/aug/04/side-by-side-your-art-on-the-theme-of-juxtaposition",
+          "group": "0",
+          "frontPublicationDate": 1470325251023
+        },
+        {
+          "headline": "Is it time to abandon the dream of owning a home? Readers' views",
+          "trailText": "Some have argued that we should focus on improving renting rather than obsessing over house ownership. Our readers share their opinions on this<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/96771cd07d8597433a9d05f04c475cff50f0c03d/0_160_5026_3017/500.jpg?q=55&auto=format&usm=12&fit=max&s=143bc02688d77739a353525258331ec0",
+          "shortUrl": "https://gu.com/p/4pt65",
+          "id": "commentisfree/live/2016/aug/04/is-it-time-to-abandon-the-dream-of-owning-a-home-live",
+          "group": "0",
+          "frontPublicationDate": 1470316670257
+        },
+        {
+          "headline": "Songs with one word titles",
+          "trailText": "A reader picks a list from your nominations – songs from Santana, Grateful Dead and Soulsavers all making the cut",
+          "thumbnail": "https://i.guim.co.uk/img/media/b463120b6ba70a3103112428ad1d47a378a59d5b/289_293_3642_2186/500.jpg?q=55&auto=format&usm=12&fit=max&s=5d9e72dd2ebffa2038cba92721e0c2ed",
+          "shortUrl": "https://gu.com/p/4pfyy",
+          "id": "music/2016/aug/04/readers-recommend-playlist-songs-with-one-word-titles",
+          "group": "0",
+          "frontPublicationDate": 1470309136376
+        },
+        {
+          "headline": "Readers share their season finale predictions",
+          "trailText": "From Tyrion dying a hero to Bran warging into a dragon to defeat the White Walkers, here are some of your predictions on how it will all end<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/446ceb1ec85488985341e5cf8cf40c12aa0d9191/0_58_4928_2957/500.jpg?q=55&auto=format&usm=12&fit=max&s=7d35bba946a00a5494ec19f7e7e41a72",
+          "shortUrl": "https://gu.com/p/4pd8z",
+          "id": "tv-and-radio/2016/aug/03/bran-is-the-lord-of-light-readers-game-of-thrones-season-finale-predictions",
+          "group": "0",
+          "frontPublicationDate": 1470225580280
+        },
+        {
+          "headline": "I hope the Games offer a good time for everybody",
+          "trailText": " Ten readers reflect on Brazil’s culture, the mood before the Olympics and their hopes for a positive legacy ",
+          "thumbnail": "https://i.guim.co.uk/img/media/0a2db8d1e6fc70cd4db0286f0631a6ec22c83583/0_260_4092_2455/500.jpg?q=55&auto=format&usm=12&fit=max&s=0e60a8f541acfafc506b4b9b2413eed7",
+          "shortUrl": "https://gu.com/p/4p7nh",
+          "id": "sport/2016/aug/03/brazilians-rio-2016-games-readers-brazil-olympics",
+          "group": "0",
+          "frontPublicationDate": 1470241842089
+        },
+        {
+          "headline": "Recipe swap: share your 'sprinkled' ideas",
+          "trailText": "Share your ‘sprinkled’ recipes with us for a chance to have them printed in Cook",
+          "thumbnail": "https://i.guim.co.uk/img/media/8e257297cebed6dc88919d19b0ecfe2967e1f3ba/89_268_1620_972/500.jpg?q=55&auto=format&usm=12&fit=max&s=1d9f4bc0b6d98bca9980c75b529e0ee7",
+          "shortUrl": "https://gu.com/p/4phjn",
+          "id": "community/2016/aug/03/recipe-swap-share-your-sprinkled-ideas",
+          "group": "0",
+          "frontPublicationDate": 1470252930545
+        },
+        {
+          "headline": "What it's like to survive cancer, by those who have done it",
+          "trailText": "As research shows more people than ever are alive decades after diagnosis, we speak to five people about life after treatment",
+          "thumbnail": "https://i.guim.co.uk/img/media/e154a8965ca30d4412ef308dbb989b1bf0805031/0_117_3630_2179/500.jpg?q=55&auto=format&usm=12&fit=max&s=c04718283f794657a7cce752184cd00d",
+          "shortUrl": "https://gu.com/p/4pd5c",
+          "id": "commentisfree/2016/aug/03/what-its-like-to-survive-cancer-by-those-who-have-been-given-the-all-clear",
+          "group": "0",
+          "frontPublicationDate": 1470231007800
+        },
+        {
+          "headline": "Which ones are you boycotting?",
+          "trailText": "Which brands have you boycotted and why? Share your experiences with us<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/77a03eceb43cb5b65b2016863f58997904097818/0_321_4612_2767/500.jpg?q=55&auto=format&usm=12&fit=max&s=46e877e443606b66800ebe233e429228",
+          "shortUrl": "https://gu.com/p/4pg54",
+          "id": "business/2016/aug/03/unpopular-brands-which-ones-are-you-boycotting",
+          "group": "0",
+          "frontPublicationDate": 1470228995321
+        },
+        {
+          "headline": "'Losing my maintenance grant is daunting'",
+          "trailText": "How will UK students cope now that living costs are no longer covered by grants? Guardian readers share their thoughts",
+          "thumbnail": "https://i.guim.co.uk/img/media/d7606b1d916e344d82405af05836ac90c872bb03/571_359_3414_2049/500.jpg?q=55&auto=format&usm=12&fit=max&s=1401c707c8045b0bd7d64efd7b4a8adc",
+          "shortUrl": "https://gu.com/p/4pe4z",
+          "id": "education/2016/aug/03/losing-my-maintenance-grant-means-80000-of-debt-its-daunting",
+          "group": "0",
+          "frontPublicationDate": 1470245892195
+        },
+        {
+          "headline": "Have you attended a rally?",
+          "trailText": "If you’ve attended one of Smith’s rallies or support his campaign, we’d like to hear from you<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/4131b36fc4a5df57feb5a92e80b0704e60f5fdce/0_32_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=fdedb6de0e7916a57a7e48d497206a03",
+          "shortUrl": "https://gu.com/p/4pg55",
+          "id": "politics/2016/aug/03/have-you-attended-an-owen-smith-rally",
+          "group": "0",
+          "frontPublicationDate": 1470228514871
+        },
+        {
+          "headline": "Is Britain doing enough to help child refugees?",
+          "trailText": "The UK government has failed to keep its promise to provide sanctuary to lone child refugees. Share your thoughts and experiences of the situation with us",
+          "thumbnail": "https://i.guim.co.uk/img/media/4cbfabf4adfd1f5dd033a48390842607d5a9bf91/0_270_6016_3611/500.jpg?q=55&auto=format&usm=12&fit=max&s=cdd2c9780d0b2fbc76612192b539c806",
+          "shortUrl": "https://gu.com/p/4pfmx",
+          "id": "uk-news/2016/aug/03/is-britain-doing-enough-to-help-child-refugees",
+          "group": "0",
+          "frontPublicationDate": 1470224827235
+        },
+        {
+          "headline": "What's it like being a woman in the industry?",
+          "trailText": "The Saatchi executive chairman has resigned after his comments about women in the advertising industry. We’d like to hear your experiences of working in the sector<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/fdfabe23f7c5b712260c61ef29c1fa36603ee142/0_0_2048_1229/500.jpg?q=55&auto=format&usm=12&fit=max&s=73da2cf3fd3154d61b01a3681806ac7c",
+          "shortUrl": "https://gu.com/p/4pfyk",
+          "id": "media/2016/aug/03/whats-it-like-being-a-woman-in-the-advertising-industry",
+          "group": "0",
+          "frontPublicationDate": 1470218550054
+        },
+        {
+          "headline": "How has the Brexit vote affected you?",
+          "trailText": "If you are a farmer or migrant worker employed on a farm we’d like to hear from you<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/6a3c8c71669e8eccd1749f44b4888dd5cd027a70/944_224_4578_2747/500.jpg?q=55&auto=format&usm=12&fit=max&s=04adb9fb2dc83a57b827c550eb6dbbda",
+          "shortUrl": "https://gu.com/p/4pd9q",
+          "id": "environment/2016/aug/02/farmers-and-migrant-workers-how-has-brexit-affected-you",
+          "group": "0",
+          "frontPublicationDate": 1470142603380
+        },
+        {
+          "headline": "Share your experiences and memories",
+          "trailText": "Riots, sparked by the police killing of Mark Duggan, engulfed cities in the UK for five nights in 2011. Share your experiences and memories",
+          "thumbnail": "https://i.guim.co.uk/img/media/f83f69d800238e20c39558f960af80e150585e4b/0_203_4449_2670/500.jpg?q=55&auto=format&usm=12&fit=max&s=43559a9ea70aec2f6fa2aaaa28c164e9",
+          "shortUrl": "https://gu.com/p/4pce2",
+          "id": "uk-news/2016/aug/02/uk-riots-five-years-on-share-your-experiences-and-memories",
+          "group": "0",
+          "frontPublicationDate": 1470133081682
+        },
+        {
+          "headline": "Readers on England's housing crisis",
+          "trailText": "England is in the middle of a housing crisis. We asked people to share where, and how, they live ",
+          "thumbnail": "https://i.guim.co.uk/img/media/8b94ac6a0033236499d0dccf5b8d969aa7589c93/0_34_2500_1499/500.jpg?q=55&auto=format&usm=12&fit=max&s=940841a641d0a026534011bffdd8c1e0",
+          "shortUrl": "https://gu.com/p/4pdta",
+          "id": "uk-news/2016/aug/02/home-ownership-is-unrealistic-five-readers-on-englands-housing-crisis",
+          "group": "0",
+          "frontPublicationDate": 1470157624770
+        }
+      ]
+    },
+    {
+      "displayName": "people",
+      "id": "293ebeb0-7464-4648-8a73-692373ec457e",
+      "content": [
+        {
+          "headline": "Abuse accusations split Hollywood and public",
+          "trailText": "The former couple’s ongoing divorce and restraining order proceedings have scandalized Hollywood, splitting celebrities and fans into warring factions",
+          "thumbnail": "https://i.guim.co.uk/img/media/2a5643a42ec349c43286eec2266f7a8ba5698725/0_58_3072_1843/500.jpg?q=55&auto=format&usm=12&fit=max&s=a683e5bc74af45641a42decb9f8665bb",
+          "shortUrl": "https://gu.com/p/4pekq",
+          "id": "film/2016/aug/05/johnny-depp-amber-herd-domestic-violence-divorce",
+          "group": "0",
+          "frontPublicationDate": 1470393724675
+        },
+        {
+          "headline": "Five best moments",
+          "trailText": "The one-time blockbuster king hopes to regain his crown with DC’s ensemble action thriller Suicide Squad – but what have been his all-time greatest roles?",
+          "thumbnail": "https://i.guim.co.uk/img/media/6b37df526279ba7f237d833ae3e561d754a816e8/0_60_2086_1252/500.jpg?q=55&auto=format&usm=12&fit=max&s=f50924d1cb12a2fa3b704b200d10cbf9",
+          "shortUrl": "https://gu.com/p/4pgxn",
+          "id": "film/2016/aug/05/will-smith-five-best-moments-suicide-squad",
+          "group": "0",
+          "frontPublicationDate": 1470393017560
+        },
+        {
+          "headline": "Rebel Wilson to lead gender-swapped remake",
+          "trailText": "The Pitch Perfect actor will lead a new version of the 1988 comedy, which starred Michael Caine and Steve Martin",
+          "thumbnail": "https://i.guim.co.uk/img/media/1c3a582e30aab83e6db7d13cf35341970f8f5341/0_103_3824_2295/500.jpg?q=55&auto=format&usm=12&fit=max&s=98732edfb0cc1413a81649a6b29d3470",
+          "shortUrl": "https://gu.com/p/4ptzj",
+          "id": "film/2016/aug/05/rebel-wilson-gender-swapped-dirty-rotten-scoundrels-remake",
+          "group": "0",
+          "frontPublicationDate": 1470392816700
+        },
+        {
+          "headline": "Jeremy Vine to host revamped Crimewatch",
+          "trailText": "Radio 2 presenter to take over from Kirsty Young alongside Radio 1’s Tina Daheley",
+          "thumbnail": "https://i.guim.co.uk/img/media/7523a9732f319e6e90d9d06544402ea1597546bb/0_344_3232_1939/500.jpg?q=55&auto=format&usm=12&fit=max&s=10980053a9a2051e45a7763164ed3387",
+          "shortUrl": "https://gu.com/p/4ptqc",
+          "id": "media/2016/aug/05/jeremy-vine-bbc-crimewatch-radio-2-kirsty-young-tina-daheley",
+          "group": "0",
+          "frontPublicationDate": 1470393478711
+        },
+        {
+          "headline": "James Corden and Rose Byrne to star in Peter Rabbit movie",
+          "trailText": "The British actor and talk show host will voice the Beatrix Potter character in a film mixing live action and animation",
+          "thumbnail": "https://i.guim.co.uk/img/media/a80c06fce45d2278dfa47f476767723af986a567/0_0_2560_1536/500.jpg?q=55&auto=format&usm=12&fit=max&s=e9b7d4ff14e99b75f4803aeb69077d36",
+          "shortUrl": "https://gu.com/p/4ptp8",
+          "id": "film/2016/aug/05/james-corden-and-rose-byrne-to-star-in-peter-rabbit-movie",
+          "group": "0",
+          "frontPublicationDate": 1470391723585
+        },
+        {
+          "headline": "'We don’t need to be the men our grandfathers were'",
+          "trailText": "<strong>First book interview:</strong> The debut author’s study of ‘toxic masculinity’ was uncomfortable to write, but he says it’s fired with hope that clichéd male behaviour can be unlearned",
+          "thumbnail": "https://i.guim.co.uk/img/media/017290bd7d5284b77f1db413eb72afd0b017ccda/0_157_5616_3370/500.jpg?q=55&auto=format&usm=12&fit=max&s=ff0c7163c704ae845b8f8d64f720bc2e",
+          "shortUrl": "https://gu.com/p/4yx4h",
+          "id": "books/2016/aug/04/jack-urwin-we-dont-need-to-be-the-men-our-grandfathers-were",
+          "group": "0",
+          "frontPublicationDate": 1470334478509
+        },
+        {
+          "headline": "Divergent actor to star in film about 'craziest OkCupid date ever'",
+          "trailText": "Actor will star in No Baggage, a romantic comedy based on the true story of an online date that involved travelling to eight countries in 21 days",
+          "thumbnail": "https://i.guim.co.uk/img/media/cbd4d4188b28e42e9668b6d3b2b09c83a8ed2dff/21_40_1688_1012/500.jpg?q=55&auto=format&usm=12&fit=max&s=3f971de6f5059b34177665d7624c504f",
+          "shortUrl": "https://gu.com/p/4pt5h",
+          "id": "film/2016/aug/04/shailene-woodley-craziest-okcupid-date-ever-no-baggage",
+          "group": "0",
+          "frontPublicationDate": 1470330236387
+        },
+        {
+          "headline": "Daisy Ridley takes social media break after reaction to gun violence post",
+          "trailText": "The Star Wars: The Force Awakens actor deleted her Instagram account shortly after using the social platform to address gun violence in America",
+          "thumbnail": "https://i.guim.co.uk/img/media/8114fc4ac1db7aabb366e2beefe4c6bb8925203f/0_512_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=706d1a3437161bbd2c49947824e21e19",
+          "shortUrl": "https://gu.com/p/4ptdz",
+          "id": "film/2016/aug/04/daisy-ridley-social-media-break-gun-violence-post",
+          "group": "0",
+          "frontPublicationDate": 1470323803448
+        },
+        {
+          "headline": "'Very conservative' film industry not ready for gay leading men",
+          "trailText": "The Suicide Squad star told GQ that he believes gay actors do not have the same opportunities in Hollywood as their straight counterparts ",
+          "thumbnail": "https://i.guim.co.uk/img/media/ef15b1294ea74c58aea8e362c3a55e20fab5cd27/246_186_1640_984/500.jpg?q=55&auto=format&usm=12&fit=max&s=a07be0f5287bb5523beb1b17363d9f2a",
+          "shortUrl": "https://gu.com/p/4ptd3",
+          "id": "film/2016/aug/04/jared-leto-hollywood-conservative-gay-leading-men",
+          "group": "0",
+          "frontPublicationDate": 1470322523859
+        },
+        {
+          "headline": "Singer undergoing 'intense therapy' for sex addiction",
+          "trailText": "Black Sabbath singer says he is ‘mortified’ at what his behaviour has done to his family, following the exposure of his ‘relationship’ with a celebrity hairstylist",
+          "thumbnail": "https://i.guim.co.uk/img/media/27bb3b4d92c38a031205d8a2cdc66b2683c8ac1d/0_299_5303_3182/500.jpg?q=55&auto=format&usm=12&fit=max&s=23ebdb2e1fc4a3c5fb87d50a109e4fcc",
+          "shortUrl": "https://gu.com/p/4pt4n",
+          "id": "music/2016/aug/04/ozzy-osbourne-intense-therapy-sex-addiction",
+          "group": "0",
+          "frontPublicationDate": 1470304882487
+        },
+        {
+          "headline": "US Olympic basketball star reveals she is gay",
+          "trailText": "Reigning WNBA MVP, 26, who plays for the Chicago Sky, confirms she is engaged to longtime partner",
+          "thumbnail": "https://i.guim.co.uk/img/media/493ad0bd1f7d72d96414753cf38cd960fd005c43/0_323_4928_2957/500.jpg?q=55&auto=format&usm=12&fit=max&s=5c6971e1861b6b86dd0d7eae882fb2fc",
+          "shortUrl": "https://gu.com/p/4ptfq",
+          "id": "sport/2016/aug/04/elena-delle-donne-us-olympic-basketball-gay",
+          "group": "0",
+          "frontPublicationDate": 1470325405749
+        },
+        {
+          "headline": "Brian Eno taught me to embrace accidents in music",
+          "trailText": "The musician talks about the five highlights of his career – from his first ever show opening for Coldplay at Madison Square Garden to working with David Lynch",
+          "thumbnail": "https://i.guim.co.uk/img/media/30528813014f5ef057fba095a0ee0f158eb8f5f6/0_0_4993_2996/500.jpg?q=55&auto=format&usm=12&fit=max&s=1800745073a3b07b4d38f1578e380425",
+          "shortUrl": "https://gu.com/p/4ptax",
+          "id": "music/2016/aug/04/jon-hopkins-favourite-tracks",
+          "group": "0",
+          "frontPublicationDate": 1470319819511
+        },
+        {
+          "headline": "How to fashion-proof your house the Marc Jacobs way",
+          "trailText": "A cover story for Architectural Digest reveals the designer’s world of interiors at home in New York",
+          "thumbnail": "https://i.guim.co.uk/img/media/ff7e7a3b9224d46d0bc53c15b48c3a899b58507f/0_255_1671_1003/500.jpg?q=55&auto=format&usm=12&fit=max&s=456bf3c7d8724c56edd04777d4f1b531",
+          "shortUrl": "https://gu.com/p/4pgt4",
+          "id": "fashion/2016/aug/04/how-to-fashion-proof-your-house-the-marc-jacobs-way",
+          "group": "0",
+          "frontPublicationDate": 1470304084063
+        },
+        {
+          "headline": "When my girls think I'm boring, that brings me down to earth",
+          "trailText": "Addressing a summit for young African leaders in Washington, the US president spoke reflectively about balancing family life with a political career",
+          "thumbnail": "https://i.guim.co.uk/img/media/6b7cc07a97cabfc294c0d46d111a90e79ee7b027/0_311_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=fc43b9a1e9ccba6ed1d9ba5fbae22179",
+          "shortUrl": "https://gu.com/p/4ptxv",
+          "id": "us-news/2016/aug/03/barack-obama-family-life-young-african-leaders-summit",
+          "group": "0",
+          "frontPublicationDate": 1470268974102
+        },
+        {
+          "headline": "To be human is to be flawed",
+          "trailText": "The author of Americanah and Half of a Yellow Sun joined us to answer your questions – and opened up about her creative process, female sexuality and early failures",
+          "thumbnail": "https://i.guim.co.uk/img/media/39ff2cbec479b75a125ce649392e50def38b78d5/588_197_5011_3006/500.jpg?q=55&auto=format&usm=12&fit=max&s=ea8b06f344082a96e7fd18f95c9358f7",
+          "shortUrl": "https://gu.com/p/4p9d4",
+          "id": "books/live/2016/aug/01/chimamanda-ngozi-adichie-webchat-half-of-a-yellow-sun",
+          "group": "0",
+          "frontPublicationDate": 1470231849557
+        },
+        {
+          "headline": "Formula One racing driver",
+          "trailText": "Sublimely talented Formula One racing driver who never won a grand prix",
+          "thumbnail": "https://i.guim.co.uk/img/media/9fa245f238e336e7af3f0b14546d67f1756f88e2/0_197_4706_2824/500.jpg?q=55&auto=format&usm=12&fit=max&s=ea8b8922565320bc29ac509c4c5f01f9",
+          "shortUrl": "https://gu.com/p/4phvz",
+          "id": "sport/2016/aug/03/chris-amon-obituary",
+          "group": "0",
+          "frontPublicationDate": 1470241882083
+        }
+      ]
+    },
+    {
+      "displayName": "pictures",
+      "href": "inpictures",
+      "id": "uk-alpha/special-other/special-story",
+      "content": [
+        {
+          "headline": "Kiev, Ukraine",
+          "trailText": "Dressing up for National Police Day",
+          "thumbnail": "https://i.guim.co.uk/img/media/2a643801184509fb1defbe61dace124b57652f8e/0_57_4928_2956/500.jpg?q=55&auto=format&usm=12&fit=max&s=697ceb815f57183d076564184f8aa1e5",
+          "shortUrl": "https://gu.com/p/4ptpy",
+          "id": "world/picture/2016/aug/05/pb-eyewitness-kiev-ukraine",
+          "group": "0",
+          "frontPublicationDate": 1470391570047
+        },
+        {
+          "headline": "Forty years of A Midsummer Night's Dream at Glyndebourne",
+          "trailText": "How Glyndebourne has tackled the Benjamin Britten opera, from Peter Hall’s 1981 production to the latest revival, which will debut on 11 August",
+          "thumbnail": "https://i.guim.co.uk/img/media/ee6255c6913846e0d669614c2e2507777bf70ba7/0_242_5596_3357/500.jpg?q=55&auto=format&usm=12&fit=max&s=e14e466d26b9e27df95ee7d2dbcb5751",
+          "shortUrl": "https://gu.com/p/4pdnq",
+          "id": "music/gallery/2016/aug/05/forty-years-glyndebourne-a-midsummer-nights-dream-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470392100780
+        },
+        {
+          "headline": "Polly Braden's two years with people with learning disabilities",
+          "trailText": "From quiet moments in a swimming pool to the joy of getting married",
+          "thumbnail": "https://i.guim.co.uk/img/media/dec1aeb108cd8490bafc45fb211fb21d638ee57e/1225_0_2285_1371/500.jpg?q=55&auto=format&usm=12&fit=max&s=5ef15efffdd12f82d5dacc52bbb40c76",
+          "shortUrl": "https://gu.com/p/4pcmn",
+          "id": "artanddesign/gallery/2016/aug/05/expecting-to-fly-disabled-people-learn-laugh-and-love-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470379885522
+        },
+        {
+          "headline": "Your art on the theme of juxtaposition",
+          "trailText": "We asked you to share your art on the theme of illuminating. Public Relations and Marketing at the Gallery of Russian Art and Design, Ella Rothenstein, has selected her favourites",
+          "thumbnail": "https://i.guim.co.uk/img/media/3cbce6853a6ca42633708c63210ab28815d14561/0_180_1200_720/500.jpg?q=55&auto=format&usm=12&fit=max&s=209f1e69a336d8d6eac5495d4bb4219d",
+          "shortUrl": "https://gu.com/p/4pt7t",
+          "id": "community/gallery/2016/aug/04/side-by-side-your-art-on-the-theme-of-juxtaposition",
+          "group": "0",
+          "frontPublicationDate": 1470325348011
+        },
+        {
+          "headline": "Crop circles, ballet and a surfing torch relay",
+          "trailText": "A crop circle in Germany, dress rehearsals for the Taming of the Shrew by the Moscow Bolshoi and a surfing torch relay at the Rio Olympics",
+          "thumbnail": "https://i.guim.co.uk/img/media/d65c8c58532163e19a57b306f88ee3871ece2c45/0_43_5422_3253/500.jpg?q=55&auto=format&usm=12&fit=max&s=7b6917af2606b41c4eac3afe6a43733c",
+          "shortUrl": "https://gu.com/p/4ptae",
+          "id": "world/gallery/2016/aug/04/best-photographs-of-the-day-crop-circles-and-a-surfing-torch-relay",
+          "group": "0",
+          "frontPublicationDate": 1470316447734
+        },
+        {
+          "headline": "Bangladesh's hidden LGBT community",
+          "trailText": "Photographer Gazi Nafis Ahmed spent a year with his subjects before taking these portraits – ‘I want them to express themselves freely,’ he says, as they share their own stories <br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/1396016658713ebcd19f6740bfde4031ffcd9999/0_146_4368_2620/500.jpg?q=55&auto=format&usm=12&fit=max&s=9e4f4444c6704afbf081e69433fbf68c",
+          "shortUrl": "https://gu.com/p/4ph26",
+          "id": "artanddesign/gallery/2016/aug/04/bangladesh-lgbt-community-gazi-nafis-ahmed-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470301377627
+        },
+        {
+          "headline": "Surviving on wild seeds after failed harvests",
+          "trailText": "In Chad, 4.3 million people are food insecure, and 176,000 children have severe acute malnutrition, after erratic rains led to ruined crops ",
+          "thumbnail": "https://i.guim.co.uk/img/media/821c0b74d3eb4bc944b9303a497444db99af6c61/0_658_5790_3476/500.jpg?q=55&auto=format&usm=12&fit=max&s=9079d13f1a00356f8bda3e28cdafac95",
+          "shortUrl": "https://gu.com/p/4zpgk",
+          "id": "global-development/gallery/2016/aug/04/surviving-on-wild-seeds-after-failed-harvests-in-chad-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470304030351
+        },
+        {
+          "headline": "The North Korean seasons",
+          "trailText": "The cold leaves people subdued but as the weather warms up parasols and beer drinkers come out in force. Photographer Fabian Muir, a finalist in the inaugural Magnum photography awards, shares the best of his photos from the secretive state ",
+          "thumbnail": "https://i.guim.co.uk/img/media/6f786abb098b4f25f655ea16ab6ed7dd422eb5dc/0_46_1500_900/500.jpg?q=55&auto=format&usm=12&fit=max&s=eff100620b75511b660ecf894983d613",
+          "shortUrl": "https://gu.com/p/4pg6n",
+          "id": "world/gallery/2016/aug/04/people-really-open-up-in-the-summer-the-north-korean-seasons-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470292376289
+        },
+        {
+          "headline": "Eritrea trapped in the past",
+          "trailText": "Photojournalist Stéphanie Buret travelled to former Italian colony Eritrea, and found a country both in thrall to its former rulers and under the heel of its current ones",
+          "thumbnail": "https://i.guim.co.uk/img/media/76d4cb79dd7d71f0b5949295e3fd3f511e193bb7/0_384_5760_3456/500.jpg?q=55&auto=format&usm=12&fit=max&s=ef2e1e1f7a1af636f88298f1d78e78a0",
+          "shortUrl": "https://gu.com/p/4pcb8",
+          "id": "artanddesign/gallery/2016/aug/04/not-so-dolce-vita-eritrea-trapped-in-the-past-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470292283483
+        },
+        {
+          "headline": "South African elections and Praying Mantis",
+          "trailText": "The Guardian’s picture editors bring you a selection of photo highlights from around the world, including voters in Durban and a bejewelled insect",
+          "thumbnail": "https://i.guim.co.uk/img/media/743d1ac8eeb4561b55360cabde434bcd6f6e2a00/140_0_2629_1578/500.jpg?q=55&auto=format&usm=12&fit=max&s=7df2d3a6cea283a095973597b20e04ed",
+          "shortUrl": "https://gu.com/p/4pfqh",
+          "id": "news/gallery/2016/aug/03/best-photographs-of-the-day-south-african-elections-praying-mantis",
+          "group": "0",
+          "frontPublicationDate": 1470226899689
+        },
+        {
+          "headline": "How a skatepark is changing the face of Yangon",
+          "trailText": "Yangon has some of the least public space of any major city – but new efforts to open up Myanmar have seen the creation of projects like this one: the country’s first international-standard skatepark",
+          "thumbnail": "https://i.guim.co.uk/img/media/6599e807f9abe44b0626ac1b174ab767704e0b2b/0_0_5582_3349/500.jpg?q=55&auto=format&usm=12&fit=max&s=2724b39604c744699ff6d22806aa2929",
+          "shortUrl": "https://gu.com/p/4pcvq",
+          "id": "cities/gallery/2016/aug/03/skatepark-yangon-myanmar-skateboarding-in-pictures",
+          "group": "0",
+          "frontPublicationDate": 1470224431854
+        }
+      ]
+    },
+    {
+      "displayName": "most popular",
+      "id": "uk/most-viewed/regular-stories",
+      "content": [
+        {
+          "headline": "Plane crashes on to road in Italy after overshooting Bergamo airport runway",
+          "trailText": "The cargo plane, a Boeing 737 belonging to DHL couriers, crashed after landing in apparent bad weather ",
+          "thumbnail": "https://i.guim.co.uk/img/media/2799faa84f1a13d54d346e78ba26574bd92b8c01/0_25_960_576/500.jpg?q=55&auto=format&usm=12&fit=max&s=b1bcbc42f286cf8fc6f247bdd91bc6fb",
+          "shortUrl": "https://gu.com/p/4ptnf",
+          "id": "world/2016/aug/05/plane-crash-bergamo-overshoots-runway-road-italy-airport",
+          "group": "0"
+        },
+        {
+          "headline": "Black Lives Matter protest sparks traffic chaos outside Heathrow",
+          "trailText": "Protesters block road near London airport, halting M4 traffic, as similar action is seen in Nottingham and Birmingham ",
+          "thumbnail": "https://i.guim.co.uk/img/media/564dc2b0a08a20b7a1f88a7148b74fbbf729740d/0_338_2693_1616/500.jpg?q=55&auto=format&usm=12&fit=max&s=de1f4a311d8d9237d708654dba55d4d0",
+          "shortUrl": "https://gu.com/p/4ptpv",
+          "id": "uk-news/2016/aug/05/black-lives-matter-protest-sparks-heathrow-traffic-chaos",
+          "group": "0"
+        },
+        {
+          "headline": "Tom Watson criticises Shami Chakrabarti peerage nomination",
+          "trailText": "Labour’s deputy leader praises former Liberty chief but says timing of Corbyn’s nomination is a mistake",
+          "thumbnail": "https://i.guim.co.uk/img/media/3884544481d6cfec47274f62943bca925c120050/0_89_3696_2218/500.jpg?q=55&auto=format&usm=12&fit=max&s=9f4913434fe655e78399f65f767767a9",
+          "shortUrl": "https://gu.com/p/4ptz2",
+          "id": "politics/2016/aug/05/tom-watson-criticises-shami-chakrabarti-peerage-nomination",
+          "group": "0"
+        },
+        {
+          "headline": "Trump, Brexit ... Is New Zealand your escape route too?",
+          "trailText": "Billy Crystal has threatened to move to New Zealand if Trump wins power and post-Brexit, ‘move to New Zealand’ became a top Google search term. Please consider moving here, but do so with your eyes wide open<br>",
+          "thumbnail": "https://i.guim.co.uk/img/media/bf87347ef58285fce27f8141a2320f7adb9f2e8d/0_102_3072_1843/500.jpg?q=55&auto=format&usm=12&fit=max&s=345d6933891d968f8a21381aeab8014c",
+          "shortUrl": "https://gu.com/p/4pd3z",
+          "id": "commentisfree/2016/aug/05/trump-brexit-is-new-zealand-your-escape-route-too",
+          "group": "0"
+        },
+        {
+          "headline": "Olympics 2016 daily briefing: Rio gets set for 'analogue' opening ceremony",
+          "trailText": "Official start will be ‘cool’ on a budget, say organisers. Plus men’s football begins with goalless draw for Brazil, and Russia is (mostly) back in the Games",
+          "thumbnail": "https://i.guim.co.uk/img/media/68b8970aefba8110f2a66d849e3e4b1a8ecdcb02/0_42_4096_2459/500.jpg?q=55&auto=format&usm=12&fit=max&s=42ecbeef2c9c8c0d31aa7cc83fd3a078",
+          "shortUrl": "https://gu.com/p/4ptme",
+          "id": "sport/2016/aug/05/olympics-2016-daily-briefing-rio-analogue-opening-ceremony",
+          "group": "0"
+        },
+        {
+          "headline": "Premier League 2016-17 season preview No9: Liverpool",
+          "trailText": "There is a strong sense something is stirring at Anfield under Jürgen Klopp, who is convinced Liverpool will challenge this season. He is right to expect a significant improvement",
+          "thumbnail": "https://i.guim.co.uk/img/media/b69c4ab98d7d25878c8877dadcf4a48a152579a8/0_18_3000_1800/500.jpg?q=55&auto=format&usm=12&fit=max&s=ca7a9400b4764e4df61af347da4aa6e1",
+          "shortUrl": "https://gu.com/p/4pdde",
+          "id": "football/blog/2016/aug/05/premier-league-2016-2017-preview-liverpool",
+          "group": "0"
+        },
+        {
+          "headline": "If peers apply the brakes to Brexit, we’ll be doing our job",
+          "trailText": "It’s not our role to defy the will of the people. But faced with potential calamity, we can ask the government to think again",
+          "thumbnail": "https://i.guim.co.uk/img/media/38c56f7620dc01a2667794245cb73973319d0a2a/0_0_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=91eb6e4f3d4b6797a42d22b97e9a5a2b",
+          "shortUrl": "https://gu.com/p/4ptf5",
+          "id": "commentisfree/2016/aug/05/peers-brakes-brexit-doing-our-job",
+          "group": "0"
+        },
+        {
+          "headline": "Jeremy Corbyn and Owen Smith face off in tense Labour leadership hustings",
+          "trailText": "Challenger heckled by audience during plea for unity as incumbent questions his resignation from shadow cabinet",
+          "thumbnail": "https://i.guim.co.uk/img/media/d9d1c5900246194daadc623f152e901f3d6103be/0_5_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=b4056820e828ec705352fdb63e7e91f1",
+          "shortUrl": "https://gu.com/p/4ptj6",
+          "id": "politics/2016/aug/04/corbyn-and-smith-face-off-in-tense-labour-leadership-hustings",
+          "group": "0"
+        },
+        {
+          "headline": "Melania Trump denies working unlawfully as model in US on improper visa",
+          "trailText": "The New York Post published naked photos taken of Donald Trump’s wife in 1995, a year before she emigrated to the US, according to previous statements",
+          "thumbnail": "https://i.guim.co.uk/img/media/d3285e0b10fcc285eab54e83cb19823fb46cc4e8/0_86_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=1a37a039a9b70be47848af554a9c8e46",
+          "shortUrl": "https://gu.com/p/4pthc",
+          "id": "us-news/2016/aug/04/melania-trump-nude-photos-work-visa-immigration",
+          "group": "0"
+        },
+        {
+          "headline": "Team GB's opening ceremony outfits are subtly British",
+          "trailText": "Stella McCartney has pulled off a tricky balance with the jackets UK athletes will wear in Rio",
+          "thumbnail": "https://i.guim.co.uk/img/media/a980552851a44c51f217be15416077f6da3e8a23/0_0_2583_1550/500.jpg?q=55&auto=format&usm=12&fit=max&s=425821ec3c53494f42d3837c05a74a8f",
+          "shortUrl": "https://gu.com/p/4ptgg",
+          "id": "sport/2016/aug/05/team-gb-opening-ceremony-outfits-subtly-british-stella-mccartney-rio",
+          "group": "0"
+        },
+        {
+          "headline": "Jeremy Corbyn and Owen Smith's first leadership hustings: our writers' verdict",
+          "trailText": "The Labour party saw its first head-to-head debate between the party’s two candidates. Who, if either, came out on top? ",
+          "thumbnail": "https://i.guim.co.uk/img/media/aba181a5cc77db2759aa439ac38f0c862280728d/0_118_4000_2400/500.jpg?q=55&auto=format&usm=12&fit=max&s=9b873c2f35f96a7fe442ad5debe4e3ec",
+          "shortUrl": "https://gu.com/p/4ptkf",
+          "id": "commentisfree/2016/aug/04/jeremy-corbyn-and-owen-smiths-first-hustings-what-our-writers-thought",
+          "group": "0"
+        },
+        {
+          "headline": "Child sexual abuse inquiry: Rudd vows to press on after Dame Lowell Goddard resignation",
+          "trailText": "Home secretary pushes ahead with finding new leader, saying ‘success of this inquiry remains an absolute priority’",
+          "thumbnail": "https://i.guim.co.uk/img/media/71a21bdbf2aafae3d7bbeb478d4ebe93af0369fd/0_432_3380_2028/500.jpg?q=55&auto=format&usm=12&fit=max&s=b2498448731cca7f77c78d1f213422af",
+          "shortUrl": "https://gu.com/p/4ptjj",
+          "id": "society/2016/aug/04/dame-lowell-goddard-resigns-as-head-of-child-sexual-abuse-inquiry",
+          "group": "0"
+        },
+        {
+          "headline": "Hackers for Hillary: event attendance 'through the roof' after Trump remarks",
+          "trailText": "Outraged by Donald Trump’s call on Russia to hack the Democratic nominee, an atypical fundraiser proved popular at the Black Hat hackers conference ",
+          "thumbnail": "https://i.guim.co.uk/img/media/2fa989af38ccce809521b87585b5267dccafb0b4/0_191_3500_2100/500.jpg?q=55&auto=format&usm=12&fit=max&s=fe4001650d5d6e87d657959509654875",
+          "shortUrl": "https://gu.com/p/4pty4",
+          "id": "technology/2016/aug/04/hackers-for-hillary-attendance-black-hat-conference-trump",
+          "group": "0"
+        },
+        {
+          "headline": "British woman held after being seen reading book about Syria on plane",
+          "trailText": "Faizah Shaheen was detained after an airline crew member reported her for suspicious activity on a flight to Turkey",
+          "thumbnail": "https://i.guim.co.uk/img/media/bfba30c63f98e2556e9ea8e62c395de27cd20fd7/0_25_1220_732/500.jpg?q=55&auto=format&usm=12&fit=max&s=1a35dafd21fce9f740bf8158e39e7d34",
+          "shortUrl": "https://gu.com/p/4ptbk",
+          "id": "books/2016/aug/04/british-woman-held-after-being-seen-reading-book-about-syria-on-plane",
+          "group": "0"
+        },
+        {
+          "headline": "London stabbing: American victim was an inspiration, friends say",
+          "trailText": "Darlene Horton, a retired teacher, was highly regarded in her Florida community for her ‘vibrant personality’ and philanthropy",
+          "thumbnail": "https://i.guim.co.uk/img/media/28af4a653b44085bd7ad850a75695992f7047462/0_176_1588_952/500.jpg?q=55&auto=format&usm=12&fit=max&s=48a75a965126c44963f6a9e84e37002b",
+          "shortUrl": "https://gu.com/p/4ptn8",
+          "id": "uk-news/2016/aug/05/london-stabbing-american-victim-was-an-inspiration-friends-say",
+          "group": "0"
+        },
+        {
+          "headline": "Child abuse victims say inquiry must continue after chair's resignation",
+          "trailText": "Lowell Goddard steps down from inquiry into claims of institutional child abuse, blaming ‘legacy of failure’",
+          "thumbnail": "https://i.guim.co.uk/img/media/d593a930d231cc30c9f3efc6e72323ffd93b8525/177_460_4315_2590/500.jpg?q=55&auto=format&usm=12&fit=max&s=954fc9bfe33716bd06323199773d1fdc",
+          "shortUrl": "https://gu.com/p/4ptz8",
+          "id": "society/2016/aug/05/child-abuse-victims-say-inquiry-must-continue-lowell-goddard-resignation",
+          "group": "0"
+        },
+        {
+          "headline": "Those who deny the housing crisis can no longer conceal their idiocy",
+          "trailText": "With each damning housing report, the dinosaurs who refuse to acknowledge facts peel off - especially now problems with affordability are countrywide",
+          "thumbnail": "https://i.guim.co.uk/img/media/93b3d49833152a3c183e33116426b1527d49fbd8/0_0_5128_3077/500.jpg?q=55&auto=format&usm=12&fit=max&s=2255ac426f97af86e842d1116b465283",
+          "shortUrl": "https://gu.com/p/4ptcg",
+          "id": "housing-network/2016/aug/05/those-who-deny-the-housing-crisis-can-no-longer-conceal-their-idiocy-resolution-foundation",
+          "group": "0"
+        },
+        {
+          "headline": "Isis tries to impose new leader on Boko Haram in Nigeria",
+          "trailText": "Leadership of terrorist group in doubt, with long-term leader believed to be out of favour after killing moderate Muslims",
+          "thumbnail": "https://i.guim.co.uk/img/media/14d579607ceb89bfec055f712602f46fbe95c271/0_259_1533_919/500.jpg?q=55&auto=format&usm=12&fit=max&s=a30def265ae983e0d28a49ca38b0fe51",
+          "shortUrl": "https://gu.com/p/4ptyj",
+          "id": "world/2016/aug/05/isis-tries-to-impose-new-leader-on-boko-haram-in-nigeria",
+          "group": "0"
+        },
+        {
+          "headline": "Voters deliver stinging rebuke to ANC in South African election",
+          "trailText": "Party concedes defeat in Port Elizabeth and could lose control of Johannesburg and Pretoria",
+          "thumbnail": "https://i.guim.co.uk/img/media/5b60a93933b1583f310e418d9a344c4b7ed0b505/0_17_3600_2160/500.jpg?q=55&auto=format&usm=12&fit=max&s=e72f34985a56fd22bffcfa3fae0c1934",
+          "shortUrl": "https://gu.com/p/4ptt8",
+          "id": "world/2016/aug/04/south-africans-deliver-stinging-rebuke-to-anc",
+          "group": "0"
+        },
+        {
+          "headline": "McDonald's wants us to size up its 'food journey' – so let's do that",
+          "trailText": "So the fast-food chain is no longer using some antibiotics and preservatives. Does it think we have forgotten the calorific dressed salad or ammonia-infused ‘pink slurry’? ",
+          "thumbnail": "https://i.guim.co.uk/img/media/bedced12471414016b4bb6224f503042bbb6328e/0_0_2886_1732/500.jpg?q=55&auto=format&usm=12&fit=max&s=31ec569c98a119a2dc5619fa26534ab5",
+          "shortUrl": "https://gu.com/p/4pgg6",
+          "id": "lifeandstyle/wordofmouth/2016/aug/05/mcdonalds-wants-us-to-size-up-its-food-journey-so-lets-do-that",
+          "group": "0"
+        }
+      ]
+    }
+  ]
+}

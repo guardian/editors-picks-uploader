@@ -1,17 +1,17 @@
 package com.gu.contentapi.services
 
 import com.amazonaws.ClientConfiguration
-import com.amazonaws.auth.{AWSCredentialsProviderChain, InstanceProfileCredentialsProvider}
+import com.amazonaws.auth.{ AWSCredentialsProviderChain, InstanceProfileCredentialsProvider }
 import com.amazonaws.auth.profile.ProfileCredentialsProvider
 import com.amazonaws.services.sns.AmazonSNSClient
-import com.amazonaws.services.sns.model.{PublishRequest, PublishResult}
+import com.amazonaws.services.sns.model.{ PublishRequest, PublishResult }
 import com.gu.contentapi.Config
 
 import scala.util.Try
 
 class SNS(val config: Config) {
 
-  private lazy val snsClient: AmazonSNSClient = {
+  private val snsClient: AmazonSNSClient = {
 
     val snsClientConfiguration = new ClientConfiguration().withConnectionTimeout(20000).withSocketTimeout(20000)
     val snsClient = new AmazonSNSClient(snsClientConfiguration)
