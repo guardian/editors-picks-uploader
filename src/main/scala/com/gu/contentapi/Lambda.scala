@@ -21,8 +21,7 @@ class Lambda
     for {
       front <- facia.fronts
       collections <- facia.collections(front)(config)
-      editorsPick <- EditorsPick(front, collections)
-      notification = Notification.create(editorsPick)
+      notification = Notification.create(EditorsPick(front, collections))
     } yield {
       sns.publish(config.aws.topicArn, Json.stringify(Json.toJson(notification))) match {
         case Success(_) => println(s"Successfully published editors picks for front: ${notification.body.id}")
