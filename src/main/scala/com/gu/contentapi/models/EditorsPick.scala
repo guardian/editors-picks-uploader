@@ -14,6 +14,5 @@ object EditorsPick {
 
     Option(first25ContentItemsFromAllCollections)
       .map(item => EditorsPick(front, item))
-      .filter(_.contentItems.nonEmpty) // we filter out collections that are empty so that in the event of a problem we don't overwrite them in Elasticsearch - discuss whether this is good or bad.
   }
 }

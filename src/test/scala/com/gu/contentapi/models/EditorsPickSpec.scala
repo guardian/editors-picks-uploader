@@ -7,14 +7,6 @@ import scala.io.Source._
 
 class EditorsPickSpec extends FlatSpec with Matchers {
 
-  it should "not create an editors pick if collections are empty" in {
-    val front = "uk"
-    val collections: JsArray = JsArray(Nil)
-    val editorsPick = EditorsPick(front, collections)
-
-    editorsPick should be(None)
-  }
-
   it should "create an editors pick with the correct number of content items" in {
     val front = "uk"
     val collections = (Json.parse(fromFile("src/test/resources/uk-collections.json").mkString) \ "collections").as[JsArray]
