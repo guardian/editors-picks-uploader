@@ -13,11 +13,10 @@ class EditorsPickSpec extends FlatSpec with Matchers {
     val editorsPick = EditorsPick(front, collections)
     val expectedContentItems = Json.parse(fromFile("src/test/resources/uk-expected-content-items.json").mkString).as[JsArray]
 
-    editorsPick should not be (None)
-    editorsPick.foreach(_.front should be("uk"))
+    editorsPick.front should be("uk")
 
-    editorsPick.foreach(_.contentItems.size should be(25))
-    editorsPick.map(_.contentItems == expectedContentItems.value) should be(Some(true))
+    editorsPick.contentItems.size should be(25)
+    (editorsPick.contentItems == expectedContentItems.value) should be(true)
   }
 
 }
