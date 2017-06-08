@@ -9,8 +9,8 @@ Parameters:
   CMSFrontsRoleArn:
     Description: 'CMSFronts role arn to assume for retrieving fronts'
     Type: String
-  ContentApiNotificationsTopicArn:
-    Description: 'Content API Notifications topic ARN'
+  NextgenApiUrl:
+    Description: 'URL of nextgen api'
     Type: String
 
 Resources:
@@ -48,12 +48,24 @@ Resources:
               Statement:
                 - Effect: Allow
                   Action: [ 'sns:ListTopics', 'sns:Publish' ]
-                  Resource: !Ref ContentApiNotificationsTopicArn
+                  Resource: !Ref NotificationsTopic
+
+  NotificationsTopic:
+    Type: AWS::SNS::Topic
+    Properties:
+      TopicName: !Sub content-api-notifications-shuttlerun-${Stage}
 
   Lambda:
     Type : AWS::Lambda::Function
     Properties:
       FunctionName: !Sub editors-picks-uploader-${Stage}
+      Environment:
+        Variables:
+          awsRegion: !Ref AWS::Region
+          awsCmsFrontSTSRoleArn: !Ref CMSFrontsRoleArn
+          awsTopicArn: !Ref NotificationsTopic
+          nextgenApiUrl: !Ref NextgenApiUrl
+          stage: !Ref Stage
       Code:
         S3Bucket: content-api-dist
         S3Key: !Sub content-api/${Stage}/editors-picks-uploader/editors-picks-uploader.zip
