@@ -9,13 +9,13 @@ import com.gu.contentapi.Config
 
 import scala.util.Try
 
-class SNS(val config: Config) {
+object SNS {
 
   private val snsClient: AmazonSNSClient = {
 
     val snsClientConfiguration = new ClientConfiguration().withConnectionTimeout(20000).withSocketTimeout(20000)
     val snsClient = new AmazonSNSClient(snsClientConfiguration)
-    snsClient.setRegion(config.aws.region)
+    snsClient.setRegion(Config.aws.region)
     snsClient
   }
 

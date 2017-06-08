@@ -12,7 +12,7 @@ import scala.concurrent.duration._
 import scala.concurrent.Await
 import scala.concurrent.ExecutionContext.Implicits.global
 
-class Facia(config: Config) {
+object Facia {
 
   private val FaciaBucket = "facia-tool-store"
 
@@ -20,12 +20,12 @@ class Facia(config: Config) {
 
     val cmsFrontsCredentials = new AWSCredentialsProviderChain(
       new ProfileCredentialsProvider("cmsFronts"),
-      new STSAssumeRoleSessionCredentialsProvider(config.aws.cmsFrontSTSRoleArn, "frontend")
+      new STSAssumeRoleSessionCredentialsProvider(Config.aws.cmsFrontSTSRoleArn, "frontend")
     )
 
     val client = new AmazonS3Client(cmsFrontsCredentials)
-    client.setEndpoint(config.aws.region.getServiceEndpoint("s3"))
-    ApiClient(FaciaBucket, config.stage.toUpperCase, AmazonSdkS3Client(client))
+    client.setEndpoint(Config.aws.region.getServiceEndpoint("s3"))
+    ApiClient(FaciaBucket, Config.stage.toUpperCase, AmazonSdkS3Client(client))
   }
 
   def fronts = {
@@ -33,8 +33,8 @@ class Facia(config: Config) {
       .filter { case (_, v) => !v.isHidden.getOrElse(false) }.keySet.toSeq
   }
 
-  def collections(front: String)(config: Config): Option[JsArray] = {
-    val response: Response = Http.get(s"${config.nextGenApiUrl}$front/lite.json")
+  def collections(front: String): Option[JsArray] = {
+    val response: Response = Http.get(s"${Config.nextGenApiUrl}$front/lite.json")
 
     if (response.code == 200) {
       (Json.parse(response.body.byteStream) \ "collections").asOpt[JsArray]
