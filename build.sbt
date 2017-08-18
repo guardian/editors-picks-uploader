@@ -5,7 +5,7 @@ scalaVersion  := "2.11.8"
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-target:jvm-1.8", "-Xfatal-warnings")
 name := "editors-picks-uploader"
 
-lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
+lazy val editorsPicksUploader = (project in file(".")).enablePlugins(RiffRaffArtifact, JavaAppPackaging)
 
 val AwsSdkVersion = "1.10.74"
 
@@ -22,7 +22,7 @@ libraryDependencies ++= Seq(
 topLevelDirectory in Universal := None
 packageName in Universal := normalizedName.value
 
-riffRaffPackageName := "editors-picks-uploader"
+riffRaffManifestProjectName := s"Content Platform::${name.value}"
 riffRaffPackageType := (packageBin in Universal).value
 riffRaffUploadArtifactBucket := Option("riffraff-artifact")
 riffRaffUploadManifestBucket := Option("riffraff-builds")
