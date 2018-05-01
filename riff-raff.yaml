@@ -1,0 +1,18 @@
+
+stacks:
+- content-api
+regions:
+- eu-west-1
+deployments:
+  editors-picks-uploader:
+    type: aws-lambda
+    parameters:
+      fileName: editors-picks-uploader.zip
+      bucket: content-api-dist
+      functions:
+        CODE: 
+          name: editors-picks-uploader-CODE
+          filename: editors-picks-uploader.zip
+        PROD:
+          name: editors-picks-uploader-PROD
+          filename: editors-picks-uploader.zip
