@@ -22,7 +22,7 @@ libraryDependencies ++= Seq(
 topLevelDirectory in Universal := None
 packageName in Universal := normalizedName.value
 
-riffRaffManifestProjectName := s"Content Platforms::${name}::editors-picks-uploader-lambda"
+riffRaffManifestProjectName := s"Content Platforms::editors-picks-uploader-lambda"
 riffRaffPackageName := "editors-picks-uploader"
 riffRaffPackageType := (packageBin in Universal).value
 riffRaffUploadArtifactBucket := Option("riffraff-artifact")
