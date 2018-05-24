@@ -2,7 +2,8 @@ package com.gu.contentapi.services
 
 import com.amazonaws.auth.{ AWSCredentialsProviderChain, STSAssumeRoleSessionCredentialsProvider }
 import com.amazonaws.auth.profile.ProfileCredentialsProvider
-import com.amazonaws.services.s3.AmazonS3Client
+import com.amazonaws.client.builder.AwsClientBuilder.EndpointConfiguration
+import com.amazonaws.services.s3.AmazonS3ClientBuilder
 import com.gu.contentapi.Config
 import com.gu.facia.client.{ AmazonSdkS3Client, ApiClient }
 import com.squareup.okhttp.Response
@@ -20,11 +21,13 @@ object Facia {
 
     val cmsFrontsCredentials = new AWSCredentialsProviderChain(
       new ProfileCredentialsProvider("cmsFronts"),
-      new STSAssumeRoleSessionCredentialsProvider(Config.aws.cmsFrontSTSRoleArn, "frontend")
-    )
+      new STSAssumeRoleSessionCredentialsProvider.Builder(Config.aws.cmsFrontSTSRoleArn, "frontend").build)
 
-    val client = new AmazonS3Client(cmsFrontsCredentials)
-    client.setEndpoint(Config.aws.region.getServiceEndpoint("s3"))
+    val client = AmazonS3ClientBuilder.standard()
+      .withCredentials(cmsFrontsCredentials)
+      .withEndpointConfiguration(new EndpointConfiguration(Config.aws.region.getServiceEndpoint("s3"), Config.aws.region.getName))
+      .build
+
     ApiClient(FaciaBucket, Config.stage.toUpperCase, AmazonSdkS3Client(client))
   }
 

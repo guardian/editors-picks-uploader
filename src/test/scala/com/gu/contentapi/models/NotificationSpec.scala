@@ -17,9 +17,7 @@ class NotificationSpec extends FlatSpec with Matchers {
         version = 1,
         `type` = "indexable-editors-picks",
         timestamp = now,
-        body = NotificationBody("uk", "Document", "editors-picks", Item("uk", JsArray()))
-      )
-    )
+        body = NotificationBody("uk", "Document", "editors-picks", Item("uk", JsArray()))))
 
     DateTimeUtils.setCurrentMillisSystem()
   }

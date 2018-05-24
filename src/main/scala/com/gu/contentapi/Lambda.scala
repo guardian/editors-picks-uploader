@@ -10,7 +10,7 @@ import play.api.libs.json.Json
 import scala.util.{ Failure, Success }
 
 class Lambda
-    extends RequestHandler[JMap[String, Object], Unit] {
+  extends RequestHandler[JMap[String, Object], Unit] {
 
   override def handleRequest(event: JMap[String, Object], context: Context): Unit = {
 
