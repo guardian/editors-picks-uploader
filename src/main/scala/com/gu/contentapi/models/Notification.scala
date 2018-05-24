@@ -1,6 +1,8 @@
 package com.gu.contentapi.models
 
 import org.joda.time.DateTime
+import play.api.libs.json.JodaReads._
+import play.api.libs.json.JodaWrites._
 import play.api.libs.json.{ JsValue, Json }
 
 case class Item(id: String, content: JsValue)
@@ -13,8 +15,7 @@ case class NotificationBody(
   id: String,
   bodyType: String = "Document",
   itemType: String,
-  item: Item
-)
+  item: Item)
 
 object NotificationBody {
   implicit def NotificationBodyFormats = Json.format[NotificationBody]
@@ -24,8 +25,7 @@ case class Notification(
   version: Int = 1,
   `type`: String,
   timestamp: DateTime = new DateTime,
-  body: NotificationBody
-)
+  body: NotificationBody)
 
 object Notification {
 

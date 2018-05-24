@@ -1,9 +1,7 @@
 package com.gu.contentapi.services
 
-import com.amazonaws.auth.{ AWSCredentialsProviderChain, InstanceProfileCredentialsProvider }
-import com.amazonaws.auth.profile.ProfileCredentialsProvider
-import com.amazonaws.services.s3.AmazonS3Client
+import com.amazonaws.services.s3.{ AmazonS3, AmazonS3ClientBuilder }
 
 object S3 {
-  val client: AmazonS3Client = new AmazonS3Client()
+  val client: AmazonS3 = AmazonS3ClientBuilder.defaultClient
 }

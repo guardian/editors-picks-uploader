@@ -1,22 +1,23 @@
 organization  := "com.gu"
 description   := "AWS Lambda uploading editors picks from Facia to CAPI"
 scalacOptions += "-deprecation"
-scalaVersion  := "2.11.8"
+scalaVersion  := "2.12.6"
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-target:jvm-1.8", "-Xfatal-warnings")
 name := "editors-picks-uploader"
 
 lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
 
-val AwsSdkVersion = "1.10.74"
+val AwsSdkVersion = "1.11.335"
 
 libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-lambda-java-core" % "1.1.0",
   "com.amazonaws" % "aws-java-sdk-sts" % AwsSdkVersion,
   "com.amazonaws" % "aws-java-sdk-s3" % AwsSdkVersion,
   "com.amazonaws" % "aws-java-sdk-sns" % AwsSdkVersion,
-  "com.gu" %% "facia-json-play25" % "2.0.1",
+  "com.gu" %% "facia-json-play26" % "2.6.0",
+  "com.typesafe.play" %% "play-json-joda" % "2.6.9",
   "com.squareup.okhttp" % "okhttp" % "2.5.0",
-  "org.scalatest" %% "scalatest" % "2.2.5" % "test"
+  "org.scalatest" %% "scalatest" % "3.0.5" % "test"
 )
 
 topLevelDirectory in Universal := None
