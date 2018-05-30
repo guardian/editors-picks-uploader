@@ -12,6 +12,9 @@ Parameters:
   NextgenApiUrl:
     Description: 'URL of nextgen api'
     Type: String
+  AlarmTopic:
+    Description: The SNS topic that urgent CloudWatch alarms publish to
+    Type: String
 
 Resources:
   RootRole:
@@ -55,6 +58,25 @@ Resources:
     Properties:
       TopicName: !Sub content-api-notifications-shuttlerun-${Stage}
 
+  SNSAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmDescription: Alarm when no messages for 10mins
+      Namespace: AWS/SNS
+      MetricName: NumberOfMessagesPublished
+      Dimensions:
+        - Name: TopicName
+          Value: !GetAtt NotificationsTopic.TopicName
+      Statistic: Sum
+      Period: 300
+      EvaluationPeriods: 2
+      Threshold: 0
+      ComparisonOperator: LessThanOrEqualToThreshold
+      AlarmActions:
+        - Ref: AlarmTopic
+      InsufficientDataActions:
+        - Ref: AlarmTopic
+
   Lambda:
     Type : AWS::Lambda::Function
     Properties:
@@ -71,7 +93,7 @@ Resources:
         S3Key: !Sub content-api/${Stage}/editors-picks-uploader/editors-picks-uploader.zip
       Description: 'Editors picks uploader - retrieves and uploads editors picks for consumption by the Content API'
       Handler : com.gu.contentapi.Lambda::handleRequest
-      MemorySize : 256
+      MemorySize : 320
       Role: !GetAtt RootRole.Arn
       Runtime : java8
       Timeout : 180
