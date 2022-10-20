@@ -8,7 +8,7 @@ deployments:
     type: aws-lambda
     parameters:
       fileName: editors-picks-uploader.zip
-      bucket: content-api-dist
+      bucketSsmLookup: true
       functions:
         CODE: 
           name: editors-picks-uploader-CODE
