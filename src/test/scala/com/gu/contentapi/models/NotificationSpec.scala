@@ -1,10 +1,11 @@
 package com.gu.contentapi.models
 
 import org.joda.time.{ DateTime, DateTimeUtils }
-import org.scalatest.{ FlatSpec, Matchers }
+import org.scalatest.flatspec.AnyFlatSpec
+import org.scalatest.matchers.should.Matchers
 import play.api.libs.json.{ JsArray }
 
-class NotificationSpec extends FlatSpec with Matchers {
+class NotificationSpec extends AnyFlatSpec with Matchers {
 
   it should "Create a notification" in {
     val now = new DateTime
