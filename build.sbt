@@ -2,7 +2,7 @@ organization  := "com.gu"
 description   := "AWS Lambda uploading editors picks from Facia to CAPI"
 scalacOptions += "-deprecation"
 scalaVersion  := "2.13.10"
-scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-release", "8", "-Xfatal-warnings")
+scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-Xfatal-warnings")
 name := "editors-picks-uploader"
 
 lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
@@ -36,6 +36,6 @@ riffRaffUploadManifestBucket := Option("riffraff-builds")
 
 initialize := {
   val _ = initialize.value
-  assert(sys.props("java.specification.version") == "1.8",
-    "Java 8 is required for this project.")
+  assert(sys.props("java.specification.version") == "11",
+    "Java 11 is required for this project.")
 }

@@ -95,5 +95,5 @@ Resources:
       Handler : com.gu.contentapi.Lambda::handleRequest
       MemorySize : 320
       Role: !GetAtt RootRole.Arn
-      Runtime : java8
+      Runtime : java11
       Timeout : 180
