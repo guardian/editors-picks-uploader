@@ -1,11 +1,12 @@
 package com.gu.contentapi.models
 
-import org.scalatest.{ FlatSpec, Matchers }
+import org.scalatest.flatspec.AnyFlatSpec
+import org.scalatest.matchers.should.Matchers
 import play.api.libs.json.{ JsArray, Json }
 
 import scala.io.Source._
 
-class EditorsPickSpec extends FlatSpec with Matchers {
+class EditorsPickSpec extends AnyFlatSpec with Matchers {
 
   it should "create an editors pick with the correct number of content items" in {
     val front = "uk"

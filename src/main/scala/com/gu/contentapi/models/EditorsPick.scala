@@ -10,7 +10,7 @@ object EditorsPick {
     val first25ContentItemsFromAllCollections: Seq[JsValue] =
       collections.value
         .flatMap(c => (c \ "content").asOpt[JsArray].map(_.value))
-        .flatten.take(25)
+        .flatten.take(25).toSeq
 
     EditorsPick(front, first25ContentItemsFromAllCollections)
   }
