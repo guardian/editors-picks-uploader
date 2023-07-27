@@ -5,7 +5,7 @@ scalaVersion  := "2.13.10"
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-Xfatal-warnings")
 name := "editors-picks-uploader"
 
-lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging, RiffRaffArtifact)
+lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging)
 
 val AwsSdkVersion = "1.12.261"
 
@@ -28,14 +28,11 @@ dependencyOverrides ++=  Seq(
 Universal / topLevelDirectory := None
 Universal / packageName  := normalizedName.value
 
-riffRaffManifestProjectName := s"Content Platforms::editors-picks-uploader-lambda"
-riffRaffPackageName := "editors-picks-uploader"
-riffRaffPackageType := (Universal / packageBin).value
-riffRaffUploadArtifactBucket := Option("riffraff-artifact")
-riffRaffUploadManifestBucket := Option("riffraff-builds")
-
 initialize := {
   val _ = initialize.value
   assert(sys.props("java.specification.version") == "11",
     "Java 11 is required for this project.")
 }
+
+
+Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"))
