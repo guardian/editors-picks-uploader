@@ -7,7 +7,7 @@ name := "editors-picks-uploader"
 
 lazy val editorsPicksUploader = (project in file(".")).enablePlugins(JavaAppPackaging)
 
-val AwsSdkVersion = "1.12.261"
+val AwsSdkVersion = "1.12.641"
 
 libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-lambda-java-core" % "1.2.2",
