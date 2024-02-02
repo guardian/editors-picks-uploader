@@ -14,10 +14,10 @@ libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-java-sdk-sts" % AwsSdkVersion,
   "com.amazonaws" % "aws-java-sdk-s3" % AwsSdkVersion,
   "com.amazonaws" % "aws-java-sdk-sns" % AwsSdkVersion,
-  "com.gu" %% "facia-json-play27" % "4.0.5",
+  "com.gu" %% "facia-json-play28" % "4.0.6",
   "com.typesafe.play" %% "play-json-joda" % "2.9.4",
   "com.squareup.okhttp" % "okhttp" % "2.7.5",
-  "org.scalatest" %% "scalatest" % "3.2.15" % "test"
+  "org.scalatest" %% "scalatest" % "3.2.15" % Test
 )
 
 dependencyOverrides ++=  Seq(
