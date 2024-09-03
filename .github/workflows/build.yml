@@ -34,7 +34,7 @@ jobs:
         with:
           files: junit-tests/*.xml
 
-      - uses: aws-actions/configure-aws-credentials@v3
+      - uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-region: eu-west-1
           role-to-assume: ${{secrets.GU_RIFF_RAFF_ROLE_ARN}}
