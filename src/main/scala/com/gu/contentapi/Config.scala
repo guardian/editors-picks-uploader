@@ -1,6 +1,6 @@
 package com.gu.contentapi
 
-import com.amazonaws.regions.{ Region, Regions }
+import com.amazonaws.regions.{ RegionUtils }
 
 object Config {
 
@@ -16,7 +16,7 @@ object Config {
 
     val region = {
       val region = sys.env.getOrElse("awsRegion", "eu-west-1")
-      Region.getRegion(Regions.fromName(region))
+      RegionUtils.getRegion(region)
     }
 
     val topicArn = sys.env.getOrElse("awsTopicArn", sys.error("Could not find awsTopicArn variable - Lambda will not run."))
