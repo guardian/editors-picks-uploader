@@ -40,9 +40,12 @@ object Facia {
     val response: Response = Http.get(s"${Config.nextGenApiUrl}$front/lite.json")
 
     if (response.code == 200) {
-      (Json.parse(response.body.byteStream) \ "collections").asOpt[JsArray]
+      val parsedResponse: Option[JsArray] = (Json.parse(response.body.byteStream) \ "collections").asOpt[JsArray]
+      response.body.close()
+      parsedResponse
     } else {
       println(s"Could not retrieve editors picks for front: $front")
+      response.body.close()
       None
     }
   }
