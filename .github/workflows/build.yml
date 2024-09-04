@@ -34,14 +34,11 @@ jobs:
         with:
           files: junit-tests/*.xml
 
-      - uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-region: eu-west-1
-          role-to-assume: ${{secrets.GU_RIFF_RAFF_ROLE_ARN}}
-
-      - uses: guardian/actions-riff-raff@v2
+      - uses: guardian/actions-riff-raff@v4
         with:
           configPath: riff-raff.yaml
+          roleArn: ${{ secrets.GU_RIFF_RAFF_ROLE_ARN }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           projectName: Content Platforms::editors-picks-uploader-lambda
           buildNumberOffset: 71
           contentDirectories: |
