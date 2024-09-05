@@ -28,4 +28,4 @@ dependencyOverrides ++=  Seq(
 Universal / topLevelDirectory := None
 Universal / packageName  := normalizedName.value
 
-Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"))
+Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"), "-o")
