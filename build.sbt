@@ -1,7 +1,7 @@
 organization  := "com.gu"
 description   := "AWS Lambda uploading editors picks from Facia to CAPI"
 scalacOptions += "-deprecation"
-scalaVersion  := "2.13.10"
+scalaVersion  := "2.13.14"
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-Xfatal-warnings")
 name := "editors-picks-uploader"
 

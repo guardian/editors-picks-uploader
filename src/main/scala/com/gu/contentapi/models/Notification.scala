@@ -4,11 +4,12 @@ import org.joda.time.DateTime
 import play.api.libs.json.JodaReads._
 import play.api.libs.json.JodaWrites._
 import play.api.libs.json.{ JsValue, Json }
+import play.api.libs.json.OFormat
 
 case class Item(id: String, content: JsValue)
 
 object Item {
-  implicit def ItemFormats = Json.format[Item]
+  implicit def ItemFormats: OFormat[Item] = Json.format[Item]
 }
 
 case class NotificationBody(
@@ -18,7 +19,7 @@ case class NotificationBody(
   item: Item)
 
 object NotificationBody {
-  implicit def NotificationBodyFormats = Json.format[NotificationBody]
+  implicit def NotificationBodyFormats: OFormat[NotificationBody] = Json.format[NotificationBody]
 }
 
 case class Notification(
@@ -29,7 +30,7 @@ case class Notification(
 
 object Notification {
 
-  implicit def NotificationFormats = Json.format[Notification]
+  implicit def NotificationFormats: OFormat[Notification] = Json.format[Notification]
 
   def create(editorsPick: EditorsPick): Notification = {
     val id = editorsPick.front
