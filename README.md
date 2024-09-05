@@ -13,3 +13,6 @@ If editors picks data is not updating in capi then it's because either:
 
 In both cases you can check the status of these metrics from the cloudwatch console.
 
+# Dev setup
+
+Note that this app runs on Java 11 – please set your JAVA_HOME accordingly (or use [asdf](https://asdf-vm.com/) or [sdkman](https://sdkman.io/)).
