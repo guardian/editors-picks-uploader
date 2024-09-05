@@ -17,7 +17,7 @@ libraryDependencies ++= Seq(
   "com.gu" %% "facia-json-play30" % "9.0.0",
   "com.typesafe.play" %% "play-json-joda" % "2.10.6",
   "com.squareup.okhttp" % "okhttp" % "2.7.5",
-  "org.scalatest" %% "scalatest" % "3.2.15" % "test"
+  "org.scalatest" %% "scalatest" % "3.2.19" % "test"
 )
 
 dependencyOverrides ++=  Seq(
