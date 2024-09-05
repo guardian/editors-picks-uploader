@@ -28,11 +28,4 @@ dependencyOverrides ++=  Seq(
 Universal / topLevelDirectory := None
 Universal / packageName  := normalizedName.value
 
-initialize := {
-  val _ = initialize.value
-  assert(sys.props("java.specification.version") == "11",
-    "Java 11 is required for this project.")
-}
-
-
 Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"))
