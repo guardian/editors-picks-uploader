@@ -15,7 +15,7 @@ libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-java-sdk-s3" % AwsSdkVersion,
   "com.amazonaws" % "aws-java-sdk-sns" % AwsSdkVersion,
   "com.gu" %% "facia-json-play30" % "9.0.0",
-  "com.typesafe.play" %% "play-json-joda" % "2.10.6",
+  "org.playframework" %% "play-json-joda" % "3.0.4",
   "com.squareup.okhttp" % "okhttp" % "2.7.5",
   "org.scalatest" %% "scalatest" % "3.2.19" % "test"
 )
