@@ -21,7 +21,7 @@ libraryDependencies ++= Seq(
 )
 
 dependencyOverrides ++=  Seq(
-  "com.fasterxml.jackson.core" % "jackson-databind" % "2.15.4",
+  "com.fasterxml.jackson.core" % "jackson-databind" % "2.20.1",
   "com.fasterxml.jackson.dataformat"  % "jackson-dataformat-cbor" % "2.15.4"
 )
 
