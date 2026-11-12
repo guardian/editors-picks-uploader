@@ -32,6 +32,7 @@ dependencyOverrides ++=  Seq(
 Universal / topLevelDirectory := None
 // Keep the binary-compatible Okio 1.x line required by OkHttp 2.
 dependencyOverrides += "com.squareup.okio" % "okio" % "1.17.6"
+dependencyOverrides += "commons-io" % "commons-io" % "2.14.0"
 
 Universal / packageName  := normalizedName.value
 
