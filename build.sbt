@@ -30,6 +30,9 @@ dependencyOverrides ++=  Seq(
 )
 
 Universal / topLevelDirectory := None
+// Keep the binary-compatible Okio 1.x line required by OkHttp 2.
+dependencyOverrides += "com.squareup.okio" % "okio" % "1.17.6"
+
 Universal / packageName  := normalizedName.value
 
 Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"), "-o")
