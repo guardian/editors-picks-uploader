@@ -21,11 +21,19 @@ libraryDependencies ++= Seq(
 )
 
 dependencyOverrides ++=  Seq(
-  "com.fasterxml.jackson.core" % "jackson-databind" % "2.15.4",
-  "com.fasterxml.jackson.dataformat"  % "jackson-dataformat-cbor" % "2.15.4"
+  "com.fasterxml.jackson.core" % "jackson-core" % "2.18.11",
+  "com.fasterxml.jackson.core" % "jackson-databind" % "2.18.11",
+  "com.fasterxml.jackson.core" % "jackson-annotations" % "2.18.11",
+  "com.fasterxml.jackson.datatype" % "jackson-datatype-jdk8" % "2.18.11",
+  "com.fasterxml.jackson.datatype" % "jackson-datatype-jsr310" % "2.18.11",
+  "com.fasterxml.jackson.dataformat"  % "jackson-dataformat-cbor" % "2.18.11"
 )
 
 Universal / topLevelDirectory := None
+// Keep the binary-compatible Okio 1.x line required by OkHttp 2.
+dependencyOverrides += "com.squareup.okio" % "okio" % "1.17.6"
+dependencyOverrides += "commons-io" % "commons-io" % "2.14.0"
+
 Universal / packageName  := normalizedName.value
 
 Test / testOptions += Tests.Argument(TestFrameworks.ScalaTest, "-u", sys.env.getOrElse("SBT_JUNIT_OUTPUT", "junit"), "-o")
